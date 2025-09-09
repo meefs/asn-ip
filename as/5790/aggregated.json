@@ -1,7 +1,6 @@
 {
   "asn": 5790,
   "handle": "NETMARKET",
-  "description": "Trilegiant Corporation",
   "subnets": {
     "ipv4": [
       "63.210.230.0/24",

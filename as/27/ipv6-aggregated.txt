@@ -1,5 +1,4 @@
 # AS27 (UMDNET)
-# University of Maryland
 #
 2605:880::/47
 2605:880:10::/48

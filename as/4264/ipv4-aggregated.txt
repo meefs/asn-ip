@@ -1,5 +1,4 @@
 # AS4264 (CERNET-ASN-BLOCK)
-# California Education and Research Federation Network
 #
 12.67.1.0/24
 12.130.80.0/21

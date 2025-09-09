@@ -1,7 +1,6 @@
 {
   "asn": 30581,
   "handle": "SUNOAKI-NET",
-  "description": "Sunoaki Network LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": [

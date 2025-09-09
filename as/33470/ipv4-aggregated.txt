@@ -1,5 +1,4 @@
 # AS33470 (CANBYTELEPHONEASSOCIATION)
-# Canby Telephone Association
 #
 64.28.232.0/22
 65.182.224.0/19

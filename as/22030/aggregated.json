@@ -1,7 +1,6 @@
 {
   "asn": 22030,
   "handle": "ZIPCON-AS-1",
-  "description": "Zipcon LLC",
   "subnets": {
     "ipv4": [
       "38.246.122.0/23"

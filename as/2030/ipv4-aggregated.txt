@@ -1,5 +1,4 @@
 # AS2030 (TBCASN2)
-# The Boeing Company
 #
 192.48.15.0/24
 192.48.18.0/23

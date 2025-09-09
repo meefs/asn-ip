@@ -1,3 +1,2 @@
 # AS11787 (PACOURTS-AS)
-# Supreme Court of Pennsylvania
 #

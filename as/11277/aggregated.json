@@ -1,7 +1,6 @@
 {
   "asn": 11277,
   "handle": "NISOURCE-CORPORATE-SERVICES-COMPANY",
-  "description": "NiSource Corporate Services Company",
   "subnets": {
     "ipv4": [
       "198.62.227.0/24",

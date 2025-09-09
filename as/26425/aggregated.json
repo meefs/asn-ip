@@ -1,7 +1,6 @@
 {
   "asn": 26425,
   "handle": "EXELON-CORPORATION",
-  "description": "Exelon Corporation",
   "subnets": {
     "ipv4": [
       "159.214.124.0/24",

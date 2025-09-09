@@ -1,7 +1,6 @@
 {
   "asn": 36048,
   "handle": "BERRYCOMM",
-  "description": "Berry-IT Incorporated",
   "subnets": {
     "ipv4": [
       "38.86.70.0/23",

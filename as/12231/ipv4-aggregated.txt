@@ -1,5 +1,4 @@
 # AS12231 (CONWAYCORP)
-# Conway Corporation
 #
 24.144.0.0/18
 38.87.176.0/20

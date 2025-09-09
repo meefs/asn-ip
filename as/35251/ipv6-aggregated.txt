@@ -1,3 +1,2 @@
 # AS35251 (ANTI-DDOS)
-# NetLab Global
 #

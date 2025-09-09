@@ -1,7 +1,6 @@
 {
   "asn": 33403,
   "handle": "HEIYO-TELECOM",
-  "description": "HEIYO CLOUD CORP",
   "subnets": {
     "ipv4": [
       "128.254.242.0/24"

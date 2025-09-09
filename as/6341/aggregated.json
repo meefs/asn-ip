@@ -1,7 +1,6 @@
 {
   "asn": 6341,
   "handle": "WEC",
-  "description": "WEC Business Services LLC",
   "subnets": {
     "ipv4": [
       "156.76.0.0/20",

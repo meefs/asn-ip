@@ -1,4 +1,3 @@
 # AS27533 (OMGEO)
-# Depository Trust & Clearing Corporation
 #
 167.188.30.0/23

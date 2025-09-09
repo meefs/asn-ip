@@ -1,7 +1,6 @@
 {
   "asn": 18894,
   "handle": "SPRINGHILL-MH1",
-  "description": "Springhill Memorial Hospital",
   "subnets": {
     "ipv4": [],
     "ipv6": []

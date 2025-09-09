@@ -1,5 +1,4 @@
 # AS36242 (NFLLC-EQUINIX-ED)
-# Network Foundations LLC
 #
 170.75.196.0/23
 208.78.36.0/24

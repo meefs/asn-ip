@@ -1,5 +1,4 @@
 # AS32746 (CDI)
-# Computer Design & Integration LLC
 #
 8.18.51.0/24
 8.21.234.0/24

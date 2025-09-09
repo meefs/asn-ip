@@ -1,3 +1,2 @@
 # AS33372 (SPARTAN-AS)
-# Spartan Stores Inc
 #

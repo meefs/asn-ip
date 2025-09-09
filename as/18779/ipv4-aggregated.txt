@@ -1,5 +1,4 @@
 # AS18779 (EGIHOSTING)
-# EGIHosting
 #
 23.27.3.0/24
 23.27.144.0/22

@@ -1,7 +1,6 @@
 {
   "asn": 19502,
   "handle": "SLICC-01",
-  "description": "SLICC Internet",
   "subnets": {
     "ipv4": [
       "23.189.16.0/24"

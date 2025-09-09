@@ -1,5 +1,4 @@
 # AS210 (WEST-NET-WEST)
-# Utah Education Network
 #
 134.250.0.0/16
 137.190.0.0/16

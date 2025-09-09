@@ -1,4 +1,3 @@
 # AS26981 (GLM-MEDIA)
-# Glm Media
 #
 66.129.47.0/24

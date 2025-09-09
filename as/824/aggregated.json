@@ -1,7 +1,6 @@
 {
   "asn": 824,
   "handle": "GLAXOSMITHKLINE",
-  "description": "GlaxoSmithKline",
   "subnets": {
     "ipv4": [
       "145.240.6.0/23"

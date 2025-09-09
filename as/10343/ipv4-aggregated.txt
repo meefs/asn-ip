@@ -1,5 +1,4 @@
 # AS10343 (AS10343)
-# National Aeronautics and Space Administration
 #
 129.99.0.0/16
 192.92.164.0/22

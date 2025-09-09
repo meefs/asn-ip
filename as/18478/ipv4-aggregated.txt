@@ -1,4 +1,3 @@
 # AS18478 (NATAL-MED)
-# Mednax Services Inc
 #
 205.196.24.0/22

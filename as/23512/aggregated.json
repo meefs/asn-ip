@@ -1,7 +1,6 @@
 {
   "asn": 23512,
   "handle": "RGTS-SJ",
-  "description": "ConvergeOne Unified Technology Solutions Inc",
   "subnets": {
     "ipv4": [
       "63.117.210.0/24"

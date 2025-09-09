@@ -1,3 +1,2 @@
 # AS18610 (SEQUOIA-AS)
-# Sequoia Capital
 #

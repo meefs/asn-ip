@@ -1,7 +1,6 @@
 {
   "asn": 17330,
   "handle": "FIREEYE-AS",
-  "description": "Trellix",
   "subnets": {
     "ipv4": [
       "199.16.196.0/22"

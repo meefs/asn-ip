@@ -1,5 +1,4 @@
 # AS2641 (TSRI-AS)
-# The Scripps Research Institute
 #
 192.26.250.0/24
 192.26.252.0/23

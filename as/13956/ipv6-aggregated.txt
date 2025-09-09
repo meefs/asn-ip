@@ -1,4 +1,3 @@
 # AS13956 (RGTC-1)
-# Richland-Grant Telephone Cooperative Inc
 #
 2602:fa24::/40

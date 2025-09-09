@@ -1,7 +1,6 @@
 {
   "asn": 30533,
   "handle": "THEBOE-30533",
-  "description": "The Boeing Company",
   "subnets": {
     "ipv4": [
       "216.65.228.0/24",

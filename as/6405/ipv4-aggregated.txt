@@ -1,5 +1,4 @@
 # AS6405 (AIN)
-# American Information Network
 #
 38.100.56.0/22
 45.59.151.0/24

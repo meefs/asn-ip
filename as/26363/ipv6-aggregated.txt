@@ -1,3 +1,2 @@
 # AS26363 (MEDTRONIC-AS-2)
-# Medtronic Incorporated
 #

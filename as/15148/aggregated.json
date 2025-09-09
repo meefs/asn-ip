@@ -1,7 +1,6 @@
 {
   "asn": 15148,
   "handle": "BLACKBAUD-ASN",
-  "description": "Blackbaud Inc",
   "subnets": {
     "ipv4": [
       "74.123.152.0/22",

@@ -1,7 +1,6 @@
 {
   "asn": 27218,
   "handle": "INFINITUM-NIHIL",
-  "description": "INFINITUM NIHIL",
   "subnets": {
     "ipv4": [
       "192.30.120.0/23"

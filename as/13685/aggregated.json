@@ -1,7 +1,6 @@
 {
   "asn": 13685,
   "handle": "ASN-RCSD-01",
-  "description": "Rochester City School District",
   "subnets": {
     "ipv4": [
       "23.190.208.0/24",

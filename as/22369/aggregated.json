@@ -1,7 +1,6 @@
 {
   "asn": 22369,
   "handle": "ONEMIND-01",
-  "description": "Cloudmylab.com",
   "subnets": {
     "ipv4": [
       "38.65.28.0/24",

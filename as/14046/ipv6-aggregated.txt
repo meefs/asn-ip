@@ -1,3 +1,2 @@
 # AS14046 (KCOL)
-# Indiana Telephone Network
 #

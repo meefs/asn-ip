@@ -1,3 +1,2 @@
 # AS18691 (ASN-BN-ARVADA)
-# Barber-Nichols LLC
 #

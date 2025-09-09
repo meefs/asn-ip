@@ -1,7 +1,6 @@
 {
   "asn": 27237,
   "handle": "AHSNET-01",
-  "description": "Ardent Health Services Inc",
   "subnets": {
     "ipv4": [
       "199.248.10.0/24",

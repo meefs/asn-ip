@@ -1,7 +1,6 @@
 {
   "asn": 36351,
   "handle": "SOFTLAYER",
-  "description": "IBM Cloud",
   "subnets": {
     "ipv4": [
       "5.10.96.0/19",

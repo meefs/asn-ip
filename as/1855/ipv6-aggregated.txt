@@ -1,3 +1,2 @@
 # AS1855 (RBT-EDGE)
-# RTX BBN Technologies Inc
 #

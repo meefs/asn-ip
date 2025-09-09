@@ -1,7 +1,6 @@
 {
   "asn": 13998,
   "handle": "SWMED",
-  "description": "University of Texas Southwestern Medical Center",
   "subnets": {
     "ipv4": [
       "129.112.0.0/16",

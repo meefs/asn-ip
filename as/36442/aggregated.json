@@ -1,7 +1,6 @@
 {
   "asn": 36442,
   "handle": "MERCURY-HEALTHCARE",
-  "description": "WebMD LLC",
   "subnets": {
     "ipv4": [
       "192.84.88.0/24"

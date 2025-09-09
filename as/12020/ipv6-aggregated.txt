@@ -1,3 +1,2 @@
 # AS12020 (MHSC-BGP-ASN)
-# Methodist Hospital of Southern California
 #

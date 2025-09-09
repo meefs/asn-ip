@@ -1,7 +1,6 @@
 {
   "asn": 30107,
   "handle": "JSD2",
-  "description": "West Ada School District",
   "subnets": {
     "ipv4": [
       "64.226.154.0/23"

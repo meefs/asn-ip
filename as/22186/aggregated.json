@@ -1,7 +1,6 @@
 {
   "asn": 22186,
   "handle": "CENTURYLINK-LEGACY-EMBARQ-KSGRNR",
-  "description": "CenturyLink Communications LLC",
   "subnets": {
     "ipv4": [
       "76.7.192.0/20",

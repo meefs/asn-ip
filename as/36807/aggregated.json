@@ -1,7 +1,6 @@
 {
   "asn": 36807,
   "handle": "SAINTFRANCIS-TULSA",
-  "description": "Saint Francis Health System",
   "subnets": {
     "ipv4": [
       "209.209.90.0/23"

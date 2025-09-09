@@ -1,7 +1,6 @@
 {
   "asn": 27552,
   "handle": "TWDX",
-  "description": "TowardEX Technologies International Inc",
   "subnets": {
     "ipv4": [
       "69.72.24.0/22",

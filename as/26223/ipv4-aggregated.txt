@@ -1,5 +1,4 @@
 # AS26223 (SILVERSTAR-TELEPHONE)
-# Silver Star Communications
 #
 38.41.64.0/24
 38.41.67.0/24

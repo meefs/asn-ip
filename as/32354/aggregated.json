@@ -1,7 +1,6 @@
 {
   "asn": 32354,
   "handle": "UNWIRED",
-  "description": "Unwired",
   "subnets": {
     "ipv4": [
       "162.244.56.0/21",

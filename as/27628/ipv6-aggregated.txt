@@ -1,4 +1,3 @@
 # AS27628 (INNOVATION-SASK)
-# Innovation Saskatchewan
 #
 2607:ee00::/34

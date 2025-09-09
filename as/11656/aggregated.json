@@ -1,7 +1,6 @@
 {
   "asn": 11656,
   "handle": "MMO-17-44144",
-  "description": "Medical Mutual",
   "subnets": {
     "ipv4": [
       "66.111.16.0/22",

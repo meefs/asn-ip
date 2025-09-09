@@ -1,3 +1,2 @@
 # AS10493 (GCN-AS)
-# Grand Central Networks Inc
 #

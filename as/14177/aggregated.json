@@ -1,7 +1,6 @@
 {
   "asn": 14177,
   "handle": "PACKETXPRESS-NORTEL",
-  "description": "Nortel Networks",
   "subnets": {
     "ipv4": [],
     "ipv6": []

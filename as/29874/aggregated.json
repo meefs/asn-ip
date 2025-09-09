@@ -1,7 +1,6 @@
 {
   "asn": 29874,
   "handle": "CAMBRI-AS1",
-  "description": "Cambridge Associates",
   "subnets": {
     "ipv4": [
       "12.19.209.0/24",

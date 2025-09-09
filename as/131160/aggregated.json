@@ -1,7 +1,7 @@
 {
   "asn": 131160,
-  "handle": "WI2",
-  "description": "Wire and Wireless Co. Ltd",
+  "handle": "RESERVED",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [
       "103.5.140.0/22"

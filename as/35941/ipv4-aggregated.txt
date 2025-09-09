@@ -1,3 +1,2 @@
 # AS35941 (MOSAICDATA-US)
-# Mosaic Data Services Inc
 #

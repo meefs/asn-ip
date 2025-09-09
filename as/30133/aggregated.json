@@ -1,7 +1,6 @@
 {
   "asn": 30133,
   "handle": "ISC-F-AS",
-  "description": "Internet Systems Consortium Inc",
   "subnets": {
     "ipv4": [
       "103.11.221.0/24",

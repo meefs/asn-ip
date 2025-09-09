@@ -1,7 +1,6 @@
 {
   "asn": 19117,
   "handle": "HEAVYCOMPUTING",
-  "description": "Heavy Computing",
   "subnets": {
     "ipv4": [],
     "ipv6": [

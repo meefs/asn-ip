@@ -1,5 +1,4 @@
 # AS1426 (TENSPIRE-NETWORK-1426)
-# TenSpire Network
 #
 45.40.98.0/24
 104.204.252.0/23

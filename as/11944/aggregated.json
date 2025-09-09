@@ -1,7 +1,6 @@
 {
   "asn": 11944,
   "handle": "LTC-1",
-  "description": "LaValle Telephone Cooperative",
   "subnets": {
     "ipv4": [],
     "ipv6": [

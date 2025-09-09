@@ -1,7 +1,6 @@
 {
   "asn": 1968,
   "handle": "UMASSNET-AS1968",
-  "description": "UMASSNET",
   "subnets": {
     "ipv4": [
       "69.16.0.0/17",

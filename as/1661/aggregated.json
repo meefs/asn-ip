@@ -1,7 +1,6 @@
 {
   "asn": 1661,
   "handle": "ANS-ATLANTA",
-  "description": "Verizon Business",
   "subnets": {
     "ipv4": [
       "63.64.24.0/24",

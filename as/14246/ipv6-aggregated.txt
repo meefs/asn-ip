@@ -1,3 +1,2 @@
 # AS14246 (THALESCOMMINC-AS)
-# Thales Communications Inc
 #

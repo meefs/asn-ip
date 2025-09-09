@@ -1,7 +1,6 @@
 {
   "asn": 196,
   "handle": "BOEING196",
-  "description": "The Boeing Company",
   "subnets": {
     "ipv4": [
       "83.210.0.0/16",

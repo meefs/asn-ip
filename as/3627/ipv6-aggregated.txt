@@ -1,3 +1,2 @@
 # AS3627 (NRAO-AS)
-# National Radio Astronomy Observatory
 #

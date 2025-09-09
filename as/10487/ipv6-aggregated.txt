@@ -1,3 +1,2 @@
 # AS10487 (SIMPLENET)
-# Simple Network Communications Inc
 #

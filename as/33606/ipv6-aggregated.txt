@@ -1,4 +1,3 @@
 # AS33606 (C-SPIRE-BUSINESS)
-# TekLinks Inc
 #
 2610:120::/32

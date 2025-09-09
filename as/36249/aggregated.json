@@ -1,7 +1,6 @@
 {
   "asn": 36249,
   "handle": "CIRCLE-K",
-  "description": "Circle K Corporation",
   "subnets": {
     "ipv4": [
       "192.189.253.0/24"

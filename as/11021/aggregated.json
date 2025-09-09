@@ -1,7 +1,6 @@
 {
   "asn": 11021,
   "handle": "NVH-ASN",
-  "description": "North Valley Hospital",
   "subnets": {
     "ipv4": [],
     "ipv6": [

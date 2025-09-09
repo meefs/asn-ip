@@ -1,7 +1,6 @@
 {
   "asn": 31788,
   "handle": "POPPY",
-  "description": "Poppy Inc",
   "subnets": {
     "ipv4": [
       "23.191.136.0/24",

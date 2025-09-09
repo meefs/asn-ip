@@ -1,5 +1,4 @@
 # AS1218 (NCUBE-BELMONT-AS)
-# Oracle Corporation
 #
 2602:fdaa:80::/48
 2603:c0e8::/39

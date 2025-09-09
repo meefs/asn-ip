@@ -1,7 +1,7 @@
 {
   "asn": 18127,
-  "handle": "IBARAKI",
-  "description": "Ibaraki Prefectural Government",
+  "handle": "RESERVED",
+  "description": "JPNIC-2Byte-ASBLOCK-AP",
   "subnets": {
     "ipv4": [
       "219.112.225.0/24",

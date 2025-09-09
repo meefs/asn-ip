@@ -1,7 +1,6 @@
 {
   "asn": 14105,
   "handle": "NO",
-  "description": "Secure IP",
   "subnets": {
     "ipv4": [
       "38.91.103.0/24",

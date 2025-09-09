@@ -1,3 +1,2 @@
 # AS32340 (ZEN-BACKBONE)
-# ZenWalk
 #

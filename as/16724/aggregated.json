@@ -1,7 +1,6 @@
 {
   "asn": 16724,
   "handle": "WOW-DATACENTER-NET",
-  "description": "WideOpenWest Finance LLC",
   "subnets": {
     "ipv4": [
       "38.75.229.0/24",

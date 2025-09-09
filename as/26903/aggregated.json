@@ -1,7 +1,6 @@
 {
   "asn": 26903,
   "handle": "SALISBURY-ASN",
-  "description": "City of Salisbury North Carolina",
   "subnets": {
     "ipv4": [
       "8.33.0.0/24",

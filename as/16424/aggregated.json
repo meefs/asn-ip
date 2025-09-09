@@ -1,7 +1,6 @@
 {
   "asn": 16424,
   "handle": "LBL-ESD",
-  "description": "Linn Benton Lincoln Education Service District",
   "subnets": {
     "ipv4": [
       "167.128.37.0/24"

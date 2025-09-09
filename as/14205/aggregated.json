@@ -1,7 +1,6 @@
 {
   "asn": 14205,
   "handle": "RPAPSL-14205",
-  "description": "Riviera Park Alameda Padre Serra LLC",
   "subnets": {
     "ipv4": [
       "199.217.108.0/22",

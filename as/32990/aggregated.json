@@ -1,7 +1,6 @@
 {
   "asn": 32990,
   "handle": "ECE-FIBER",
-  "description": "East Central Energy",
   "subnets": {
     "ipv4": [
       "108.179.128.0/21",

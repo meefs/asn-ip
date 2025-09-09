@@ -1,3 +1,2 @@
 # AS25711 (VMC-PELLA-AS)
-# Vermeer Manufacturing Company
 #

@@ -1,4 +1,3 @@
 # AS33191 (NOTION)
-# Notion Labs Inc
 #
 208.103.161.0/24

@@ -1,4 +1,3 @@
 # AS22415 (AVANTWIRELESS)
-# AvantWireless LLC
 #
 192.153.5.0/24

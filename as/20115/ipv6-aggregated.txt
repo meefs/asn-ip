@@ -1,5 +1,4 @@
 # AS20115 (CHARTER-20115)
-# Charter Communications LLC
 #
 2600:6c04::/30
 2600:6c08::/30

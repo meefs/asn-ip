@@ -1,7 +1,6 @@
 {
   "asn": 27006,
   "handle": "IMPACTBUSINESS",
-  "description": "Impact Business Solutions",
   "subnets": {
     "ipv4": [
       "199.68.232.0/21",

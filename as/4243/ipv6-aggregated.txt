@@ -1,3 +1,2 @@
 # AS4243 (WELLSFARGO-4243)
-# Wells Fargo & Company
 #

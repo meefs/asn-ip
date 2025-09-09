@@ -1,3 +1,2 @@
 # AS15009 (UNISYSASN15009)
-# Unisys Corporation
 #

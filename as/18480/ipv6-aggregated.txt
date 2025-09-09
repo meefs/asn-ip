@@ -1,3 +1,2 @@
 # AS18480 (GDT-AS)
-# General Datatech LP
 #

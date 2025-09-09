@@ -1,7 +1,6 @@
 {
   "asn": 13920,
   "handle": "CLOUDWISH",
-  "description": "CloudWish LLC",
   "subnets": {
     "ipv4": [
       "104.128.232.0/24"

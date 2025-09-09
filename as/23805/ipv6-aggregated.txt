@@ -1,4 +1,4 @@
-# AS23805 (WATVNET)
-# Watarase Television Co. Ltd
+# AS23805 (RESERVED)
+# APNIC ASN block
 #
 2405:fc80::/32

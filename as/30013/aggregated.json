@@ -1,7 +1,6 @@
 {
   "asn": 30013,
   "handle": "PIXAR-AS",
-  "description": "Pixar",
   "subnets": {
     "ipv4": [
       "138.72.247.0/24",

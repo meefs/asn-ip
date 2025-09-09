@@ -1,5 +1,4 @@
 # AS13517 (BAKER-MCKENZIE)
-# Baker & McKenzie
 #
 63.85.72.0/24
 64.124.189.0/24

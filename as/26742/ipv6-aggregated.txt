@@ -1,3 +1,2 @@
 # AS26742 (MAXNOC-ASN)
-# MaxNOC Communications LLC
 #

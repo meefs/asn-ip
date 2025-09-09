@@ -1,7 +1,6 @@
 {
   "asn": 15333,
   "handle": "AS-ARIN-ZENTOP-APPLE-01",
-  "description": "Apple Network LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": [

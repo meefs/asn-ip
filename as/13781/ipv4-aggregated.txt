@@ -1,5 +1,4 @@
 # AS13781 (ENERGYNET)
-# Hopkinsville Electric System
 #
 8.8.216.0/21
 23.151.24.0/24

@@ -1,4 +1,4 @@
-# AS17961 (MITENE)
+# AS17961 (MITENE-INTERNET)
 # mitene internet co. ltd
 #
 124.241.0.0/18

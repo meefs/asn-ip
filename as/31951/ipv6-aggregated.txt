@@ -1,3 +1,2 @@
 # AS31951 (NASADSN-AS)
-# NASA Deep Space Network (DSN)
 #

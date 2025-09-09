@@ -1,7 +1,6 @@
 {
   "asn": 33559,
   "handle": "NODESDIRECT",
-  "description": "Nodes Direct",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,3 +1,2 @@
 # AS19912 (SKYPACKET-MCKEAN)
-# SkyPacket
 #

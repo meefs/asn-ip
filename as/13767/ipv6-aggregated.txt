@@ -1,5 +1,4 @@
 # AS13767 (DATABANK-DFW)
-# DataBank Holdings Ltd
 #
 2001:430:fff4::/48
 2604:9100::/32

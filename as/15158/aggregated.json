@@ -1,7 +1,6 @@
 {
   "asn": 15158,
   "handle": "ALGOMAU-SSM",
-  "description": "Algoma University",
   "subnets": {
     "ipv4": [
       "199.212.53.0/24",

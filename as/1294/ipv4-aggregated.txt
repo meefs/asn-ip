@@ -1,5 +1,4 @@
 # AS1294 (NTTDATA-SERVICES-AS1)
-# NTT DATA Services Holdings Corporation
 #
 65.207.122.0/24
 66.97.191.0/24

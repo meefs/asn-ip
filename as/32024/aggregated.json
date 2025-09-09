@@ -1,7 +1,6 @@
 {
   "asn": 32024,
   "handle": "BLUEFI-AS-1",
-  "description": "Blueficity",
   "subnets": {
     "ipv4": [
       "104.129.241.0/24"

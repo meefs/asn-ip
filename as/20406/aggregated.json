@@ -1,7 +1,6 @@
 {
   "asn": 20406,
   "handle": "BRASLINK",
-  "description": "Braslink Network Inc",
   "subnets": {
     "ipv4": [
       "204.16.0.0/21"

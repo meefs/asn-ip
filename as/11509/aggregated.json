@@ -1,7 +1,6 @@
 {
   "asn": 11509,
   "handle": "TIERZERO-AS11509",
-  "description": "Tierzero",
   "subnets": {
     "ipv4": [
       "64.239.128.0/18",

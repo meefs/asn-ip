@@ -1,7 +1,6 @@
 {
   "asn": 32000,
   "handle": "AS32000",
-  "description": "Tnet Broadband Internet",
   "subnets": {
     "ipv4": [
       "23.159.184.0/24",

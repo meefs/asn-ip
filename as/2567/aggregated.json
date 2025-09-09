@@ -1,7 +1,6 @@
 {
   "asn": 2567,
   "handle": "SLB-WESTERNGECO-AS",
-  "description": "Schlumberger Limited",
   "subnets": {
     "ipv4": [
       "192.23.7.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 19529,
   "handle": "ROGERS",
-  "description": "RFPT COMPANY LLC",
   "subnets": {
     "ipv4": [
       "207.2.124.0/22"

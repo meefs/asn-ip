@@ -1,3 +1,2 @@
 # AS18512 (YBP-AS)
-# Yankee Book Peddler
 #

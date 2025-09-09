@@ -1,7 +1,6 @@
 {
   "asn": 13830,
   "handle": "NEXRIL",
-  "description": "PureVoltage Hosting Inc",
   "subnets": {
     "ipv4": [
       "142.202.220.0/22",

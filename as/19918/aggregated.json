@@ -1,7 +1,6 @@
 {
   "asn": 19918,
   "handle": "LUCASFILM",
-  "description": "Lucasfilm Ltd. LLC",
   "subnets": {
     "ipv4": [
       "207.174.84.0/22",

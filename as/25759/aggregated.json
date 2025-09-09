@@ -1,7 +1,6 @@
 {
   "asn": 25759,
   "handle": "F4-NETWORKS",
-  "description": "Rozint",
   "subnets": {
     "ipv4": [],
     "ipv6": [

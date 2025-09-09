@@ -1,4 +1,3 @@
 # AS14847 (PECKSERVERS-LLC-IP-ROUTING)
-# Peck Servers LLC
 #
 2602:f6af::/40

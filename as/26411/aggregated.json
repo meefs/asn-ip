@@ -1,7 +1,6 @@
 {
   "asn": 26411,
   "handle": "PRERENDER-NET",
-  "description": "Saas.group LLC",
   "subnets": {
     "ipv4": [
       "103.207.40.0/24",

@@ -1,3 +1,2 @@
 # AS11894 (SERVICE-CREDIT-UNION-11894)
-# Service Credit Union
 #

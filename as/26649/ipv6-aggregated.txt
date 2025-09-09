@@ -1,3 +1,2 @@
 # AS26649 (GDCLSD-AS)
-# General Dynamics Land Systems
 #

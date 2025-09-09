@@ -1,7 +1,6 @@
 {
   "asn": 22303,
   "handle": "NEWPALTZEDU",
-  "description": "State University of New York at New Paltz",
   "subnets": {
     "ipv4": [
       "137.140.0.0/16"

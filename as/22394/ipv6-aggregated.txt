@@ -1,5 +1,4 @@
 # AS22394 (CELLCO)
-# Verizon Business
 #
 2001:4888::/32
 2600:1000::/28

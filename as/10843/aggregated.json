@@ -1,7 +1,6 @@
 {
   "asn": 10843,
   "handle": "AITNET",
-  "description": "Advanced Internet Technologies",
   "subnets": {
     "ipv4": [
       "66.219.96.0/20",

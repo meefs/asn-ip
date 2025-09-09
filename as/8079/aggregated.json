@@ -1,7 +1,6 @@
 {
   "asn": 8079,
   "handle": "HTS",
-  "description": "HIGH-Q TECHNICAL SOLUTIONS",
   "subnets": {
     "ipv4": [
       "23.133.108.0/24"

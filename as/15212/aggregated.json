@@ -1,7 +1,6 @@
 {
   "asn": 15212,
   "handle": "C-SPIRE-WIRELESS",
-  "description": "C Spire",
   "subnets": {
     "ipv4": [
       "50.86.64.0/21",

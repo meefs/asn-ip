@@ -1,7 +1,6 @@
 {
   "asn": 21530,
   "handle": "FISERV-EPF-OMAHA",
-  "description": "Fiserv Solutions LLC",
   "subnets": {
     "ipv4": [
       "216.66.211.0/24"

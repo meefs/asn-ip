@@ -1,5 +1,4 @@
 # AS13524 (ARROW-ELECTRONICS)
-# Arrow Electronics
 #
 63.77.232.0/22
 63.94.171.0/24

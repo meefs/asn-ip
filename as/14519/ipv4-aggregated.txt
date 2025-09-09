@@ -1,5 +1,4 @@
 # AS14519 (APPLIEDI)
-# Applied Innovations Corporation
 #
 64.135.64.0/24
 64.238.36.0/23

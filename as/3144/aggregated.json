@@ -1,7 +1,6 @@
 {
   "asn": 3144,
   "handle": "HEPTA-SKY",
-  "description": "HeptaSky LLC",
   "subnets": {
     "ipv4": [
       "95.135.181.0/24"

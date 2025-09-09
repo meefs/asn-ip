@@ -1,7 +1,6 @@
 {
   "asn": 22687,
   "handle": "L3NET",
-  "description": "L3 NETWORKS INC",
   "subnets": {
     "ipv4": [
       "38.95.98.0/24",

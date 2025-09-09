@@ -1,7 +1,6 @@
 {
   "asn": 29840,
   "handle": "GRAM-NET2",
-  "description": "Grambling State University",
   "subnets": {
     "ipv4": [
       "76.78.86.0/24",

@@ -1,5 +1,4 @@
 # AS13347 (MIDWEST-CABLE)
-# Midwest Cable
 #
 45.58.251.0/24
 67.223.112.0/24

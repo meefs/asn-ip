@@ -1,5 +1,4 @@
 # AS30070 (THE-HERSHEY-COMPANY)
-# The Hershey Company
 #
 168.133.11.0/24
 168.133.64.0/22

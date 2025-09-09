@@ -1,3 +1,2 @@
 # AS12024 (ASN-ACN)
-# Advanced Corporate Network
 #

@@ -1,7 +1,6 @@
 {
   "asn": 17338,
   "handle": "UNITAS-AOS",
-  "description": "Unitas Global",
   "subnets": {
     "ipv4": [
       "68.66.1.0/24",

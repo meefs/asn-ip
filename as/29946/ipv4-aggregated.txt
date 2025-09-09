@@ -1,5 +1,4 @@
 # AS29946 (UNION-CELL)
-# Union Wireless
 #
 38.41.46.0/23
 65.89.172.0/23

@@ -1,4 +1,3 @@
 # AS22339 (UDBQ-1)
-# University of Dubuque
 #
 23.135.164.0/24

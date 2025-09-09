@@ -1,4 +1,3 @@
 # AS14807 (STORMWEB)
-# StormWeb Canada Hosting Inc
 #
 2607:b7c0::/32

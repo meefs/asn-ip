@@ -1,7 +1,6 @@
 {
   "asn": 12116,
   "handle": "FHLB",
-  "description": "Federal Home Loan Bank of Dallas",
   "subnets": {
     "ipv4": [
       "204.75.162.0/24"

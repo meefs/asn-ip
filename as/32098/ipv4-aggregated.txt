@@ -1,5 +1,4 @@
 # AS32098 (TRANSTELCO-INC)
-# Transtelco Inc
 #
 38.51.153.0/24
 38.77.72.0/24

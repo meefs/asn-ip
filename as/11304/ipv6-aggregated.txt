@@ -1,3 +1,2 @@
 # AS11304 (BMH-ASN)
-# Prisma Health
 #

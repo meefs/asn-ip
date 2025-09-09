@@ -1,7 +1,6 @@
 {
   "asn": 36266,
   "handle": "SPL-ASN",
-  "description": "Stonepeak Partners LP",
   "subnets": {
     "ipv4": [
       "38.109.78.0/24"

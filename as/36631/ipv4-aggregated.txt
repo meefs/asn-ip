@@ -1,5 +1,4 @@
 # AS36631 (ZGTLD)
-# VeriSign Global Registry Services
 #
 192.34.234.0/24
 192.81.185.0/24

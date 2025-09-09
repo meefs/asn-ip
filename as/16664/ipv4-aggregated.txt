@@ -1,5 +1,4 @@
 # AS16664 (CC-COMMUNICATIONS)
-# CC Communications
 #
 38.68.96.0/19
 38.94.238.0/23

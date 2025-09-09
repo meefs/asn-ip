@@ -1,5 +1,4 @@
 # AS26538 (SINGLE-DIGITS)
-# Single Digits Inc
 #
 75.102.129.0/24
 75.102.130.0/24

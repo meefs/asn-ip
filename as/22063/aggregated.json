@@ -1,7 +1,6 @@
 {
   "asn": 22063,
   "handle": "JPGT-22063",
-  "description": "J. Paul Getty Trust",
   "subnets": {
     "ipv4": [
       "153.10.0.0/16"

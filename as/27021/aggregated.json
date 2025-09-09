@@ -1,7 +1,6 @@
 {
   "asn": 27021,
   "handle": "AS-DGX",
-  "description": "Quest Diagnostics Inc",
   "subnets": {
     "ipv4": [
       "65.199.254.0/24",

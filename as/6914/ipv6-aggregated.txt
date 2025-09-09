@@ -1,3 +1,2 @@
 # AS6914 (HCSNET-ASNBLK)
-# Hayes Computer Systems
 #

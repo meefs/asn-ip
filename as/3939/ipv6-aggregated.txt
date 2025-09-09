@@ -1,3 +1,2 @@
 # AS3939 (NTTA-3936)
-# NTT America Inc
 #

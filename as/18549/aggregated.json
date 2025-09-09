@@ -1,7 +1,6 @@
 {
   "asn": 18549,
   "handle": "VAULT-HOST-AMS",
-  "description": "Vault Host",
   "subnets": {
     "ipv4": [
       "103.82.234.0/24"

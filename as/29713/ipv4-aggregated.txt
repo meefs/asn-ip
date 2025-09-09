@@ -1,5 +1,4 @@
 # AS29713 (ELIA-60)
-# Reliable Hosting Services
 #
 80.76.44.0/24
 144.172.77.0/24

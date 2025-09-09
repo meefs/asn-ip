@@ -1,5 +1,4 @@
 # AS30455 (HOSTVENOM-LLC)
-# HostVenom LLC
 #
 2602:fed2:7194::/48
 2602:fed2:7e82::/48

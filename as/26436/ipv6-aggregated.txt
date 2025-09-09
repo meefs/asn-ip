@@ -1,3 +1,2 @@
 # AS26436 (IMS-ASN)
-# Inperium Management Services Inc
 #

@@ -1,5 +1,4 @@
 # AS22604 (DSS-MT)
-# Disney Streaming Services
 #
 2405:dc0:8009::/48
 2405:dc0:800a::/48

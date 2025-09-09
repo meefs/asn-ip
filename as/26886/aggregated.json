@@ -1,7 +1,6 @@
 {
   "asn": 26886,
   "handle": "CLOUDOWNER-01",
-  "description": "cloudowner llc",
   "subnets": {
     "ipv4": [
       "23.167.136.0/24"

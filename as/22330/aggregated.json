@@ -1,7 +1,6 @@
 {
   "asn": 22330,
   "handle": "CATALINAMKT",
-  "description": "Catalina Marketing Corporation",
   "subnets": {
     "ipv4": [
       "198.200.236.0/24",

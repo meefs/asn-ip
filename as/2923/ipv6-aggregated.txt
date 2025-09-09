@@ -1,3 +1,2 @@
 # AS2923 (AS-TIAA-NET)
-# TIAA-CREF
 #

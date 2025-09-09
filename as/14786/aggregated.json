@@ -1,7 +1,6 @@
 {
   "asn": 14786,
   "handle": "ALLURETELECOM",
-  "description": "Allure Telecom Inc",
   "subnets": {
     "ipv4": [
       "38.83.94.0/24",

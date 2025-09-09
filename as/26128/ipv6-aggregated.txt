@@ -1,3 +1,2 @@
 # AS26128 (AS-360WISP)
-# 360 Communications LLC
 #

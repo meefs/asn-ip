@@ -1,3 +1,2 @@
 # AS792 (ORACLE-ASNBLOCK-ASN)
-# Oracle Corporation
 #

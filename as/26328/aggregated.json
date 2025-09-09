@@ -1,7 +1,6 @@
 {
   "asn": 26328,
   "handle": "BLASTCOMM",
-  "description": "Blast Communications Inc",
   "subnets": {
     "ipv4": [
       "69.49.192.0/23",

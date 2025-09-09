@@ -1,7 +1,6 @@
 {
   "asn": 71,
   "handle": "HPINC-AMERICAS",
-  "description": "HP Inc",
   "subnets": {
     "ipv4": [
       "192.56.8.0/24",

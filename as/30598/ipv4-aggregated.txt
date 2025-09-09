@@ -1,5 +1,4 @@
 # AS30598 (CCL-ASN)
-# Carnival Corporation
 #
 151.124.104.0/22
 151.124.108.0/23

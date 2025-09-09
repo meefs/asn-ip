@@ -1,3 +1,2 @@
 # AS27548 (USAN-AS-A)
-# United States Advanced Network Inc
 #

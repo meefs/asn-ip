@@ -1,3 +1,2 @@
 # AS33128 (APOG-TOW)
-# Apogee Telecom Inc
 #

@@ -1,7 +1,6 @@
 {
   "asn": 36020,
   "handle": "WEATHER-COMPANY",
-  "description": "The Weather Company",
   "subnets": {
     "ipv4": [
       "96.8.89.0/24",

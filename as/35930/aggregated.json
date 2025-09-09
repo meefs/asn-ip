@@ -1,7 +1,6 @@
 {
   "asn": 35930,
   "handle": "DCOD",
-  "description": "Datacenter on demand LLC",
   "subnets": {
     "ipv4": [
       "23.149.8.0/24"

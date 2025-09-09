@@ -1,3 +1,2 @@
 # AS40184 (MLOC)
-# MeridianLink Inc
 #

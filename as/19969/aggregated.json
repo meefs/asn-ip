@@ -1,7 +1,6 @@
 {
   "asn": 19969,
   "handle": "JOESDATACENTER",
-  "description": "CyberCloud Professionals LLC",
   "subnets": {
     "ipv4": [
       "38.45.98.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 10796,
   "handle": "TWC-10796-MIDWEST",
-  "description": "Charter Communications Inc",
   "subnets": {
     "ipv4": [
       "16.14.248.0/21",

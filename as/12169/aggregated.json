@@ -1,7 +1,6 @@
 {
   "asn": 12169,
   "handle": "AS12169",
-  "description": "Kyndryl",
   "subnets": {
     "ipv4": [
       "8.15.207.0/24",

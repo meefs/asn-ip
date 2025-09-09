@@ -1,7 +1,6 @@
 {
   "asn": 27640,
   "handle": "GIGASNET-AS",
-  "description": "GIGAS HOSTING USA LLC",
   "subnets": {
     "ipv4": [
       "64.239.59.0/24",

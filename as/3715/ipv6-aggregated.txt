@@ -1,3 +1,2 @@
 # AS3715 (THEBOE-3715)
-# The Boeing Company
 #

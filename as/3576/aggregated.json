@@ -1,7 +1,6 @@
 {
   "asn": 3576,
   "handle": "AS-HODGSON-RUSS-NET",
-  "description": "Hodgson Russ LLP",
   "subnets": {
     "ipv4": [
       "151.181.0.0/24",

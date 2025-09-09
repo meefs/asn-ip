@@ -1,7 +1,6 @@
 {
   "asn": 101,
   "handle": "WASH-NSF-AS",
-  "description": "University of Washington",
   "subnets": {
     "ipv4": [
       "207.231.240.0/20",

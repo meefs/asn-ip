@@ -1,5 +1,4 @@
 # AS17059 (MTNBEAM-001)
-# Almendras Communications LLC
 #
 12.201.73.0/24
 142.147.64.0/23

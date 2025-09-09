@@ -1,3 +1,2 @@
 # AS32974 (ASN-GHC)
-# Kaiser Foundation Health Plan Inc
 #

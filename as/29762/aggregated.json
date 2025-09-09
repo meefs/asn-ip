@@ -1,7 +1,6 @@
 {
   "asn": 29762,
   "handle": "PRESIDIO-MGDSVCS",
-  "description": "Presidio Networked Solutions LLC",
   "subnets": {
     "ipv4": [
       "198.89.15.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 32348,
   "handle": "EIC-ASN-1",
-  "description": "EIDOS-MONTREAL",
   "subnets": {
     "ipv4": [
       "185.215.129.0/24",

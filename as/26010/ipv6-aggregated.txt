@@ -1,3 +1,2 @@
 # AS26010 (MARVELL)
-# Marvell Semiconductor Inc
 #

@@ -1,7 +1,6 @@
 {
   "asn": 32668,
   "handle": "STEL-HOSTING-LLC",
-  "description": "STEL Hosting LLC",
   "subnets": {
     "ipv4": [
       "172.82.88.0/24",

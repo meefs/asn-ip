@@ -1,5 +1,4 @@
 # AS14521 (PACIFIC-LIFE)
-# Pacific Life Insurance Company
 #
 198.140.165.0/24
 198.181.8.0/24

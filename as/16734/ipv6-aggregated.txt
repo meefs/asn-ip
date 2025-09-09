@@ -1,3 +1,2 @@
 # AS16734 (KYNDR-RTP)
-# Kyndryl
 #

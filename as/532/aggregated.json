@@ -1,7 +1,6 @@
 {
   "asn": 532,
   "handle": "DNIC-AS-00532",
-  "description": "DoD Network Information Center",
   "subnets": {
     "ipv4": [
       "139.77.6.0/24",

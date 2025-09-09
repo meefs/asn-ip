@@ -1,5 +1,4 @@
 # AS5065 (BUNNY-COMMUNICATIONS-GLOBAL)
-# Bunny Communications
 #
 2001:470:42c::/48
 2604:1560::/32

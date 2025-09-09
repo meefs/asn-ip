@@ -1,7 +1,6 @@
 {
   "asn": 4130,
   "handle": "UPITT-AS",
-  "description": "University of Pittsburgh",
   "subnets": {
     "ipv4": [
       "136.142.0.0/16",

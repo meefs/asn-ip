@@ -1,7 +1,6 @@
 {
   "asn": 26006,
   "handle": "EXODO",
-  "description": "Exodo LLC",
   "subnets": {
     "ipv4": [
       "23.168.136.0/24",

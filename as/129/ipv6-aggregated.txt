@@ -1,3 +1,2 @@
 # AS129 (DNIC-AS-00129)
-# DoD Network Information Center
 #

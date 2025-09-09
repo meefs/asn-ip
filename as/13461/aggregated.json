@@ -1,7 +1,6 @@
 {
   "asn": 13461,
   "handle": "OCC-AS13461",
-  "description": "The Options Clearing Corporation",
   "subnets": {
     "ipv4": [
       "8.30.40.0/24",

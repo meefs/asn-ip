@@ -1,7 +1,6 @@
 {
   "asn": 10349,
   "handle": "TULANE",
-  "description": "Tulane University",
   "subnets": {
     "ipv4": [
       "76.165.13.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 19734,
   "handle": "NTS-NACOGDOCHES-01",
-  "description": "Vexus Fiber",
   "subnets": {
     "ipv4": [
       "38.50.222.0/23",

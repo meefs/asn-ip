@@ -1,7 +1,6 @@
 {
   "asn": 19662,
   "handle": "UNISERVE-ONLINE",
-  "description": "Uniserve On Line",
   "subnets": {
     "ipv4": [
       "198.161.21.0/24",

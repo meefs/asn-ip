@@ -1,3 +1,2 @@
 # AS33151 (TRUSTWAVE-ASN)
-# Trustwave Holdings Inc
 #

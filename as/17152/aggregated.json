@@ -1,7 +1,6 @@
 {
   "asn": 17152,
   "handle": "BATES",
-  "description": "Bates College",
   "subnets": {
     "ipv4": [
       "23.131.116.0/24",

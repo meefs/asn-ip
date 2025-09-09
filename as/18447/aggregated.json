@@ -1,7 +1,6 @@
 {
   "asn": 18447,
   "handle": "AFFINITY-INTER",
-  "description": "Ntirety Inc",
   "subnets": {
     "ipv4": [
       "45.58.62.0/24",

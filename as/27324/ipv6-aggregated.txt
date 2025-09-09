@@ -1,3 +1,2 @@
 # AS27324 (CBC-ASN)
-# Canadian Broadcasting Corporation
 #

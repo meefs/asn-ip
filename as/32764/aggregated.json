@@ -1,7 +1,6 @@
 {
   "asn": 32764,
   "handle": "CPN",
-  "description": "CSN Support Services",
   "subnets": {
     "ipv4": [
       "199.66.188.0/24"

@@ -1,3 +1,2 @@
 # AS11477 (GOC-AS)
-# VC3 Inc
 #

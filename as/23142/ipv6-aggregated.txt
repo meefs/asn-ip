@@ -1,3 +1,2 @@
 # AS23142 (NEOGENOMICS-ASN)
-# NeoGenomics
 #

@@ -1,7 +1,6 @@
 {
   "asn": 19344,
   "handle": "BESOV",
-  "description": "Sovereign-Sol LLC",
   "subnets": {
     "ipv4": [
       "216.10.30.0/24"

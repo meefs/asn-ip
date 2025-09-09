@@ -1,7 +1,6 @@
 {
   "asn": 13626,
   "handle": "WALGREENS",
-  "description": "Walgreens Co",
   "subnets": {
     "ipv4": [
       "63.73.199.0/24",

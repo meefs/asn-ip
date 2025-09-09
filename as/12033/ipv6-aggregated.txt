@@ -1,4 +1,3 @@
 # AS12033 (ASN-AT-12033)
-# Adams TelSystems Inc
 #
 2605:3000::/32

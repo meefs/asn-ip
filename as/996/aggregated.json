@@ -1,7 +1,6 @@
 {
   "asn": 996,
   "handle": "JY-MOBILE-COMMUNICATIONS",
-  "description": "JY Mobile Communications",
   "subnets": {
     "ipv4": [
       "37.218.208.0/24",

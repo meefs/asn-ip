@@ -1,3 +1,2 @@
 # AS1856 (DISN-PILOTNET2)
-# RTX BBN Technologies Inc
 #

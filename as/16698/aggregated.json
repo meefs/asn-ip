@@ -1,7 +1,6 @@
 {
   "asn": 16698,
   "handle": "NP-TECH",
-  "description": "NP Tech",
   "subnets": {
     "ipv4": [
       "38.87.72.0/21",

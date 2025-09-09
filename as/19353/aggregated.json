@@ -1,7 +1,6 @@
 {
   "asn": 19353,
   "handle": "TUASN7",
-  "description": "Trans Union LLC",
   "subnets": {
     "ipv4": [
       "65.201.27.0/24",

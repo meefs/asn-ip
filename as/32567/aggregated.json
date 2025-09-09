@@ -1,7 +1,6 @@
 {
   "asn": 32567,
   "handle": "AS32567",
-  "description": "GameStop Inc",
   "subnets": {
     "ipv4": [
       "12.14.170.0/24",

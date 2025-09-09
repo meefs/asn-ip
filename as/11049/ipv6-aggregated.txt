@@ -1,5 +1,4 @@
 # AS11049 (DYN)
-# Oracle Corporation
 #
 2603:c040::/40
 2603:c040:1000::/39

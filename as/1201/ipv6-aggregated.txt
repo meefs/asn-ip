@@ -1,3 +1,2 @@
 # AS1201 (ASN-ODU-AS-AS)
-# Old Dominion University
 #

@@ -1,7 +1,6 @@
 {
   "asn": 32393,
   "handle": "BDN",
-  "description": "Brown Dog Networks",
   "subnets": {
     "ipv4": [
       "38.81.126.0/23",

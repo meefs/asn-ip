@@ -1,7 +1,6 @@
 {
   "asn": 23528,
   "handle": "SPARKPOST",
-  "description": "Bird.com Inc",
   "subnets": {
     "ipv4": [
       "45.81.230.0/24",

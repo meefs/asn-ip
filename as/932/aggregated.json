@@ -1,7 +1,6 @@
 {
   "asn": 932,
   "handle": "XNNET",
-  "description": "XNNET LLC",
   "subnets": {
     "ipv4": [
       "38.47.96.0/19",

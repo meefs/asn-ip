@@ -1,7 +1,6 @@
 {
   "asn": 6508,
   "handle": "VANTIVA",
-  "description": "Vantiva USA Shared Services Inc",
   "subnets": {
     "ipv4": [
       "208.83.90.0/24",

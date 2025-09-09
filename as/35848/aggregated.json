@@ -1,7 +1,6 @@
 {
   "asn": 35848,
   "handle": "GRIZZLINK",
-  "description": "20C LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": [

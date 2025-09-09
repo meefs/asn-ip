@@ -1,7 +1,6 @@
 {
   "asn": 20042,
   "handle": "GRAYSON-COLLIN-COMMUNICATIONS",
-  "description": "Cutter Communications Inc",
   "subnets": {
     "ipv4": [
       "23.130.216.0/24",

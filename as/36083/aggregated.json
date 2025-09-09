@@ -1,7 +1,6 @@
 {
   "asn": 36083,
   "handle": "IPDEPLOY",
-  "description": "IPDeploy",
   "subnets": {
     "ipv4": [
       "23.138.8.0/24",

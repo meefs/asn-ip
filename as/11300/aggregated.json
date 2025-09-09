@@ -1,7 +1,6 @@
 {
   "asn": 11300,
   "handle": "GLOBECOMM-11300",
-  "description": "Globecomm Services Maryland LLC",
   "subnets": {
     "ipv4": [
       "213.187.128.0/24",

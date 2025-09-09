@@ -1,7 +1,6 @@
 {
   "asn": 36256,
   "handle": "RBC-CAN-01",
-  "description": "Royal Bank of Canada",
   "subnets": {
     "ipv4": [],
     "ipv6": []

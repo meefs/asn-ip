@@ -1,7 +1,6 @@
 {
   "asn": 22838,
   "handle": "GIONA-US",
-  "description": "CONOPCO INC",
   "subnets": {
     "ipv4": [
       "204.110.160.0/22",

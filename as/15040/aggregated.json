@@ -1,7 +1,6 @@
 {
   "asn": 15040,
   "handle": "SEMTELCO",
-  "description": "SEMTELCO INC",
   "subnets": {
     "ipv4": [
       "206.183.158.0/24"

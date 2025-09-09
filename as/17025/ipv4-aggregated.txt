@@ -1,5 +1,4 @@
 # AS17025 (ZAYO-CUSTOMER-17025)
-# Zayo Bandwidth
 #
 64.124.13.0/24
 64.124.47.0/24

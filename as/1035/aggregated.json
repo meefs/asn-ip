@@ -1,7 +1,6 @@
 {
   "asn": 1035,
   "handle": "KMB4",
-  "description": "Kimberly-Clark Corporation",
   "subnets": {
     "ipv4": [
       "205.203.72.0/23"

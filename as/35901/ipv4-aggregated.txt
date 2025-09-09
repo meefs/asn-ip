@@ -1,4 +1,3 @@
 # AS35901 (AVTEX-INC-ASN)
-# Avtex Inc
 #
 38.126.174.0/23

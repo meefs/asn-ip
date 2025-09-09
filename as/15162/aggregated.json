@@ -1,7 +1,6 @@
 {
   "asn": 15162,
   "handle": "NETMINDERS-SERVER-HOSTING",
-  "description": "Netminders Server Hosting",
   "subnets": {
     "ipv4": [
       "104.255.152.0/22",

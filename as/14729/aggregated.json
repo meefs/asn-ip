@@ -1,7 +1,6 @@
 {
   "asn": 14729,
   "handle": "THRIVE-SE1",
-  "description": "Thrive Operations LLC",
   "subnets": {
     "ipv4": [
       "74.220.88.0/24",

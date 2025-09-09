@@ -1,7 +1,6 @@
 {
   "asn": 22512,
   "handle": "OPENBSD",
-  "description": "OpenBSD",
   "subnets": {
     "ipv4": [
       "199.185.136.0/23",

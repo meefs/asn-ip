@@ -1,5 +1,4 @@
 # AS1421 (WANSEC)
-# WANSecurity Inc
 #
 66.39.192.0/19
 66.220.58.0/24

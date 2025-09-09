@@ -1,3 +1,2 @@
 # AS17095 (BUILDBUDDY-01)
-# BuildBuddy
 #

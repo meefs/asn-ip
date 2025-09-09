@@ -1,4 +1,3 @@
 # AS11478 (OPENFACE)
-# Beanfield Technologies Inc
 #
 2610:98::/32

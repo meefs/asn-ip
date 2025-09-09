@@ -1,5 +1,4 @@
 # AS26832 (RICAWEBSERVICES)
-# Rica Web Services
 #
 38.102.84.0/22
 38.102.124.0/22

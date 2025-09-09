@@ -1,7 +1,6 @@
 {
   "asn": 20016,
   "handle": "HIVE",
-  "description": "GPU.ONE ENTERPRISE INC",
   "subnets": {
     "ipv4": [
       "63.141.33.0/24",

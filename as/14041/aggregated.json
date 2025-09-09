@@ -1,7 +1,6 @@
 {
   "asn": 14041,
   "handle": "AS14041",
-  "description": "University Corporation for Atmospheric Research",
   "subnets": {
     "ipv4": [
       "129.19.0.0/16",

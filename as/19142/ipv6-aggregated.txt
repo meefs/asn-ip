@@ -1,3 +1,2 @@
 # AS19142 (AAFES-NETBLK-ASN)
-# Army & Air Force Exchange Service
 #

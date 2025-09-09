@@ -1,3 +1,2 @@
 # AS29946 (UNION-CELL)
-# Union Wireless
 #

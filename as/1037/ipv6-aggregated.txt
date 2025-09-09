@@ -1,3 +1,2 @@
 # AS1037 (RBDC-AS-1)
-# RBDC Inc
 #

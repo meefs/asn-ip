@@ -1,7 +1,6 @@
 {
   "asn": 3592,
   "handle": "TRINCOLL-AS",
-  "description": "Trinity College",
   "subnets": {
     "ipv4": [
       "192.31.112.0/24",

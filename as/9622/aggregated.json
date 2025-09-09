@@ -1,7 +1,7 @@
 {
   "asn": 9622,
-  "handle": "KCT",
-  "description": "Kurashiki Cable TV",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
       "103.24.168.0/22",

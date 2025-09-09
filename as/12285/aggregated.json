@@ -1,7 +1,6 @@
 {
   "asn": 12285,
   "handle": "ONE-ELEVEN",
-  "description": "ShawneeLink Corporation",
   "subnets": {
     "ipv4": [
       "216.175.0.0/18"

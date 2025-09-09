@@ -1,3 +1,2 @@
 # AS18554 (AGILENT-DFW)
-# Agilent Technologies Inc
 #

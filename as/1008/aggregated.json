@@ -1,7 +1,6 @@
 {
   "asn": 1008,
   "handle": "GANJINGWORLD",
-  "description": "GANJINGWORLD CORPORATION",
   "subnets": {
     "ipv4": [
       "8.6.9.0/24",

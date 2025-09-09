@@ -1,7 +1,6 @@
 {
   "asn": 14673,
   "handle": "FIBERSPEED",
-  "description": "FiberSpeed",
   "subnets": {
     "ipv4": [
       "170.39.33.0/24",

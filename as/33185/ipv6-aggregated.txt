@@ -1,5 +1,4 @@
 # AS33185 (HIVE-DATA-CENTER)
-# Hive Data Center Inc
 #
 2602:fd23::/36
 2606:6680:45::/48

@@ -1,7 +1,6 @@
 {
   "asn": 11436,
   "handle": "BCES-BCEM-01",
-  "description": "Benton County Emergency Management",
   "subnets": {
     "ipv4": [
       "199.233.108.0/24"

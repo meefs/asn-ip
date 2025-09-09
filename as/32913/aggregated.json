@@ -1,7 +1,6 @@
 {
   "asn": 32913,
   "handle": "ACTUAL-BROADBAND",
-  "description": "Actual Broadband",
   "subnets": {
     "ipv4": [
       "23.157.152.0/24",

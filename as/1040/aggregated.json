@@ -1,7 +1,6 @@
 {
   "asn": 1040,
   "handle": "ACI-INFRA",
-  "description": "Academy City Internet LLC",
   "subnets": {
     "ipv4": [
       "38.175.124.0/23"

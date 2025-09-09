@@ -1,10 +1,9 @@
 {
   "asn": 149513,
-  "handle": "VCL-147-149513",
-  "description": "Vertex Connectivity LLC",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
-      "23.174.104.0/24",
       "23.177.120.0/24",
       "23.186.200.0/24",
       "66.92.207.0/24",

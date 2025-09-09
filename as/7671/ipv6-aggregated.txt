@@ -1,4 +1,4 @@
-# AS7671 (MCNET)
+# AS7671 (NTTSMC)
 # NTT SmartConnect Corporation
 #
 2001:350::/32

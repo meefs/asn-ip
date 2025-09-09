@@ -1,3 +1,2 @@
 # AS14304 (TSYS-SDC-CIV)
-# Global Payments Inc
 #

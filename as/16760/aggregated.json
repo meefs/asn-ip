@@ -1,7 +1,6 @@
 {
   "asn": 16760,
   "handle": "CBOE",
-  "description": "Cboe",
   "subnets": {
     "ipv4": [
       "198.160.149.0/24"

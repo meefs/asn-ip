@@ -1,3 +1,2 @@
 # AS1842 (USGS-AS)
-# Department of Interior United States Geological Survey
 #

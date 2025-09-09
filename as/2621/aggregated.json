@@ -1,7 +1,6 @@
 {
   "asn": 2621,
   "handle": "DNIC-AS-02621",
-  "description": "DoD Network Information Center",
   "subnets": {
     "ipv4": [
       "164.196.0.0/21"

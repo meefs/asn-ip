@@ -1,5 +1,4 @@
 # AS19969 (JOESDATACENTER)
-# CyberCloud Professionals LLC
 #
 38.45.98.0/24
 44.46.18.0/24

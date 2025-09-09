@@ -1,5 +1,4 @@
 # AS30359 (AVIDKC)
-# Avid Communications LLC
 #
 162.221.240.0/22
 192.74.127.0/24

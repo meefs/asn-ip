@@ -1,3 +1,2 @@
 # AS18799 (AS-GREMLIN)
-# gremlin.ca
 #

@@ -1,7 +1,6 @@
 {
   "asn": 1746,
   "handle": "SIRSIDYNIXAS",
-  "description": "SirsiDynix",
   "subnets": {
     "ipv4": [
       "192.150.149.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 26902,
   "handle": "CEKKENT",
-  "description": "Cekkent LLC",
   "subnets": {
     "ipv4": [
       "23.160.8.0/24"

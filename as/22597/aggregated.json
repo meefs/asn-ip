@@ -1,7 +1,6 @@
 {
   "asn": 22597,
   "handle": "SKALA-NETWORKS",
-  "description": "SKALA NETWORKS LLC",
   "subnets": {
     "ipv4": [
       "23.159.120.0/24"

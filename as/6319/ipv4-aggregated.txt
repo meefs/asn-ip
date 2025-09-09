@@ -1,5 +1,4 @@
 # AS6319 (MARRIOT-ASN)
-# Marriot Corporation
 #
 159.166.17.0/24
 159.166.24.0/23

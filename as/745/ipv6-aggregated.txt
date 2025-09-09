@@ -1,3 +1,2 @@
 # AS745 (AFCONC-BLOCK2-AS)
-# Air Force Systems Networking
 #

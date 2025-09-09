@@ -1,7 +1,6 @@
 {
   "asn": 290,
   "handle": "SHOWNET-AS",
-  "description": "Interop Show Network",
   "subnets": {
     "ipv4": [],
     "ipv6": []

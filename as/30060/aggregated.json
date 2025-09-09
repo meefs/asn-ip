@@ -1,7 +1,6 @@
 {
   "asn": 30060,
   "handle": "VERISIGN-ILG1",
-  "description": "VeriSign Infrastructure \u0026 Operations",
   "subnets": {
     "ipv4": [
       "64.6.90.0/23",

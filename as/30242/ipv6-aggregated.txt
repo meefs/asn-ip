@@ -1,3 +1,2 @@
 # AS30242 (SAMSA)
-# SAMSA
 #

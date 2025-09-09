@@ -1,7 +1,6 @@
 {
   "asn": 36273,
   "handle": "FREEDOM-MOBILE-1",
-  "description": "Videotron Ltee",
   "subnets": {
     "ipv4": [
       "74.115.192.0/22"

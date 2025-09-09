@@ -1,7 +1,6 @@
 {
   "asn": 20055,
   "handle": "AS-WHOLESAIL",
-  "description": "Wholesail networks LLC",
   "subnets": {
     "ipv4": [
       "15.211.0.0/16",

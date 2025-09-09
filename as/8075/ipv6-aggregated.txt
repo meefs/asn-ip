@@ -1,5 +1,4 @@
 # AS8075 (MICROSOFT-CORP-MSN-AS-BLOCK)
-# Microsoft Corporation
 #
 2001:698::/47
 2001:df0:7::/48

@@ -1,7 +1,6 @@
 {
   "asn": 18748,
   "handle": "DAL-B2BVPN",
-  "description": "Delta Air Lines",
   "subnets": {
     "ipv4": [
       "170.41.214.0/24"

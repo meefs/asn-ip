@@ -1,5 +1,4 @@
 # AS11245 (AS11245)
-# The Goodyear Tire & Rubber Company
 #
 167.232.225.0/24
 167.232.233.0/24

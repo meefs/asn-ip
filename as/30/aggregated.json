@@ -1,7 +1,6 @@
 {
   "asn": 30,
   "handle": "SRI-AICNET",
-  "description": "SRI International",
   "subnets": {
     "ipv4": [
       "192.12.5.0/24",

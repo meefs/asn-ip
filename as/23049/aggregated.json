@@ -1,7 +1,6 @@
 {
   "asn": 23049,
   "handle": "AS23049",
-  "description": "Ecolab Inc",
   "subnets": {
     "ipv4": [
       "204.69.33.0/24",

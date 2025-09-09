@@ -1,7 +1,6 @@
 {
   "asn": 4549,
   "handle": "ESPN-AS",
-  "description": "ESPN Inc",
   "subnets": {
     "ipv4": [
       "45.63.168.0/21",

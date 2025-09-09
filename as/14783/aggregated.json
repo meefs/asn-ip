@@ -1,7 +1,6 @@
 {
   "asn": 14783,
   "handle": "NUANCE-BURLINGTON",
-  "description": "Microsoft Corporation",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,7 +1,6 @@
 {
   "asn": 26277,
   "handle": "SERVERPOINT",
-  "description": "ServerPoint.com",
   "subnets": {
     "ipv4": [
       "64.235.33.0/24",

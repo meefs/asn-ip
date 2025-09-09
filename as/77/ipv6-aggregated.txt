@@ -1,3 +1,2 @@
 # AS77 (JHUAPL-AS)
-# Johns Hopkins University Applied Physics Laboratory
 #

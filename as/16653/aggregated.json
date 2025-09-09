@@ -1,7 +1,6 @@
 {
   "asn": 16653,
   "handle": "CVENT",
-  "description": "Cvent Inc",
   "subnets": {
     "ipv4": [
       "198.207.146.0/24",

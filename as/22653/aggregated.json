@@ -1,7 +1,6 @@
 {
   "asn": 22653,
   "handle": "GLOBALCOMPASS",
-  "description": "Cyber Wurx LLC",
   "subnets": {
     "ipv4": [
       "45.41.186.0/23",

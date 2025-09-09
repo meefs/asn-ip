@@ -1,7 +1,6 @@
 {
   "asn": 25626,
   "handle": "MMB-ASN-01",
-  "description": "MMB Networks",
   "subnets": {
     "ipv4": [],
     "ipv6": [

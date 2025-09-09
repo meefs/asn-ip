@@ -1,5 +1,4 @@
 # AS31898 (ORACLE-BMC-31898)
-# Oracle Corporation
 #
 2001:1a30::/48
 2001:1a30:c000::/48

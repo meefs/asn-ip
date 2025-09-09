@@ -1,5 +1,4 @@
 # AS14374 (AGRI-VALLEY)
-# Agri-Valley Services Corporation
 #
 66.211.64.0/22
 66.211.69.0/24

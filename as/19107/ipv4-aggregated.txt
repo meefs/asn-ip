@@ -1,5 +1,4 @@
 # AS19107 (YMAX-AS)
-# Ymax Communications Corp
 #
 68.235.13.0/24
 162.219.154.0/23

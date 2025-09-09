@@ -1,7 +1,6 @@
 {
   "asn": 30151,
   "handle": "SLI-ASN",
-  "description": "Silver Lake Internet LLC",
   "subnets": {
     "ipv4": [
       "23.157.96.0/24",

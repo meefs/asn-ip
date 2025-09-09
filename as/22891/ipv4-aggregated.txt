@@ -1,5 +1,4 @@
 # AS22891 (STANDARDINSURANCE)
-# Standard Insurance Company
 #
 198.133.149.0/24
 198.182.191.0/24

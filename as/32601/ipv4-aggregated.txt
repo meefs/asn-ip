@@ -1,5 +1,4 @@
 # AS32601 (ACUNET-2)
-# Abilene Christian University
 #
 150.252.0.0/18
 150.252.64.0/19

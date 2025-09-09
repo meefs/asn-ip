@@ -1,3 +1,2 @@
 # AS30393 (BMLPROD2)
-# Bill Me Later
 #

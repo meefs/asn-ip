@@ -1,7 +1,6 @@
 {
   "asn": 32526,
   "handle": "CATALYSTCLOUD",
-  "description": "CatalystVM LLC",
   "subnets": {
     "ipv4": [
       "23.160.168.0/24",

@@ -1,4 +1,3 @@
 # AS8059 (ASN-BWAY)
-# Outernet Inc
 #
 2607:d300::/32

@@ -1,5 +1,4 @@
 # AS30 (SRI-AICNET)
-# SRI International
 #
 192.12.5.0/24
 192.12.33.0/24

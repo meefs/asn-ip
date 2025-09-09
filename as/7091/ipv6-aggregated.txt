@@ -1,3 +1,2 @@
 # AS7091 (VIANET-ASN)
-# Next Level Infrastructure LLC
 #

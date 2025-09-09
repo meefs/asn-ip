@@ -1,7 +1,6 @@
 {
   "asn": 2152,
   "handle": "CENIC-2152",
-  "description": "CENIC",
   "subnets": {
     "ipv4": [
       "64.39.112.0/20",

@@ -1,7 +1,6 @@
 {
   "asn": 20300,
   "handle": "WT-AS1",
-  "description": "Woodstock Telephone Company",
   "subnets": {
     "ipv4": [
       "136.143.204.0/22",

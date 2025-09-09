@@ -1,3 +1,2 @@
 # AS12029 (TENSPIRE-NETWORK-12029)
-# TenSpire Network
 #

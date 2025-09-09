@@ -1,7 +1,6 @@
 {
   "asn": 2633,
   "handle": "NAS1-AS",
-  "description": "National Academy of Sciences",
   "subnets": {
     "ipv4": [
       "198.49.206.0/24",

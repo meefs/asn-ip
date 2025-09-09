@@ -1,3 +1,2 @@
 # AS843 (F5-XC-NAE)
-# F5 Inc
 #

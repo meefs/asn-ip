@@ -1,3 +1,2 @@
 # AS1555 (DNIC-ASBLK-01550-01601)
-# DoD Network Information Center
 #

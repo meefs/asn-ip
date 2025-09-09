@@ -1,7 +1,6 @@
 {
   "asn": 7136,
   "handle": "LATINO",
-  "description": "Latino Communications Corporation",
   "subnets": {
     "ipv4": [
       "198.8.75.0/24"

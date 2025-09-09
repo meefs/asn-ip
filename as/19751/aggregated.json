@@ -1,7 +1,6 @@
 {
   "asn": 19751,
   "handle": "CCRTC",
-  "description": "Endeavor Communications",
   "subnets": {
     "ipv4": [
       "64.18.140.0/22",

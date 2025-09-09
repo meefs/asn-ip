@@ -1,3 +1,2 @@
 # AS125 (HI-NET-AS)
-# Honeywell International Inc
 #

@@ -1,5 +1,4 @@
 # AS26930 (PARALLAX)
-# PureVoltage Hosting Inc
 #
 23.133.6.0/24
 202.5.26.0/24

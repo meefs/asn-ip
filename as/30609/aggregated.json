@@ -1,7 +1,6 @@
 {
   "asn": 30609,
   "handle": "LCPUD",
-  "description": "Lewis County PUD",
   "subnets": {
     "ipv4": [
       "216.86.64.0/22"

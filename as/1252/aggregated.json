@@ -1,7 +1,6 @@
 {
   "asn": 1252,
   "handle": "UNMC-AS",
-  "description": "University of Nebraska Medical Center",
   "subnets": {
     "ipv4": [
       "192.94.102.0/23",

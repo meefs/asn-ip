@@ -1,3 +1,2 @@
 # AS26366 (CITY-PG)
-# City of Prince George
 #

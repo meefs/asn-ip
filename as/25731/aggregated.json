@@ -1,7 +1,6 @@
 {
   "asn": 25731,
   "handle": "KNOX-BOX-NETWORKS",
-  "description": "Knox Box Networks",
   "subnets": {
     "ipv4": [
       "23.145.216.0/24",

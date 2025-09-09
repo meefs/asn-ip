@@ -1,7 +1,6 @@
 {
   "asn": 17243,
   "handle": "BYTENODE-AS",
-  "description": "Byte Node LLC",
   "subnets": {
     "ipv4": [
       "23.159.216.0/24"

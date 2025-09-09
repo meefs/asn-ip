@@ -1,5 +1,4 @@
 # AS33652 (CMCS)
-# Comcast Cable Communications LLC
 #
 24.104.146.0/24
 45.147.159.0/24

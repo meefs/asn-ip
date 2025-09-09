@@ -1,7 +1,6 @@
 {
   "asn": 21874,
   "handle": "MMC",
-  "description": "MMC",
   "subnets": {
     "ipv4": [
       "205.156.183.0/24",

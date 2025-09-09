@@ -1,7 +1,6 @@
 {
   "asn": 30455,
   "handle": "HOSTVENOM-LLC",
-  "description": "HostVenom LLC",
   "subnets": {
     "ipv4": [
       "66.118.246.0/24",

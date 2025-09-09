@@ -1,3 +1,2 @@
 # AS6334 (ASN-TSG)
-# Sabre GLBL Inc
 #

@@ -1,3 +1,2 @@
 # AS1348 (CA-DOTNET-AS)
-# California Department of Transportation
 #

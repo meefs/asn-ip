@@ -1,4 +1,3 @@
 # AS33228 (SOFTIRON-ASN-01)
-# SoftIron
 #
 2602:f85e::/48

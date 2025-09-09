@@ -1,3 +1,2 @@
 # AS14110 (GENESYS-ASN)
-# Genesys Telecommunications Laboratories Inc
 #

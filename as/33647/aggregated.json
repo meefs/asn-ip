@@ -1,7 +1,6 @@
 {
   "asn": 33647,
   "handle": "YADTELNET",
-  "description": "Yadkin Valley Telephone",
   "subnets": {
     "ipv4": [
       "38.158.32.0/19",

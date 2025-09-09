@@ -1,3 +1,2 @@
 # AS26404 (ASN-INT)
-# INT INC
 #

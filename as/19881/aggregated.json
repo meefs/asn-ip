@@ -1,7 +1,6 @@
 {
   "asn": 19881,
   "handle": "VTCNET",
-  "description": "Valley Telecommunications Company",
   "subnets": {
     "ipv4": [
       "38.22.224.0/24",

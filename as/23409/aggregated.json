@@ -1,7 +1,6 @@
 {
   "asn": 23409,
   "handle": "AS-FOFCOS",
-  "description": "Focus on the Family",
   "subnets": {
     "ipv4": [
       "204.61.30.0/23"

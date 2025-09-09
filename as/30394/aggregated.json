@@ -1,7 +1,6 @@
 {
   "asn": 30394,
   "handle": "JENNISON",
-  "description": "Jennison Associates LLC",
   "subnets": {
     "ipv4": [
       "207.122.88.0/24"

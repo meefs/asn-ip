@@ -1,7 +1,6 @@
 {
   "asn": 32654,
   "handle": "TWRS-CHI",
-  "description": "Towerstream I Inc",
   "subnets": {
     "ipv4": [
       "67.216.16.0/22",

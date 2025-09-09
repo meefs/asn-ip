@@ -1,3 +1,2 @@
 # AS18906 (CONCORD-AS)
-# Concord Management Ltd
 #

@@ -1,7 +1,6 @@
 {
   "asn": 7314,
   "handle": "SCIPIO-TECH-7314",
-  "description": "Peace Communications LLC",
   "subnets": {
     "ipv4": [
       "64.237.100.0/22",

@@ -1,7 +1,6 @@
 {
   "asn": 961,
   "handle": "ACHIEVE-US",
-  "description": "Achieve Wireless Inc",
   "subnets": {
     "ipv4": [
       "192.124.48.0/24"

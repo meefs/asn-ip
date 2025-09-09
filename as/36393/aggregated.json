@@ -1,7 +1,6 @@
 {
   "asn": 36393,
   "handle": "PFELJ",
-  "description": "Pfizer Inc",
   "subnets": {
     "ipv4": [
       "146.240.2.0/24",

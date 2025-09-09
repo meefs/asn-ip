@@ -1,7 +1,6 @@
 {
   "asn": 22921,
   "handle": "SEACNET",
-  "description": "SEAC Network Solutions LLC",
   "subnets": {
     "ipv4": [
       "64.136.64.0/19"

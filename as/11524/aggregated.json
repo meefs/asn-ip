@@ -1,7 +1,6 @@
 {
   "asn": 11524,
   "handle": "SEGN",
-  "description": "FirstLight Fiber Inc",
   "subnets": {
     "ipv4": [
       "216.107.192.0/19",

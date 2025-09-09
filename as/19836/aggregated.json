@@ -1,7 +1,6 @@
 {
   "asn": 19836,
   "handle": "VERISIGNGRS",
-  "description": "VeriSign Infrastructure \u0026 Operations",
   "subnets": {
     "ipv4": [
       "192.30.45.0/24",

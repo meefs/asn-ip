@@ -1,3 +1,2 @@
 # AS33517 (DYNDNS)
-# Oracle Corporation
 #

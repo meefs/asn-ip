@@ -1,7 +1,6 @@
 {
   "asn": 2044,
   "handle": "DF-PTL1",
-  "description": "Digital Fortress",
   "subnets": {
     "ipv4": [
       "64.255.232.0/21",

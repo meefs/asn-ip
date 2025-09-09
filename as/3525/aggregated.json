@@ -1,7 +1,6 @@
 {
   "asn": 3525,
   "handle": "ALBERTSONS",
-  "description": "UNFI",
   "subnets": {
     "ipv4": [
       "167.234.34.0/24",

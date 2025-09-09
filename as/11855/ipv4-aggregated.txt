@@ -1,5 +1,4 @@
 # AS11855 (ASN-INTERNAP-BLK)
-# Unitas Global
 #
 64.94.88.0/22
 64.95.108.0/22

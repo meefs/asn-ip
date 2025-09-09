@@ -1,3 +1,2 @@
 # AS16830 (EIS-EQUINIX-AS)
-# EIS Group INC
 #

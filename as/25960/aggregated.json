@@ -1,7 +1,6 @@
 {
   "asn": 25960,
   "handle": "PROPEL-CLOUD-01",
-  "description": "PropelCLOUD",
   "subnets": {
     "ipv4": [
       "38.97.230.0/23",

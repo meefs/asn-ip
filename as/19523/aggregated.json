@@ -1,7 +1,6 @@
 {
   "asn": 19523,
   "handle": "BH-TELECOM-CORP",
-  "description": "FlexNetworks",
   "subnets": {
     "ipv4": [
       "23.146.32.0/24",

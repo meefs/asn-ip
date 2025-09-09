@@ -1,7 +1,6 @@
 {
   "asn": 10596,
   "handle": "JETNET",
-  "description": "Beckman Software Engineering",
   "subnets": {
     "ipv4": [
       "192.100.4.0/24",

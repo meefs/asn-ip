@@ -1,7 +1,6 @@
 {
   "asn": 21991,
   "handle": "BASED-NETWORKING",
-  "description": "BNS Services LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": [

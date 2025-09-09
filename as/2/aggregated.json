@@ -1,7 +1,6 @@
 {
   "asn": 2,
   "handle": "UDEL-DCN",
-  "description": "University of Delaware",
   "subnets": {
     "ipv4": [
       "45.161.25.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 32445,
   "handle": "XHOP",
-  "description": "XHOP LLC",
   "subnets": {
     "ipv4": [
       "162.253.167.0/24"

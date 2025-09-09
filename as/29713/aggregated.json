@@ -1,7 +1,6 @@
 {
   "asn": 29713,
   "handle": "ELIA-60",
-  "description": "Reliable Hosting Services",
   "subnets": {
     "ipv4": [
       "80.76.44.0/24",

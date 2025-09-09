@@ -1,7 +1,6 @@
 {
   "asn": 36408,
-  "handle": "CDNETWORKS-GLOBAL",
-  "description": "unified ASN for CDNetworks across the globe",
+  "handle": "CDNETWORKSUS-02",
   "subnets": {
     "ipv4": [
       "174.35.124.0/22",

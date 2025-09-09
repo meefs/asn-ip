@@ -1,7 +1,6 @@
 {
   "asn": 26195,
   "handle": "CYBERRI",
-  "description": "Cyberri Technologies Inc",
   "subnets": {
     "ipv4": [
       "23.160.40.0/24"

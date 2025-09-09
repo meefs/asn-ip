@@ -1,7 +1,6 @@
 {
   "asn": 40211,
   "handle": "STEINERSTUDIOS",
-  "description": "Steiner Studios",
   "subnets": {
     "ipv4": [
       "38.68.88.0/23",

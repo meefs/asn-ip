@@ -1,7 +1,6 @@
 {
   "asn": 19615,
   "handle": "SITEL-US",
-  "description": "Sitel",
   "subnets": {
     "ipv4": [
       "209.80.64.0/23",

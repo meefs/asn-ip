@@ -1,3 +1,2 @@
 # AS33023 (ADTRAN-2)
-# Adtran Inc
 #

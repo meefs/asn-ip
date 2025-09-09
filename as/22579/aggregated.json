@@ -1,7 +1,6 @@
 {
   "asn": 22579,
   "handle": "INDEPENDENCE-HEALTH-SYSTEM-BUTLER",
-  "description": "Butler Memorial Hospital",
   "subnets": {
     "ipv4": [
       "192.67.72.0/24",

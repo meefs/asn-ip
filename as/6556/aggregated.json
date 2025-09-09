@@ -1,7 +1,6 @@
 {
   "asn": 6556,
   "handle": "AIRGAPPED",
-  "description": "AZSIGNSHOP LLC",
   "subnets": {
     "ipv4": [
       "44.31.46.0/23",

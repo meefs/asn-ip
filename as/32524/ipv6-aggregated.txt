@@ -1,4 +1,3 @@
 # AS32524 (GRUPO-SMS)
-# Grupo-SMS USA LLC
 #
 2604:dc80::/32

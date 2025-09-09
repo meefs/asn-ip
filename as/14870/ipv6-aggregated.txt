@@ -1,3 +1,2 @@
 # AS14870 (FLEXERA-SC4)
-# Flexera Software LLC
 #

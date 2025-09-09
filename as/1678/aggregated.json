@@ -1,7 +1,6 @@
 {
   "asn": 1678,
   "handle": "DOW",
-  "description": "The Dow Chemical Company",
   "subnets": {
     "ipv4": [
       "151.163.2.0/23",

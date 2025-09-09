@@ -1,7 +1,6 @@
 {
   "asn": 19157,
   "handle": "CHARTER-19157-DC",
-  "description": "Charter Communications LLC",
   "subnets": {
     "ipv4": [
       "23.86.14.0/23",

@@ -1,5 +1,4 @@
 # AS206 (CSC-IGN-AMER-AS206)
-# DXC US Latin America Corporation
 #
 20.132.160.0/19
 20.132.225.0/24

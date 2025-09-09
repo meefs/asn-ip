@@ -1,7 +1,6 @@
 {
   "asn": 14820,
   "handle": "VIRGIN-TECH",
-  "description": "Virgin Technologies Inc",
   "subnets": {
     "ipv4": [
       "199.16.180.0/22"

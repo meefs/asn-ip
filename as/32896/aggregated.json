@@ -1,7 +1,6 @@
 {
   "asn": 32896,
   "handle": "MOTECH-CA",
-  "description": "MoTech",
   "subnets": {
     "ipv4": [],
     "ipv6": []

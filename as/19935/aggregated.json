@@ -1,7 +1,6 @@
 {
   "asn": 19935,
   "handle": "CRRS",
-  "description": "CRRS-TV",
   "subnets": {
     "ipv4": [
       "66.45.119.0/24",

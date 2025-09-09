@@ -1,7 +1,6 @@
 {
   "asn": 18771,
   "handle": "3DS-BB01",
-  "description": "3ds Communications LLC",
   "subnets": {
     "ipv4": [
       "199.21.104.0/21"

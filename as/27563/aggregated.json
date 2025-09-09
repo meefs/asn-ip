@@ -1,7 +1,6 @@
 {
   "asn": 27563,
   "handle": "SEGRA-UNITY",
-  "description": "Spirit Communications",
   "subnets": {
     "ipv4": [
       "206.74.16.0/24",

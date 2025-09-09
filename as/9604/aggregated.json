@@ -1,7 +1,7 @@
 {
   "asn": 9604,
-  "handle": "FSI-AS",
-  "description": "FUJI SOFT INCORPORATED",
+  "handle": "RESERVED",
+  "description": "APNIC ASN block",
   "subnets": {
     "ipv4": [
       "157.120.128.0/19",

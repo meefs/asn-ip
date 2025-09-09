@@ -1,7 +1,6 @@
 {
   "asn": 6950,
   "handle": "LAMBDA",
-  "description": "Lambda Telecom",
   "subnets": {
     "ipv4": [
       "192.77.144.0/24",

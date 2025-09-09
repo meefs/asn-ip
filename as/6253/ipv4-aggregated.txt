@@ -1,5 +1,4 @@
 # AS6253 (PRUASN)
-# The Prudential Insurance Company of America
 #
 161.151.56.0/21
 161.151.70.0/23

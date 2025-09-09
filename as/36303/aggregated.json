@@ -1,7 +1,6 @@
 {
   "asn": 36303,
   "handle": "VICKERY-INTERNET",
-  "description": "Vickery IT",
   "subnets": {
     "ipv4": [
       "23.169.104.0/24",

@@ -1,3 +1,2 @@
 # AS27210 (RMIC)
-# Arch U.S MI Services Inc
 #

@@ -1,7 +1,6 @@
 {
   "asn": 73,
   "handle": "WASHINGTON-AS",
-  "description": "University of Washington",
   "subnets": {
     "ipv4": [
       "69.91.192.0/18",

@@ -1,7 +1,6 @@
 {
   "asn": 5,
   "handle": "SYMBOLICS",
-  "description": "WFA Group LLC",
   "subnets": {
     "ipv4": [
       "191.241.191.0/24"

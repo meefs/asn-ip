@@ -1,3 +1,2 @@
 # AS26272 (AMDS-COSMOS)
-# AM Data Service Inc
 #

@@ -1,5 +1,4 @@
 # AS16611 (INFINIAHOST)
-# InfiniaHost.com
 #
 2602:2de::/36
 2602:fa07::/47

@@ -1,5 +1,4 @@
 # AS16669 (APPLIED-MATERIALS)
-# Applied Materials
 #
 12.151.38.0/24
 152.135.0.0/16

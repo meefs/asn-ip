@@ -1,7 +1,6 @@
 {
   "asn": 21534,
   "handle": "AS21534",
-  "description": "BroadSoft Inc",
   "subnets": {
     "ipv4": [
       "128.177.14.0/24",

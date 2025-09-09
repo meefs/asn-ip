@@ -1,5 +1,4 @@
 # AS7029 (WINDSTREAM)
-# Windstream Communications LLC
 #
 2001:5a0:9001::/48
 2001:1908::/32

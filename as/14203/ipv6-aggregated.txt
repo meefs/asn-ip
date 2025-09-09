@@ -1,3 +1,2 @@
 # AS14203 (JUNIPER-NETWORKS)
-# Juniper Networks Inc
 #

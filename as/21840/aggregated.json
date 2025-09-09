@@ -1,7 +1,6 @@
 {
   "asn": 21840,
   "handle": "NET3",
-  "description": "WiredISP Inc",
   "subnets": {
     "ipv4": [
       "31.57.59.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 11428,
   "handle": "BEAM-GLOBAL",
-  "description": "Jim Beam Brands Co",
   "subnets": {
     "ipv4": [
       "104.37.229.0/24",

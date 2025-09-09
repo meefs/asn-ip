@@ -1,5 +1,4 @@
 # AS30058 (FDCSERVERS)
-# FDCservers.net
 #
 23.26.204.0/24
 23.237.0.0/20

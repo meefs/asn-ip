@@ -1,5 +1,4 @@
 # AS33392 (DAUPHIN-TELECOM)
-# Dauphin Telecom
 #
 2604:25c0::/32
 2606:2480::/32

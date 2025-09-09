@@ -1,7 +1,6 @@
 {
   "asn": 26935,
   "handle": "WHOLESAIL-NOEL-ASN",
-  "description": "Wholesail networks LLC",
   "subnets": {
     "ipv4": [
       "64.52.6.0/24"

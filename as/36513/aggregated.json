@@ -1,7 +1,6 @@
 {
   "asn": 36513,
   "handle": "BRETSA",
-  "description": "BRETSA",
   "subnets": {
     "ipv4": [
       "97.107.72.0/23"

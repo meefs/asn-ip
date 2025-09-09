@@ -1,7 +1,6 @@
 {
   "asn": 22246,
   "handle": "ASN-22246",
-  "description": "Nasdaq Inc",
   "subnets": {
     "ipv4": [
       "198.55.218.0/23"

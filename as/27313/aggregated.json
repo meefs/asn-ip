@@ -1,7 +1,6 @@
 {
   "asn": 27313,
   "handle": "SPENCER-STUART",
-  "description": "Spencer Stuart",
   "subnets": {
     "ipv4": [
       "204.79.137.0/24",

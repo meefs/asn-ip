@@ -1,7 +1,6 @@
 {
   "asn": 33288,
   "handle": "DASH-FT",
-  "description": "Dash Financial Technologies LLC",
   "subnets": {
     "ipv4": [
       "107.161.149.0/24",

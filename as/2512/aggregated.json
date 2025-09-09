@@ -1,6 +1,6 @@
 {
   "asn": 2512,
-  "handle": "TCP-NET",
+  "handle": "TCP-IP-NET",
   "description": "TCP Inc",
   "subnets": {
     "ipv4": [

@@ -1,5 +1,4 @@
 # AS27323 (SERVERSTADIUM)
-# Wowrack.com
 #
 38.246.149.0/24
 38.246.150.0/23

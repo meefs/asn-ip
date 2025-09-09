@@ -1,7 +1,6 @@
 {
   "asn": 19230,
   "handle": "NANOG",
-  "description": "NANOG",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,7 +1,6 @@
 {
   "asn": 32001,
   "handle": "HYPHA-1",
-  "description": "Hypha Worker Co-operative Inc",
   "subnets": {
     "ipv4": [
       "140.235.158.0/23"

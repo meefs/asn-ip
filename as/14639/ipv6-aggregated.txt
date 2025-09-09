@@ -1,4 +1,3 @@
 # AS14639 (CARDINALHEALTH-AS02)
-# Cardinal Health Inc
 #
 2602:fd26::/48

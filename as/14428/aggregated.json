@@ -1,7 +1,6 @@
 {
   "asn": 14428,
   "handle": "POMEROY-TECH-01",
-  "description": "Pomeroy Technologies LLC",
   "subnets": {
     "ipv4": [
       "192.31.103.0/24",

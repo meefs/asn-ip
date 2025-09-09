@@ -1,7 +1,6 @@
 {
   "asn": 19198,
   "handle": "DRW-HOLDINGS",
-  "description": "DRW Holdings LLC",
   "subnets": {
     "ipv4": [
       "45.95.94.0/24",

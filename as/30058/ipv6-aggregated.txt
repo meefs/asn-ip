@@ -1,5 +1,4 @@
 # AS30058 (FDCSERVERS)
-# FDCservers.net
 #
 2001:550:a08::/48
 2001:49f0:d002::/48

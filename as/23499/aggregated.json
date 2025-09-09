@@ -1,7 +1,6 @@
 {
   "asn": 23499,
   "handle": "ACM-ASN",
-  "description": "Aurelius Capital Management LP",
   "subnets": {
     "ipv4": [],
     "ipv6": []

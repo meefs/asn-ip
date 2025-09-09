@@ -1,7 +1,6 @@
 {
   "asn": 11740,
   "handle": "PROGRESSIVE-AS",
-  "description": "Progressive Casualty Insurance Company",
   "subnets": {
     "ipv4": [
       "170.218.32.0/20",

@@ -1,7 +1,6 @@
 {
   "asn": 20417,
   "handle": "STABILISERVERS",
-  "description": "StabiliServers",
   "subnets": {
     "ipv4": [
       "23.128.28.0/24",

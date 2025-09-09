@@ -1,7 +1,6 @@
 {
   "asn": 20249,
   "handle": "AS20249",
-  "description": "Jefferies LLC",
   "subnets": {
     "ipv4": [
       "169.196.0.0/22",

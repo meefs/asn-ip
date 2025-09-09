@@ -1,5 +1,4 @@
 # AS21799 (MWDSC)
-# Metropolitan Water District of Southern California
 #
 144.166.53.0/24
 144.166.55.0/24

@@ -1,3 +1,2 @@
 # AS1747 (IBMWATSON-AS)
-# IBM
 #

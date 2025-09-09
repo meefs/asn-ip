@@ -1,3 +1,2 @@
 # AS26656 (MISYS-AS)
-# Finastra Technology Inc
 #

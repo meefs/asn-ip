@@ -1,7 +1,6 @@
 {
   "asn": 33482,
   "handle": "ASN-CARDTRONICS",
-  "description": "CARDTRONICS USA INC",
   "subnets": {
     "ipv4": [
       "192.75.188.0/24",

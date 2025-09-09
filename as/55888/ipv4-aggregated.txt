@@ -1,5 +1,5 @@
-# AS55888 (NINTATSU)
-# Nintatsu Global Telecommunications Corporation
+# AS55888 (RESERVED)
+# JPNIC-2Byte-ASBLOCK-AP
 #
 36.50.48.0/23
 202.24.197.0/24

@@ -1,7 +1,6 @@
 {
   "asn": 10,
   "handle": "CSNET-EXT-AS",
-  "description": "CSNET Coordination and Information Center (CSNET-CIC)",
   "subnets": {
     "ipv4": [
       "141.101.225.0/24"

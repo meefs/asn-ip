@@ -1,5 +1,4 @@
 # AS7287 (PBI-NET-BLK2)
-# AT&T Enterprises LLC
 #
 2600:384::/35
 2606:ae00:1000::/48

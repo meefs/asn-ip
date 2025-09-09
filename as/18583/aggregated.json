@@ -1,7 +1,6 @@
 {
   "asn": 18583,
   "handle": "HATTERASCPC",
-  "description": "Hatteras CPC",
   "subnets": {
     "ipv4": [
       "198.46.102.0/24",

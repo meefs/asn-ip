@@ -1,5 +1,4 @@
 # AS19016 (WCG-AS)
-# Westman Communications Group
 #
 2606:9e40:1000::/36
 2607::/32

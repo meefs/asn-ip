@@ -1,7 +1,6 @@
 {
   "asn": 2143,
   "handle": "AS2143",
-  "description": "National Aeronautics and Space Administration",
   "subnets": {
     "ipv4": [
       "192.92.160.0/22",

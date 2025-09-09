@@ -1,7 +1,6 @@
 {
   "asn": 26883,
   "handle": "AS26883",
-  "description": "Morehouse College",
   "subnets": {
     "ipv4": [
       "69.87.160.0/20"

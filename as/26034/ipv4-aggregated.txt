@@ -1,5 +1,4 @@
 # AS26034 (ASN-DELTA-OUT)
-# Delta Technology
 #
 139.72.158.0/24
 139.72.168.0/24

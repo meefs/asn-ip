@@ -1,4 +1,3 @@
 # AS26915 (WERNER-OMA)
-# Werner Enterprises
 #
 65.247.121.0/24

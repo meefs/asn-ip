@@ -1,7 +1,6 @@
 {
   "asn": 22856,
   "handle": "NUSOCLOUD-CT",
-  "description": "NUSO",
   "subnets": {
     "ipv4": [
       "209.237.153.0/24"

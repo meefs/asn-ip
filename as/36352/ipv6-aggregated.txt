@@ -1,5 +1,4 @@
 # AS36352 (AS-COLOCROSSING)
-# HostPapa
 #
 2602:f692:1::/48
 2602:f692:2::/48

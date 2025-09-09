@@ -1,7 +1,6 @@
 {
   "asn": 22575,
   "handle": "MASSMUTUAL2",
-  "description": "Massachusetts Mutual Life Insurance Company",
   "subnets": {
     "ipv4": [
       "170.6.0.0/22"

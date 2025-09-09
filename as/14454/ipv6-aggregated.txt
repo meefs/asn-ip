@@ -1,3 +1,2 @@
 # AS14454 (SILVERSKY-INC)
-# SilverSky Inc
 #

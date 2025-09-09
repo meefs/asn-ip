@@ -1,3 +1,2 @@
 # AS19400 (SPX-FLOW-AS)
-# SPX Flow Inc
 #

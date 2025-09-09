@@ -1,7 +1,6 @@
 {
   "asn": 13501,
   "handle": "OARNET-AS-2",
-  "description": "OARnet",
   "subnets": {
     "ipv4": [
       "192.148.240.0/24",

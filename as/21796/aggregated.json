@@ -1,7 +1,6 @@
 {
   "asn": 21796,
   "handle": "WIT-ASN-01",
-  "description": "WITHAM HOSPITAL",
   "subnets": {
     "ipv4": [
       "50.223.244.0/24"

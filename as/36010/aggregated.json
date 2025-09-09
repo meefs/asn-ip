@@ -1,7 +1,6 @@
 {
   "asn": 36010,
   "handle": "RBSTARNET1",
-  "description": "Randolph-Brooks Federal Credit Union",
   "subnets": {
     "ipv4": [
       "12.182.158.0/24",

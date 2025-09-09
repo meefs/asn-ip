@@ -1,7 +1,6 @@
 {
   "asn": 22710,
   "handle": "CHARTER-22710-LOUSIANA-C3",
-  "description": "Charter Communications LLC",
   "subnets": {
     "ipv4": [
       "76.58.4.0/23",

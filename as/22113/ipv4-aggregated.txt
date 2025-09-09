@@ -1,5 +1,4 @@
 # AS22113 (BELAIR-TECHNOLOGIES)
-# Belair Technologies
 #
 38.110.100.0/22
 44.135.199.0/24

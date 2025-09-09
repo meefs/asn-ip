@@ -1,7 +1,6 @@
 {
   "asn": 32505,
   "handle": "DWL-MAIN",
-  "description": "Conterra",
   "subnets": {
     "ipv4": [
       "24.204.24.0/21",

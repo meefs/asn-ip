@@ -1,7 +1,6 @@
 {
   "asn": 715,
   "handle": "WOODYNET-2",
-  "description": "WoodyNet Inc",
   "subnets": {
     "ipv4": [
       "45.112.180.0/22",

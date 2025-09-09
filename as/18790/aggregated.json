@@ -1,7 +1,6 @@
 {
   "asn": 18790,
   "handle": "GLOBALCOMPANIESLLC2006",
-  "description": "Global Companies LLC",
   "subnets": {
     "ipv4": [
       "208.90.77.0/24"

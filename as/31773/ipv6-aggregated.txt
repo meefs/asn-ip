@@ -1,3 +1,2 @@
 # AS31773 (AS-COREBTS-1)
-# Core BTS Inc
 #

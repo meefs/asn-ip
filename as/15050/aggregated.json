@@ -1,7 +1,6 @@
 {
   "asn": 15050,
   "handle": "RF-AS1",
-  "description": "The Rockefeller Foundation",
   "subnets": {
     "ipv4": [
       "38.74.195.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 18705,
   "handle": "RIMBLACKBERRY",
-  "description": "BlackBerry Limited",
   "subnets": {
     "ipv4": [
       "67.223.64.0/19",

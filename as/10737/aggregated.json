@@ -1,7 +1,6 @@
 {
   "asn": 10737,
   "handle": "MOBI",
-  "description": "CellularONE",
   "subnets": {
     "ipv4": [
       "159.85.0.0/16",

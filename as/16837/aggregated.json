@@ -1,7 +1,6 @@
 {
   "asn": 16837,
   "handle": "VABB",
-  "description": "VA Broadband LLC",
   "subnets": {
     "ipv4": [
       "199.195.56.0/22",

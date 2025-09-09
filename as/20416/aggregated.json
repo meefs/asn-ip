@@ -1,7 +1,6 @@
 {
   "asn": 20416,
   "handle": "PRYSMIAN-01",
-  "description": "Prysmian Cables and Systems USA LLC",
   "subnets": {
     "ipv4": [
       "138.46.62.0/23"

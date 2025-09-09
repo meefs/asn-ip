@@ -1,7 +1,6 @@
 {
   "asn": 23437,
   "handle": "INFINITY-FL",
-  "description": "Infinity Broadband",
   "subnets": {
     "ipv4": [],
     "ipv6": []

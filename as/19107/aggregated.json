@@ -1,7 +1,6 @@
 {
   "asn": 19107,
   "handle": "YMAX-AS",
-  "description": "Ymax Communications Corp",
   "subnets": {
     "ipv4": [
       "68.235.13.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 11435,
   "handle": "BENEVA-1",
-  "description": "Beneva",
   "subnets": {
     "ipv4": [
       "45.33.200.0/23",

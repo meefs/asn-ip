@@ -1,5 +1,4 @@
 # AS20325 (PATELCOCU)
-# Patelco Credit Union
 #
 198.27.29.0/24
 198.27.30.0/23

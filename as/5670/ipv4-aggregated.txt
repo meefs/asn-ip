@@ -1,3 +1,2 @@
 # AS5670 (VI-367-5670)
-# Vapor IO Inc
 #

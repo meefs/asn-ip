@@ -1,5 +1,4 @@
 # AS23470 (RELIABLESITE)
-# ReliableSite.Net LLC
 #
 23.26.108.0/24
 23.26.238.0/24

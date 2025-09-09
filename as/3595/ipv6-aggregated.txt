@@ -1,4 +1,3 @@
 # AS3595 (DATABANK-ZCOLO)
-# zColo
 #
 2606:ef80:6::/48

@@ -1,7 +1,6 @@
 {
   "asn": 34553,
   "handle": "NATHANSALES",
-  "description": "Packetframe",
   "subnets": {
     "ipv4": [
       "23.141.112.0/24",

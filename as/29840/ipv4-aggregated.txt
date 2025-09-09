@@ -1,5 +1,4 @@
 # AS29840 (GRAM-NET2)
-# Grambling State University
 #
 76.78.86.0/24
 76.78.187.0/24

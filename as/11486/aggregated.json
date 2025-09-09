@@ -1,7 +1,6 @@
 {
   "asn": 11486,
   "handle": "COLO-PREM-VZB",
-  "description": "Verizon Business",
   "subnets": {
     "ipv4": [
       "142.77.49.0/24",

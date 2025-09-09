@@ -1,7 +1,6 @@
 {
   "asn": 1014,
   "handle": "GLOBAL-ISP",
-  "description": "NetLab Global",
   "subnets": {
     "ipv4": [],
     "ipv6": []

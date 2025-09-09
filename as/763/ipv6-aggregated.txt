@@ -1,3 +1,2 @@
 # AS763 (IBM-PEN-TEST)
-# IBM
 #

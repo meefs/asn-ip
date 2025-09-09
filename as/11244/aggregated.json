@@ -1,7 +1,6 @@
 {
   "asn": 11244,
   "handle": "MIS-NET",
-  "description": "Midstream Integrity Services LLC",
   "subnets": {
     "ipv4": [
       "161.199.215.0/24"

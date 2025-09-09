@@ -1,5 +1,4 @@
 # AS8175 (HIGHSPEEDWEB)
-# High Speed Web/Genesis 2 Networks
 #
 69.51.0.0/19
 69.85.80.0/20

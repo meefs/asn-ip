@@ -1,7 +1,6 @@
 {
   "asn": 2154,
   "handle": "HPINC",
-  "description": "HP Inc",
   "subnets": {
     "ipv4": [
       "15.90.164.0/22",

@@ -1,5 +1,4 @@
 # AS10843 (AITNET)
-# Advanced Internet Technologies
 #
 66.219.96.0/20
 97.66.138.0/24

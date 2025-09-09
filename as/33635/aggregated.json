@@ -1,7 +1,6 @@
 {
   "asn": 33635,
   "handle": "ARISTATA",
-  "description": "Visionary Communications LLC",
   "subnets": {
     "ipv4": [
       "66.36.112.0/20",

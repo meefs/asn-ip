@@ -1,5 +1,4 @@
 # AS36511 (NETDT-GUA)
-# Dauphin Telecom Guadeloupe
 #
 137.83.76.0/24
 137.83.102.0/24

@@ -1,7 +1,6 @@
 {
   "asn": 19167,
   "handle": "CORE-BROADBAND",
-  "description": "Lakeland Networks",
   "subnets": {
     "ipv4": [
       "204.16.100.0/22"

@@ -1,7 +1,6 @@
 {
   "asn": 26152,
   "handle": "WXCCE",
-  "description": "Cisco Webex LLC",
   "subnets": {
     "ipv4": [
       "74.112.25.0/24",

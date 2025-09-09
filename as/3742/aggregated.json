@@ -1,7 +1,6 @@
 {
   "asn": 3742,
   "handle": "ROCKISLAND2",
-  "description": "Rock Island Communications",
   "subnets": {
     "ipv4": [],
     "ipv6": []

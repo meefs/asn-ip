@@ -1,4 +1,3 @@
 # AS30176 (AS-PRIORITYCOLO)
-# Priority Colo Inc
 #
 2607:f698::/31

@@ -1,7 +1,6 @@
 {
   "asn": 16734,
   "handle": "KYNDR-RTP",
-  "description": "Kyndryl",
   "subnets": {
     "ipv4": [
       "159.61.240.0/24",

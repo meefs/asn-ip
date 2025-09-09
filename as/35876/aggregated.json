@@ -1,7 +1,6 @@
 {
   "asn": 35876,
   "handle": "VOLTNET-01-03",
-  "description": "VoltNet inc",
   "subnets": {
     "ipv4": [
       "23.140.4.0/24",

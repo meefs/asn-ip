@@ -1,7 +1,6 @@
 {
   "asn": 21719,
   "handle": "CHL",
-  "description": "CHL",
   "subnets": {
     "ipv4": [
       "108.174.64.0/24",

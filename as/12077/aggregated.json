@@ -1,7 +1,6 @@
 {
   "asn": 12077,
   "handle": "SUBCONSCIOUS",
-  "description": "Subconscious",
   "subnets": {
     "ipv4": [
       "198.180.182.0/24"

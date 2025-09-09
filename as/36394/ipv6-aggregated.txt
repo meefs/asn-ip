@@ -1,3 +1,2 @@
 # AS36394 (ASN-GRID4-GATEWAYS)
-# Grid4 Communications Inc
 #

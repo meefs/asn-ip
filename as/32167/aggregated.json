@@ -1,7 +1,6 @@
 {
   "asn": 32167,
   "handle": "LSHIY-USER-CONTENT",
-  "description": "LSHIY LLC",
   "subnets": {
     "ipv4": [
       "45.66.60.0/24",

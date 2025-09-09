@@ -1,7 +1,6 @@
 {
   "asn": 32298,
   "handle": "CNSQ-AS32298",
-  "description": "Centersquare",
   "subnets": {
     "ipv4": [
       "45.45.171.0/24",

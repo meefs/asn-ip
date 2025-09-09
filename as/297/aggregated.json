@@ -1,7 +1,6 @@
 {
   "asn": 297,
   "handle": "AS297",
-  "description": "National Aeronautics and Space Administration",
   "subnets": {
     "ipv4": [
       "128.156.0.0/16",

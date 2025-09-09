@@ -1,7 +1,6 @@
 {
   "asn": 6948,
   "handle": "INTERCOM",
-  "description": "Intercom Online",
   "subnets": {
     "ipv4": [
       "206.220.140.0/22",

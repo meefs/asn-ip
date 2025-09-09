@@ -1,5 +1,4 @@
 # AS22394 (CELLCO)
-# Verizon Business
 #
 63.40.0.0/13
 63.54.0.0/15

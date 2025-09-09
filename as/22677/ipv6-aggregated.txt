@@ -1,5 +1,4 @@
 # AS22677 (CHARTER-22677-MO-IL-C3)
-# Charter Communications LLC
 #
 2602:107:4500::/40
 2602:107:e710::/44

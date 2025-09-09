@@ -1,7 +1,6 @@
 {
   "asn": 15027,
   "handle": "FH-ASN-15027",
-  "description": "Foley Hoag LLP",
   "subnets": {
     "ipv4": [
       "38.111.59.0/24",

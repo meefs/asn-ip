@@ -1,5 +1,4 @@
 # AS13441 (SCOTIABANK)
-# Bank of Nova Scotia
 #
 199.166.10.0/24
 199.166.13.0/24

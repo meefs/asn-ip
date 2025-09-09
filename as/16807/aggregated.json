@@ -1,7 +1,6 @@
 {
   "asn": 16807,
   "handle": "KYN-EVENTS",
-  "description": "Kyndryl",
   "subnets": {
     "ipv4": [
       "129.42.5.0/24",

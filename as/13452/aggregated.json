@@ -1,7 +1,6 @@
 {
   "asn": 13452,
   "handle": "AS-IL1-DIA",
-  "description": "Guggenheim Services LLC",
   "subnets": {
     "ipv4": [
       "162.245.137.0/24"

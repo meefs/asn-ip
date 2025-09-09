@@ -1,7 +1,6 @@
 {
   "asn": 18971,
   "handle": "BCUS",
-  "description": "BARCLAYS FINANCIAL CORP",
   "subnets": {
     "ipv4": [
       "146.127.245.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 14934,
   "handle": "AGS-LLC-AGO",
-  "description": "AGS",
   "subnets": {
     "ipv4": [
       "103.141.227.0/24"

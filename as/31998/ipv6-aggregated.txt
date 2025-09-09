@@ -1,3 +1,2 @@
 # AS31998 (KDSNET)
-# Konceptio Data Services LLC
 #

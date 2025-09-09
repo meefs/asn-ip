@@ -1,5 +1,4 @@
 # AS27575 (PROVAK)
-# Providence Hospital
 #
 170.173.39.0/24
 170.173.69.0/24

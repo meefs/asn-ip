@@ -1,7 +1,6 @@
 {
   "asn": 14822,
   "handle": "MSKCC",
-  "description": "Memorial Sloan-Kettering Cancer Center",
   "subnets": {
     "ipv4": [
       "47.19.120.0/24",

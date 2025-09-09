@@ -1,7 +1,6 @@
 {
   "asn": 15329,
   "handle": "DENO",
-  "description": "Deno",
   "subnets": {
     "ipv4": [],
     "ipv6": [

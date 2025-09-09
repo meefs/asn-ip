@@ -1,7 +1,6 @@
 {
   "asn": 18818,
   "handle": "LSUHSCS-NET2",
-  "description": "LSU Health Sciences Center - Shreveport",
   "subnets": {
     "ipv4": [
       "206.176.160.0/19"

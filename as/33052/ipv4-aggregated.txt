@@ -1,5 +1,4 @@
 # AS33052 (VZUNET)
-# Verizon Business
 #
 140.108.0.0/22
 140.108.13.0/24

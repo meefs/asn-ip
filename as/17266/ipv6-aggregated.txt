@@ -1,3 +1,2 @@
 # AS17266 (HOSTSERVE-NET-AS)
-# AllCore Communications Inc
 #

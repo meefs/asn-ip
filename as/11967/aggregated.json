@@ -1,7 +1,6 @@
 {
   "asn": 11967,
   "handle": "HOP179",
-  "description": "Hop179 LLC",
   "subnets": {
     "ipv4": [
       "23.133.172.0/24"

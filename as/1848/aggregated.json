@@ -1,7 +1,6 @@
 {
   "asn": 1848,
   "handle": "AS1848",
-  "description": "National Aeronautics and Space Administration",
   "subnets": {
     "ipv4": [
       "192.150.28.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 5697,
   "handle": "NAVE-AS-5697",
-  "description": "Navisite Opco LLC",
   "subnets": {
     "ipv4": [
       "207.211.216.0/22"

@@ -1,5 +1,4 @@
 # AS33490 (COMCAST-33490)
-# Comcast Cable Communications LLC
 #
 50.204.255.0/24
 50.206.113.0/24

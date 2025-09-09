@@ -1,3 +1,2 @@
-# AS32121 (TRANSALTA-CORPORATION)
-# TransAlta Corporation
+# AS32121
 #

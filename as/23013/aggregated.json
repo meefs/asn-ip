@@ -1,7 +1,6 @@
 {
   "asn": 23013,
   "handle": "FORTANIX",
-  "description": "Fortanix",
   "subnets": {
     "ipv4": [
       "23.128.20.0/24",

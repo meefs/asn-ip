@@ -1,7 +1,6 @@
 {
   "asn": 36495,
   "handle": "HEADEND",
-  "description": "Esparto Broadband Inc",
   "subnets": {
     "ipv4": [
       "12.203.210.0/23",

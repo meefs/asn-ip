@@ -1,5 +1,4 @@
 # AS31746 (FANDM)
-# Franklin and Marshall College
 #
 66.132.168.0/22
 66.132.176.0/22

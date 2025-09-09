@@ -1,7 +1,6 @@
 {
   "asn": 16669,
   "handle": "APPLIED-MATERIALS",
-  "description": "Applied Materials",
   "subnets": {
     "ipv4": [
       "12.151.38.0/24",

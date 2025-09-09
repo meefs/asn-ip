@@ -1,7 +1,6 @@
 {
   "asn": 36858,
   "handle": "NMSTN",
-  "description": "Office of Broadband Access and Expansion",
   "subnets": {
     "ipv4": [
       "23.172.184.0/24",

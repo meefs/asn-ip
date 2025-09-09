@@ -1,5 +1,4 @@
 # AS12094 (SISTERLAKESCABLE)
-# Sister Lakes Cable
 #
 50.33.135.0/24
 50.33.164.0/23

@@ -1,3 +1,2 @@
 # AS33539 (ISP-MANAGEMENT)
-# ISP Management Inc
 #

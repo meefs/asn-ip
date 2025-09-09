@@ -1,7 +1,6 @@
 {
   "asn": 13737,
   "handle": "AS-INCX",
-  "description": "Interconnecx LLC",
   "subnets": {
     "ipv4": [
       "23.26.250.0/24",

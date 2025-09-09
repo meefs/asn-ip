@@ -1,5 +1,4 @@
 # AS10355 (DSCGA)
-# Digital Service Consultants
 #
 192.24.0.0/20
 192.216.93.0/24

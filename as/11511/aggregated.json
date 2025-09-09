@@ -1,7 +1,6 @@
 {
   "asn": 11511,
   "handle": "CRETE-INTERNET",
-  "description": "Crete Carrier Corporation",
   "subnets": {
     "ipv4": [
       "23.135.136.0/24"

@@ -1,3 +1,2 @@
 # AS11577 (ADS-ASN)
-# Vermont Agency of Digital Services
 #

@@ -1,7 +1,6 @@
 {
   "asn": 15106,
   "handle": "ASN-LENNOX",
-  "description": "Lennox International Inc",
   "subnets": {
     "ipv4": [
       "205.145.192.0/19"

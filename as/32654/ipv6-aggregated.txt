@@ -1,3 +1,2 @@
 # AS32654 (TWRS-CHI)
-# Towerstream I Inc
 #

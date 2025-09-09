@@ -1,5 +1,4 @@
 # AS15148 (BLACKBAUD-ASN)
-# Blackbaud Inc
 #
 74.123.152.0/22
 216.59.51.0/24

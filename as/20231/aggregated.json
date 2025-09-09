@@ -1,7 +1,6 @@
 {
   "asn": 20231,
   "handle": "TWC-20231-NE-KS-C3",
-  "description": "Charter Communications Inc",
   "subnets": {
     "ipv4": [
       "76.58.46.0/23",

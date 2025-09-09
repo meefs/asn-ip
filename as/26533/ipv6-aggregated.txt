@@ -1,3 +1,2 @@
 # AS26533 (STIBARC-AS-01)
-# STiBaRC
 #

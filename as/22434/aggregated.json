@@ -1,7 +1,6 @@
 {
   "asn": 22434,
   "handle": "FUC-AS-22434",
-  "description": "Finastra USA Corporation",
   "subnets": {
     "ipv4": [
       "67.210.89.0/24",

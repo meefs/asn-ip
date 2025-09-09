@@ -1,7 +1,6 @@
 {
   "asn": 14636,
   "handle": "INTERNAP-BLK4",
-  "description": "Internap Holding LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

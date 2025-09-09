@@ -1,7 +1,6 @@
 {
   "asn": 18812,
   "handle": "NEWWAVECOMM",
-  "description": "New Wave Communications",
   "subnets": {
     "ipv4": [
       "24.100.0.0/17",

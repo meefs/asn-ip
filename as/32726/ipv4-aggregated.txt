@@ -1,5 +1,4 @@
 # AS32726 (LIBERTY)
-# Liberty University
 #
 38.130.152.0/23
 64.203.186.0/23

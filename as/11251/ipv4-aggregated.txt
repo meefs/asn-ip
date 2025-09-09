@@ -1,5 +1,4 @@
 # AS11251 (DSTL-2-11251)
-# Disney Streaming Services
 #
 8.5.5.0/24
 139.104.124.0/23

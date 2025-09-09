@@ -1,7 +1,6 @@
 {
   "asn": 7849,
   "handle": "APC-CC",
-  "description": "RingSquared CC",
   "subnets": {
     "ipv4": [
       "161.77.0.0/16"

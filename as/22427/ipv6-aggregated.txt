@@ -1,3 +1,2 @@
 # AS22427 (GNET-AS)
-# GNET INC
 #

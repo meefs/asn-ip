@@ -1,7 +1,6 @@
 {
   "asn": 30279,
   "handle": "TUHSD-AS1",
-  "description": "TOLLESON UNION HIGH SCHOOL DISTRICT #214",
   "subnets": {
     "ipv4": [
       "69.72.68.0/23"

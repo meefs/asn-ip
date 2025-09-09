@@ -1,3 +1,2 @@
 # AS16824 (HARLANNET-ASN)
-# Harlan Municipal Utilities
 #

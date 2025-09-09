@@ -1,7 +1,6 @@
 {
   "asn": 18967,
   "handle": "GOUCHER-COLLEGE",
-  "description": "Goucher College",
   "subnets": {
     "ipv4": [
       "50.202.217.0/24"

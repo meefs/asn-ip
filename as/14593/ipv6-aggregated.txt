@@ -1,5 +1,4 @@
 # AS14593 (SPACEX-STARLINK)
-# Space Exploration Technologies Corporation
 #
 2406:2d40:2000::/40
 2406:2d40:2200::/40

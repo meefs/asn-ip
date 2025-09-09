@@ -1,5 +1,4 @@
 # AS11584 (NYCHHC)
-# New York City Health & Hospitals Corporation
 #
 64.251.40.0/21
 67.221.16.0/20

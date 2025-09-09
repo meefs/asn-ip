@@ -1,5 +1,4 @@
 # AS33296 (PIEDMONT-BROADBAND)
-# Piedmont Broadband Corporation
 #
 23.174.248.0/24
 64.187.103.0/24

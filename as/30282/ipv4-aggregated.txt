@@ -1,5 +1,4 @@
 # AS30282 (AS-INAPCDN-OCY)
-# Unitas Global
 #
 31.186.224.0/24
 31.186.240.0/22

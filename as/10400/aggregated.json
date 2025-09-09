@@ -1,7 +1,6 @@
 {
   "asn": 10400,
   "handle": "THETORONTOSTAR",
-  "description": "Toronto Star",
   "subnets": {
     "ipv4": [],
     "ipv6": []

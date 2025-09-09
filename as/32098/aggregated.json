@@ -1,7 +1,6 @@
 {
   "asn": 32098,
   "handle": "TRANSTELCO-INC",
-  "description": "Transtelco Inc",
   "subnets": {
     "ipv4": [
       "38.51.153.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 5757,
   "handle": "HHSC3001",
-  "description": "Halton Healthcare",
   "subnets": {
     "ipv4": [
       "99.214.133.0/24"

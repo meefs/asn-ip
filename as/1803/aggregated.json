@@ -1,7 +1,6 @@
 {
   "asn": 1803,
   "handle": "ICMNET-5",
-  "description": "Sprint",
   "subnets": {
     "ipv4": [
       "155.178.69.0/24",

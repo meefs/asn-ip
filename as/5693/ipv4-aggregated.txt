@@ -1,5 +1,4 @@
 # AS5693 (DATABANK-LATISYS)
-# Latisys-Irvine LLC
 #
 63.251.206.0/24
 66.33.62.0/24

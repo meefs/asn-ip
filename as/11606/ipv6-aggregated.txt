@@ -1,3 +1,2 @@
 # AS11606 (ARCHTOP-FIBER-WVTC02)
-# Archtop Fiber
 #

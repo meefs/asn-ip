@@ -1,7 +1,6 @@
 {
   "asn": 29749,
   "handle": "SINEWAVE",
-  "description": "Sinewave Inc",
   "subnets": {
     "ipv4": [
       "208.99.40.0/22"

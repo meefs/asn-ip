@@ -1,3 +1,2 @@
 # AS16463 (DPSINET)
-# Data Processing Solutions Inc
 #

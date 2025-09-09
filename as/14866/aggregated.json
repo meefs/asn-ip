@@ -1,7 +1,6 @@
 {
   "asn": 14866,
   "handle": "VOINETWORKS",
-  "description": "VOI NET INC",
   "subnets": {
     "ipv4": [
       "206.126.109.0/24",

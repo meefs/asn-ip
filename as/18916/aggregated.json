@@ -1,7 +1,6 @@
 {
   "asn": 18916,
   "handle": "PSFT-ECENTER",
-  "description": "Oracle Corporation",
   "subnets": {
     "ipv4": [
       "138.3.207.0/24",

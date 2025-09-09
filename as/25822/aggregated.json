@@ -1,7 +1,6 @@
 {
   "asn": 25822,
   "handle": "TU-ASN-01",
-  "description": "Tiffin University",
   "subnets": {
     "ipv4": [
       "198.30.131.0/24",

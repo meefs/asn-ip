@@ -1,7 +1,6 @@
 {
   "asn": 993,
   "handle": "BLACK-MESA",
-  "description": "SUN FIBER LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": [

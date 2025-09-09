@@ -1,3 +1,2 @@
 # AS17403 (HSIS-AS)
-# HyperSurf Internet Services Inc
 #

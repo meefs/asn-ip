@@ -1,4 +1,3 @@
 # AS11653 (ESS-PR-WEBMASTERS)
-# Puerto Rico Webmasters
 #
 2602:faca::/36

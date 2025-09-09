@@ -1,5 +1,4 @@
 # AS18779 (EGIHOSTING)
-# EGIHosting
 #
 2602:fb6e:1::/48
 2606:6680:35::/48

@@ -1,7 +1,6 @@
 {
   "asn": 31872,
   "handle": "VANTIVE-HEALTHCARE",
-  "description": "Vantive Health",
   "subnets": {
     "ipv4": [
       "159.198.128.0/23",

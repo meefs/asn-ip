@@ -1,7 +1,6 @@
 {
   "asn": 27010,
   "handle": "MQNET",
-  "description": "MoeQing",
   "subnets": {
     "ipv4": [],
     "ipv6": [

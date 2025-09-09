@@ -1,7 +1,6 @@
 {
   "asn": 511,
   "handle": "PRISMA-HEALTH",
-  "description": "Prisma Health",
   "subnets": {
     "ipv4": [
       "199.15.151.0/24"

@@ -1,7 +1,6 @@
 {
   "asn": 13617,
   "handle": "SYNTAX-NC",
-  "description": "Syntax Systems USA LP",
   "subnets": {
     "ipv4": [
       "8.42.204.0/24",

@@ -1,3 +1,2 @@
 # AS2577 (DNIC-AS-02577)
-# DoD Network Information Center
 #

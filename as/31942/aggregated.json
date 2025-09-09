@@ -1,7 +1,6 @@
 {
   "asn": 31942,
   "handle": "HYPERFIBER-01",
-  "description": "HyperFiber",
   "subnets": {
     "ipv4": [
       "38.19.189.0/24",

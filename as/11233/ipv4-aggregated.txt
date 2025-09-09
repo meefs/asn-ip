@@ -1,5 +1,4 @@
 # AS11233 (GORGE-NETWORKS)
-# Gorge Networks LLC
 #
 64.85.28.0/22
 66.228.16.0/20

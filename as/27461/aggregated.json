@@ -1,7 +1,6 @@
 {
   "asn": 27461,
   "handle": "POMEROY-ASN",
-  "description": "Pomeroy Technologies LLC",
   "subnets": {
     "ipv4": [
       "216.231.192.0/24",

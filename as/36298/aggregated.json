@@ -1,7 +1,6 @@
 {
   "asn": 36298,
   "handle": "INFOCISION",
-  "description": "InfoCision Management Corporation",
   "subnets": {
     "ipv4": [
       "70.62.206.0/23",

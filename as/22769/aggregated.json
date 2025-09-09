@@ -1,7 +1,6 @@
 {
   "asn": 22769,
   "handle": "VSCU-1",
-  "description": "Valley Strong Credit Union",
   "subnets": {
     "ipv4": [
       "198.101.26.0/24"

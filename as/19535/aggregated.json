@@ -1,7 +1,6 @@
 {
   "asn": 19535,
   "handle": "AS19535",
-  "description": "JetBlue Airways Corporation",
   "subnets": {
     "ipv4": [
       "64.25.20.0/23",

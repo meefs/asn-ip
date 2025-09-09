@@ -1,5 +1,4 @@
 # AS16557 (COLOSOLUTIONS)
-# Colo Solutions
 #
 66.103.128.0/19
 72.21.8.0/23

@@ -1,7 +1,6 @@
 {
   "asn": 36782,
   "handle": "AS36782",
-  "description": "Keyway Network Systems",
   "subnets": {
     "ipv4": [
       "216.117.192.0/21",

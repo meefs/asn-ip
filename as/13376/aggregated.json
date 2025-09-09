@@ -1,7 +1,6 @@
 {
   "asn": 13376,
   "handle": "TOPPAN-MERRILL",
-  "description": "Toppan Merrill LLC",
   "subnets": {
     "ipv4": [
       "37.26.88.0/21"

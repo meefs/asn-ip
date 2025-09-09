@@ -1,7 +1,6 @@
 {
   "asn": 33738,
   "handle": "UNITED-STATES-HOLOCAUST-MEMORIAL-MUSEUM",
-  "description": "United States Holocaust Memorial Museum",
   "subnets": {
     "ipv4": [
       "50.144.202.0/24"

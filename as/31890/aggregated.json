@@ -1,7 +1,6 @@
 {
   "asn": 31890,
   "handle": "ROCKET",
-  "description": "Rocket LLC",
   "subnets": {
     "ipv4": [
       "8.17.196.0/23",

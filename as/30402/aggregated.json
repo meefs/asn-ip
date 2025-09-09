@@ -1,7 +1,6 @@
 {
   "asn": 30402,
   "handle": "GLCNET",
-  "description": "Global Link Communications Limited",
   "subnets": {
     "ipv4": [
       "103.122.92.0/24",

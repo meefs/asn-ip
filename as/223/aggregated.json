@@ -1,7 +1,6 @@
 {
   "asn": 223,
   "handle": "AS223",
-  "description": "Parsons Corporation",
   "subnets": {
     "ipv4": [
       "206.219.192.0/24",

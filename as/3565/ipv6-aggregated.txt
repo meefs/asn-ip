@@ -1,3 +1,2 @@
 # AS3565 (PRISMA-HEALTH)
-# Prisma Health
 #

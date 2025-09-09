@@ -1,7 +1,6 @@
 {
   "asn": 18650,
   "handle": "KORAX",
-  "description": "HostPapa",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,7 +1,6 @@
 {
   "asn": 13875,
   "handle": "AS13875-MX-FIBER",
-  "description": "MxFiber LLC",
   "subnets": {
     "ipv4": [
       "204.235.240.0/24",

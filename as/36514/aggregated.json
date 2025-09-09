@@ -1,7 +1,6 @@
 {
   "asn": 36514,
   "handle": "FLORIDALEGISLATURE",
-  "description": "Florida Legislature",
   "subnets": {
     "ipv4": [
       "207.126.0.0/19"

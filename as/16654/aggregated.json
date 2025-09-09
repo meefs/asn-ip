@@ -1,7 +1,6 @@
 {
   "asn": 16654,
   "handle": "VERO-NETWORKS-AS16654",
-  "description": "Vero Broadband",
   "subnets": {
     "ipv4": [
       "162.219.204.0/22",

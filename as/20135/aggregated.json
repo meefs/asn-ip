@@ -1,7 +1,6 @@
 {
   "asn": 20135,
   "handle": "MTL-19",
-  "description": "Millennium Telcom LLC",
   "subnets": {
     "ipv4": [
       "38.3.16.0/20",

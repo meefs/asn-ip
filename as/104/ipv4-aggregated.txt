@@ -1,5 +1,4 @@
 # AS104 (COLORADO-AS)
-# University of Colorado at Boulder
 #
 128.138.0.0/16
 129.19.192.0/18

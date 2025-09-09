@@ -1,7 +1,6 @@
 {
   "asn": 6534,
   "handle": "OCEANIC-CABLE",
-  "description": "Charter Communications Inc",
   "subnets": {
     "ipv4": [
       "205.172.16.0/22",

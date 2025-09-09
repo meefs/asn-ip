@@ -1,7 +1,6 @@
 {
   "asn": 26150,
   "handle": "BC-MAR-ASN",
-  "description": "Bracebridge Capital LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

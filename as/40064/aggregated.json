@@ -1,7 +1,6 @@
 {
   "asn": 40064,
   "handle": "AMATEUR-IX",
-  "description": "Austin Hadley Sole Proprietorship",
   "subnets": {
     "ipv4": [],
     "ipv6": []

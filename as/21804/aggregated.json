@@ -1,7 +1,6 @@
 {
   "asn": 21804,
   "handle": "ACCESS-SK",
-  "description": "Access Communications Co-operative Limited",
   "subnets": {
     "ipv4": [
       "23.146.176.0/24",

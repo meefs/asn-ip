@@ -1,3 +1,2 @@
 # AS749 (DNIC-AS-00749)
-# DoD Network Information Center
 #

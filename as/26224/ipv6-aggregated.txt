@@ -1,3 +1,2 @@
 # AS26224 (INCOMM-NET0)
-# InComm
 #

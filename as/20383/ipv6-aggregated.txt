@@ -1,3 +1,2 @@
 # AS20383 (EXCHANGEBANK-AS)
-# Exchange Bank
 #

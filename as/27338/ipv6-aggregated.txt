@@ -1,3 +1,2 @@
 # AS27338 (OTELCO-AL)
-# GoNetSpeed
 #

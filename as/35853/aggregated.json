@@ -1,7 +1,6 @@
 {
   "asn": 35853,
   "handle": "AS35853",
-  "description": "SLUMBERLAND INC",
   "subnets": {
     "ipv4": [
       "209.3.237.0/24"

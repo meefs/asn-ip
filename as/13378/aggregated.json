@@ -1,7 +1,6 @@
 {
   "asn": 13378,
   "handle": "QINGYE-CLOUD",
-  "description": "Qingye Cloud",
   "subnets": {
     "ipv4": [
       "23.129.76.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 15149,
   "handle": "EZZI-101-BGP",
-  "description": "Core Technology Services Inc",
   "subnets": {
     "ipv4": [
       "64.29.188.0/22",

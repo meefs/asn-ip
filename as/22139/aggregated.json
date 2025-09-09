@@ -1,7 +1,6 @@
 {
   "asn": 22139,
   "handle": "MARIN-COUNTY-01",
-  "description": "County of Marin",
   "subnets": {
     "ipv4": [
       "199.88.76.0/23",

@@ -1,5 +1,4 @@
 # AS3456 (TWC-3456-IT)
-# Charter Communications Inc
 #
 67.48.224.0/19
 142.136.0.0/16

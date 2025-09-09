@@ -1,7 +1,6 @@
 {
   "asn": 2145,
   "handle": "COUGAR-WIRELESS",
-  "description": "Cougar Wireless",
   "subnets": {
     "ipv4": [],
     "ipv6": []

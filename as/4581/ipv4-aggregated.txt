@@ -1,5 +1,4 @@
 # AS4581 (SOCKET)
-# Socket Holdings Corporation
 #
 38.212.0.0/18
 64.85.192.0/19

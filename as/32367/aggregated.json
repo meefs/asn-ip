@@ -1,7 +1,6 @@
 {
   "asn": 32367,
   "handle": "LEGACY-LTCG",
-  "description": "illumifin Corporation",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,5 +1,4 @@
 # AS32331 (FIVEPOINT-NETWORKS)
-# FivePoint Networks LLC
 #
 64.65.28.0/22
 69.161.44.0/22

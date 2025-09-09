@@ -1,5 +1,4 @@
 # AS23428 (SERVERFORGE)
-# ServerForge LLC
 #
 2602:fb68:c0::/42
 2602:fb68:100::/41

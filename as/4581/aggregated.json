@@ -1,7 +1,6 @@
 {
   "asn": 4581,
   "handle": "SOCKET",
-  "description": "Socket Holdings Corporation",
   "subnets": {
     "ipv4": [
       "38.212.0.0/18",

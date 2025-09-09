@@ -1,7 +1,6 @@
 {
   "asn": 14616,
   "handle": "IVANET-AMSTERDAM",
-  "description": "IBASIS INC",
   "subnets": {
     "ipv4": [
       "45.153.228.0/24",

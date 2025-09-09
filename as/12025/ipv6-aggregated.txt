@@ -1,5 +1,4 @@
 # AS12025 (IMDC-AS12025)
-# Iron Mountain Data Center
 #
 2605:3380::/32
 2607:2f00::/32

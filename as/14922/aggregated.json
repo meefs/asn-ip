@@ -1,7 +1,6 @@
 {
   "asn": 14922,
   "handle": "IPSOFT-US-ASN1",
-  "description": "IPsoft",
   "subnets": {
     "ipv4": [
       "62.182.240.0/21",

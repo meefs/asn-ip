@@ -1,7 +1,6 @@
 {
   "asn": 22435,
   "handle": "PSFT-INC",
-  "description": "Oracle Corporation",
   "subnets": {
     "ipv4": [],
     "ipv6": []

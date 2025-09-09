@@ -1,7 +1,6 @@
 {
   "asn": 857,
   "handle": "GONET-ASN-17",
-  "description": "GONET",
   "subnets": {
     "ipv4": [
       "142.15.0.0/23",

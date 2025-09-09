@@ -1,3 +1,2 @@
 # AS16467 (GEOLINKS-AS)
-# GeoLinks
 #

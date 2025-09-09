@@ -1,3 +1,2 @@
 # AS33138 (AS-NYPD)
-# New York City Police Department
 #

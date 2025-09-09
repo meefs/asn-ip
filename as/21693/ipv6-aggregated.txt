@@ -1,3 +1,2 @@
 # AS21693 (BGP-ASN-21693)
-# Xcel Energy Inc
 #

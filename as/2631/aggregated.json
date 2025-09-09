@@ -1,7 +1,6 @@
 {
   "asn": 2631,
   "handle": "WBD-AS2631",
-  "description": "Discovery Communications",
   "subnets": {
     "ipv4": [
       "157.166.187.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 7821,
   "handle": "ZAYO-MN",
-  "description": "Inteliquent inc",
   "subnets": {
     "ipv4": [
       "198.174.203.0/24",

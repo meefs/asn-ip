@@ -1,3 +1,2 @@
 # AS36517 (AS-UGIUTIL)
-# UGI Utilities Inc
 #

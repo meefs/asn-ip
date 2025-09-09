@@ -1,7 +1,6 @@
 {
   "asn": 3000,
   "handle": "SPRINT-MRN-BLOCK",
-  "description": "U.S. Sprint",
   "subnets": {
     "ipv4": [],
     "ipv6": [

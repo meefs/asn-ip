@@ -1,3 +1,2 @@
 # AS12211 (OCNL-AS12211)
-# Operations & Compliance Network LLC
 #

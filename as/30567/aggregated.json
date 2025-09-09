@@ -1,7 +1,6 @@
 {
   "asn": 30567,
   "handle": "IGNITE-BROADBAND",
-  "description": "Dickson Electric System",
   "subnets": {
     "ipv4": [
       "38.75.96.0/19",

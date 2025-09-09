@@ -1,7 +1,6 @@
 {
   "asn": 7234,
   "handle": "RUSSELL7234",
-  "description": "Frank Russell",
   "subnets": {
     "ipv4": [
       "205.132.94.0/23"

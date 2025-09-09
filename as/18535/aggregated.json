@@ -1,7 +1,6 @@
 {
   "asn": 18535,
   "handle": "ROCHE-INDY",
-  "description": "Hoffmann LaRoche Inc",
   "subnets": {
     "ipv4": [
       "128.137.133.0/24",

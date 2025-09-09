@@ -1,7 +1,6 @@
 {
   "asn": 21738,
   "handle": "ROZINT",
-  "description": "Rozint",
   "subnets": {
     "ipv4": [
       "2.59.255.0/24",

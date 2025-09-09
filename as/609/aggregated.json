@@ -1,7 +1,6 @@
 {
   "asn": 609,
   "handle": "EY-AS-L",
-  "description": "Ernst \u0026 Young LLP",
   "subnets": {
     "ipv4": [
       "199.52.148.0/23",

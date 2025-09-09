@@ -1,5 +1,4 @@
 # AS40156 (THEOPT-HOU)
-# The Optimal Link Corporation
 #
 23.128.116.0/24
 23.189.208.0/24

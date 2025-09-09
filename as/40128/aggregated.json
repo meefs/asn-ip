@@ -1,7 +1,6 @@
 {
   "asn": 40128,
   "handle": "MUSFIBERNET",
-  "description": "Morristown Utility Systems",
   "subnets": {
     "ipv4": [
       "38.95.220.0/22",

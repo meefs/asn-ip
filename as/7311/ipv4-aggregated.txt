@@ -1,5 +1,4 @@
 # AS7311 (FRONTIER)
-# Frontier Networks Inc
 #
 24.104.160.0/19
 24.146.64.0/18

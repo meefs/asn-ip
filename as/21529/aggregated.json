@@ -1,7 +1,6 @@
 {
   "asn": 21529,
   "handle": "NOVVA",
-  "description": "NOVVA INC",
   "subnets": {
     "ipv4": [
       "74.118.48.0/22",

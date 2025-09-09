@@ -1,4 +1,3 @@
 # AS33017 (HARDFAULT)
-# Hardfault
 #
 2602:fcbd::/48

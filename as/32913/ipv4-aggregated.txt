@@ -1,5 +1,4 @@
 # AS32913 (ACTUAL-BROADBAND)
-# Actual Broadband
 #
 23.157.152.0/24
 67.206.182.0/24

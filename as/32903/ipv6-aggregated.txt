@@ -1,3 +1,2 @@
 # AS32903 (AMC2)
-# Atlantic Metro Communications II Inc
 #

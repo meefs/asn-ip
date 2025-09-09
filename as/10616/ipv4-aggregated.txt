@@ -1,4 +1,3 @@
 # AS10616 (NTIS)
-# National Oceanic and Atmospheric Administration
 #
 204.193.224.0/21

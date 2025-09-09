@@ -1,7 +1,6 @@
 {
   "asn": 36644,
   "handle": "FVOICE-001",
-  "description": "4Voice LLC",
   "subnets": {
     "ipv4": [
       "104.219.160.0/23",

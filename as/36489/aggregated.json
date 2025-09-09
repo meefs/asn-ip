@@ -1,7 +1,6 @@
 {
   "asn": 36489,
   "handle": "NETSOLUS-NETWORKS",
-  "description": "IP Pathways LLC",
   "subnets": {
     "ipv4": [
       "63.76.52.0/22",

@@ -1,7 +1,6 @@
 {
   "asn": 6282,
   "handle": "FONL-6282",
-  "description": "Fiber Optical Network LLC",
   "subnets": {
     "ipv4": [
       "31.131.8.0/22",

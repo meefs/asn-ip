@@ -1,7 +1,6 @@
 {
   "asn": 40080,
   "handle": "AS-IRLTOOLKIT",
-  "description": "IRLToolkit Inc",
   "subnets": {
     "ipv4": [
       "65.87.10.0/24",

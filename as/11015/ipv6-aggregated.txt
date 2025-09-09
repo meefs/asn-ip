@@ -1,3 +1,2 @@
 # AS11015 (TCH-AS)
-# Texas Children's Hospital
 #

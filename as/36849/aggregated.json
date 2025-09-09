@@ -1,7 +1,6 @@
 {
   "asn": 36849,
   "handle": "SAEOL-1-ASN",
-  "description": "1st Amendment Encrypted Openness LLC",
   "subnets": {
     "ipv4": [
       "64.65.0.0/23",

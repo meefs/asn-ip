@@ -1,3 +1,2 @@
 # AS6282 (FONL-6282)
-# Fiber Optical Network LLC
 #

@@ -1,3 +1,2 @@
 # AS7861 (TELUS-7861)
-# TELUS Communications Inc
 #

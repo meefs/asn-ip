@@ -1,4 +1,3 @@
 # AS7136 (LATINO)
-# Latino Communications Corporation
 #
 198.8.75.0/24

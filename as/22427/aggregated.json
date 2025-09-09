@@ -1,7 +1,6 @@
 {
   "asn": 22427,
   "handle": "GNET-AS",
-  "description": "GNET INC",
   "subnets": {
     "ipv4": [
       "31.56.107.0/24",

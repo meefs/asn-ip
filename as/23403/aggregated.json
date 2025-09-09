@@ -1,7 +1,6 @@
 {
   "asn": 23403,
   "handle": "HALFBAT",
-  "description": "Half Bat LLC",
   "subnets": {
     "ipv4": [
       "199.16.104.0/24"

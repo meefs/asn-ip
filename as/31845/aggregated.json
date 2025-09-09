@@ -1,7 +1,6 @@
 {
   "asn": 31845,
   "handle": "ISI-COMMUNICATIONS",
-  "description": "ISI Communications",
   "subnets": {
     "ipv4": [
       "74.116.26.0/23",

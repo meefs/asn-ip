@@ -1,5 +1,4 @@
 # AS26286 (MYSTICDEVIO)
-# MysticDev LLC
 #
 2602:f661::/40
 2602:fbdf::/48

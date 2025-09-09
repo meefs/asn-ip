@@ -1,5 +1,4 @@
 # AS13998 (SWMED)
-# University of Texas Southwestern Medical Center
 #
 129.112.0.0/16
 198.215.36.0/22

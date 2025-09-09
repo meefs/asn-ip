@@ -1,7 +1,6 @@
 {
   "asn": 14904,
   "handle": "KYN-GTS",
-  "description": "Kyndryl",
   "subnets": {
     "ipv4": [
       "32.97.136.0/24",

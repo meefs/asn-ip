@@ -1,5 +1,4 @@
 # AS2711 (SPIRITTEL-AS)
-# Spirit Communications
 #
 64.50.167.0/24
 64.53.0.0/17

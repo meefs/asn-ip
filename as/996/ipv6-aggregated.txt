@@ -1,5 +1,4 @@
 # AS996 (JY-MOBILE-COMMUNICATIONS)
-# JY Mobile Communications
 #
 2a0a:ba03::/32
 2a0b:d503::/32

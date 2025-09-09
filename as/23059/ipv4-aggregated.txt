@@ -1,3 +1,2 @@
 # AS23059 (LLNW-LATAM)
-# Limelight Networks Inc
 #

@@ -1,7 +1,6 @@
 {
   "asn": 33759,
   "handle": "REGENERON",
-  "description": "Regeneron Pharmaceuticals Inc",
   "subnets": {
     "ipv4": [
       "24.38.10.0/24",

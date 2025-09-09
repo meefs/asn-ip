@@ -1,7 +1,6 @@
 {
   "asn": 6143,
   "handle": "AMERICANREGENT",
-  "description": "American Regent Inc",
   "subnets": {
     "ipv4": [
       "192.225.98.0/24"

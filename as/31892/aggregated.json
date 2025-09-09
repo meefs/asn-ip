@@ -1,7 +1,6 @@
 {
   "asn": 31892,
   "handle": "FLP-MSA",
-  "description": "Forever Living Products",
   "subnets": {
     "ipv4": [
       "63.110.35.0/24",

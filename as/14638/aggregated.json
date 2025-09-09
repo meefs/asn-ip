@@ -1,7 +1,6 @@
 {
   "asn": 14638,
   "handle": "LCPRL",
-  "description": "Liberty Communications of Puerto Rico LLC",
   "subnets": {
     "ipv4": [
       "24.41.128.0/17",

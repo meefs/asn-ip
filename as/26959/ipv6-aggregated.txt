@@ -1,3 +1,2 @@
 # AS26959 (TRIZETTO-AS)
-# Cognizant Trizetto Software Group INC
 #

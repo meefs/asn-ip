@@ -1,7 +1,6 @@
 {
   "asn": 14134,
   "handle": "NAVISITE-WEST-2",
-  "description": "Navisite Opco LLC",
   "subnets": {
     "ipv4": [
       "168.75.216.0/21"

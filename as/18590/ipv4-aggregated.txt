@@ -1,5 +1,4 @@
 # AS18590 (CHINETWORKS)
-# Chi Networks
 #
 8.42.6.0/24
 38.100.110.0/24

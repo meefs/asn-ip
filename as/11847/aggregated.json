@@ -1,7 +1,6 @@
 {
   "asn": 11847,
   "handle": "OTT",
-  "description": "GoNetSpeed",
   "subnets": {
     "ipv4": [
       "64.135.128.0/20",

@@ -1,5 +1,4 @@
 # AS30517 (GREAT-LAKES-COMNET)
-# Great Lakes Comnet Inc
 #
 12.27.195.0/24
 64.85.144.0/20

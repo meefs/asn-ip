@@ -1,7 +1,6 @@
 {
   "asn": 39962,
   "handle": "PRETECS",
-  "description": "FullHost",
   "subnets": {
     "ipv4": [
       "107.161.32.0/23",

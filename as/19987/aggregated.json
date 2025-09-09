@@ -1,7 +1,6 @@
 {
   "asn": 19987,
   "handle": "MIWAVE-ASN01",
-  "description": "MiWave",
   "subnets": {
     "ipv4": [],
     "ipv6": []

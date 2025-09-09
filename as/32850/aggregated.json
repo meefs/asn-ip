@@ -1,7 +1,6 @@
 {
   "asn": 32850,
   "handle": "CLARITEV-VA",
-  "description": "Claritev Corporation",
   "subnets": {
     "ipv4": [
       "208.78.20.0/24",

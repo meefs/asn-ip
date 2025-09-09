@@ -1,7 +1,6 @@
 {
   "asn": 978,
   "handle": "SHAMROCK-TRADING-CORPORATION",
-  "description": "Shamrock Trading Corporation",
   "subnets": {
     "ipv4": [
       "134.65.204.0/23",

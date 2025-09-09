@@ -1,5 +1,4 @@
 # AS21777 (MASSIVE-NETWORKS)
-# Massive Networks
 #
 64.92.96.0/19
 192.124.0.0/24

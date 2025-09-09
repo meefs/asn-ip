@@ -1,7 +1,6 @@
 {
   "asn": 14881,
   "handle": "NMG-1",
-  "description": "The Neiman Marcus Group LLC",
   "subnets": {
     "ipv4": [
       "216.150.206.0/23"

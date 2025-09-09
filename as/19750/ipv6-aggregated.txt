@@ -1,5 +1,4 @@
 # AS19750 (AS-CRITEO)
-# Criteo Corp
 #
 2607:d7c0:3::/48
 2607:d7c0:4::/47

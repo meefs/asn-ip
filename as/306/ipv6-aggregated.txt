@@ -1,5 +1,4 @@
 # AS306 (DNIC-ASBLK-00306-00371)
-# DoD Network Information Center
 #
 2608:10a:1100::/40
 2608:10a:2100::/40

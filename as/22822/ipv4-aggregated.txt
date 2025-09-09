@@ -1,3 +1,2 @@
 # AS22822 (LLNW)
-# Limelight Networks Inc
 #

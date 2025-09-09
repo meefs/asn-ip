@@ -1,7 +1,6 @@
 {
   "asn": 33371,
   "handle": "WMA-BEVERLY-HILLS",
-  "description": "WME",
   "subnets": {
     "ipv4": [
       "143.223.0.0/24",

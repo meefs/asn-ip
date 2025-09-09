@@ -1,7 +1,6 @@
 {
   "asn": 22415,
   "handle": "AVANTWIRELESS",
-  "description": "AvantWireless LLC",
   "subnets": {
     "ipv4": [
       "192.153.5.0/24"

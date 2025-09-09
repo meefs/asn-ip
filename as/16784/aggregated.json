@@ -1,7 +1,6 @@
 {
   "asn": 16784,
   "handle": "INETZ",
-  "description": "Inetz Media Group",
   "subnets": {
     "ipv4": [
       "199.16.170.0/23"

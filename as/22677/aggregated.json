@@ -1,7 +1,6 @@
 {
   "asn": 22677,
   "handle": "CHARTER-22677-MO-IL-C3",
-  "description": "Charter Communications LLC",
   "subnets": {
     "ipv4": [
       "76.58.0.0/23",

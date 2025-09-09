@@ -1,3 +1,2 @@
 # AS29709 (NEONET-FALLS)
-# Northeast Ohio Network for Educational Technology
 #

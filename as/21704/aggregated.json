@@ -1,7 +1,6 @@
 {
   "asn": 21704,
   "handle": "ASN-21704",
-  "description": "New York City Board of Education",
   "subnets": {
     "ipv4": [
       "64.125.59.0/24",

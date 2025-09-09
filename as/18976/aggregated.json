@@ -1,7 +1,6 @@
 {
   "asn": 18976,
   "handle": "UNICOM-SYSTEMS-INC",
-  "description": "UNICOM Systems Inc",
   "subnets": {
     "ipv4": [
       "65.215.103.0/24",

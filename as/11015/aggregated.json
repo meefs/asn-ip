@@ -1,7 +1,6 @@
 {
   "asn": 11015,
   "handle": "TCH-AS",
-  "description": "Texas Children\u0027s Hospital",
   "subnets": {
     "ipv4": [
       "207.231.40.0/21"

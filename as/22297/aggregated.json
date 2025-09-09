@@ -1,7 +1,6 @@
 {
   "asn": 22297,
   "handle": "JELECOS-AS-01",
-  "description": "Jelecos LLC",
   "subnets": {
     "ipv4": [
       "38.88.75.0/24",

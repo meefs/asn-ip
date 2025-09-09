@@ -1,7 +1,6 @@
 {
   "asn": 948,
   "handle": "JANTECHCS-AS",
-  "description": "JanTech Computer Services",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,7 +1,6 @@
 {
   "asn": 11233,
   "handle": "GORGE-NETWORKS",
-  "description": "Gorge Networks LLC",
   "subnets": {
     "ipv4": [
       "64.85.28.0/22",

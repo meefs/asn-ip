@@ -1,3 +1,2 @@
 # AS16807 (KYN-EVENTS)
-# Kyndryl
 #

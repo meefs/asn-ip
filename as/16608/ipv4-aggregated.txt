@@ -1,5 +1,4 @@
 # AS16608 (KENTEC)
-# Kentec Communications Inc
 #
 64.187.64.0/20
 64.187.81.0/24

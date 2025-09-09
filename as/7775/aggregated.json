@@ -1,7 +1,6 @@
 {
   "asn": 7775,
   "handle": "IRONTRUST-NETWORKS",
-  "description": "Irontrust Networks",
   "subnets": {
     "ipv4": [
       "86.54.225.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 36515,
   "handle": "ASN-ALLENS",
-  "description": "Allens Communications",
   "subnets": {
     "ipv4": [
       "65.126.112.0/21",

@@ -1,7 +1,6 @@
 {
   "asn": 7257,
   "handle": "GPC",
-  "description": "Great Plains Connect",
   "subnets": {
     "ipv4": [
       "216.146.28.0/23"

@@ -1,7 +1,6 @@
 {
   "asn": 22401,
   "handle": "FC-POTAWATOMI-MKE-BINGO-CASINO",
-  "description": "Potawatomi Bingo Casino",
   "subnets": {
     "ipv4": [
       "207.250.98.0/24"

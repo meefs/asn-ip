@@ -1,7 +1,6 @@
 {
   "asn": 22208,
   "handle": "CTC-AS",
-  "description": "Chicago Trading Company",
   "subnets": {
     "ipv4": [
       "103.147.252.0/24",

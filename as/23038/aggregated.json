@@ -1,7 +1,6 @@
 {
   "asn": 23038,
   "handle": "BRDBND-USER-GRP",
-  "description": "City of Hillsboro",
   "subnets": {
     "ipv4": [
       "208.71.200.0/21"

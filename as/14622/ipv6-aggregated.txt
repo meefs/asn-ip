@@ -1,3 +1,2 @@
 # AS14622 (AS-14622-CHI)
-# GoFIBER
 #

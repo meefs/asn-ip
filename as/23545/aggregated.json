@@ -1,7 +1,6 @@
 {
   "asn": 23545,
   "handle": "CENTRICFL-ASN",
-  "description": "Centric Fiber Florida LLC",
   "subnets": {
     "ipv4": [
       "204.8.238.0/24"

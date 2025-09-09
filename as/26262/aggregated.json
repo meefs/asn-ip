@@ -1,7 +1,6 @@
 {
   "asn": 26262,
   "handle": "RWIFI-AS01",
-  "description": "Circle City Internet",
   "subnets": {
     "ipv4": [
       "23.189.184.0/24"

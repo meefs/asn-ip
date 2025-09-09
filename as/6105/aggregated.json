@@ -1,7 +1,6 @@
 {
   "asn": 6105,
   "handle": "DENVERWATER-1",
-  "description": "Denver Water",
   "subnets": {
     "ipv4": [
       "52.129.10.0/24"

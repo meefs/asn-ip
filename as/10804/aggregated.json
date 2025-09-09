@@ -1,7 +1,6 @@
 {
   "asn": 10804,
   "handle": "MFNM-AS",
-  "description": "Matawa First Nations Management",
   "subnets": {
     "ipv4": [
       "23.174.216.0/24"

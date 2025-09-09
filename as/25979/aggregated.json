@@ -1,7 +1,6 @@
 {
   "asn": 25979,
   "handle": "COMDC-WI",
-  "description": "CITY OF MADISON",
   "subnets": {
     "ipv4": [
       "204.147.0.0/20"

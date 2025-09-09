@@ -1,7 +1,6 @@
 {
   "asn": 18631,
   "handle": "WDL-TECHNOLOGIES",
-  "description": "WDL Technologies",
   "subnets": {
     "ipv4": [
       "45.146.162.0/24"

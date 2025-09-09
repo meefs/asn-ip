@@ -1,7 +1,6 @@
 {
   "asn": 11029,
   "handle": "NETVATA",
-  "description": "NetVata LLC",
   "subnets": {
     "ipv4": [
       "23.182.216.0/24",

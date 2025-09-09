@@ -1,3 +1,2 @@
 # AS30568 (VCS-AS)
-# M3COM of Virginia Inc
 #

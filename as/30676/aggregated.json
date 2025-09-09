@@ -1,7 +1,6 @@
 {
   "asn": 30676,
   "handle": "TUB",
-  "description": "Tullahoma Utilities Authority",
   "subnets": {
     "ipv4": [
       "74.123.16.0/21",

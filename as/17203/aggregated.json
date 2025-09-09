@@ -1,7 +1,6 @@
 {
   "asn": 17203,
   "handle": "BMTC-01",
-  "description": "Beresford Municipal Telephone Company",
   "subnets": {
     "ipv4": [
       "66.115.193.0/24",

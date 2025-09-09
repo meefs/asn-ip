@@ -1,3 +1,2 @@
 # AS19160 (ATGL-AS)
-# Apex Tool Group LLC
 #

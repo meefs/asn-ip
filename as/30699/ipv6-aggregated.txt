@@ -1,3 +1,2 @@
 # AS30699 (CORECIVIC)
-# CoreCivic Inc
 #

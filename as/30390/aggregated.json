@@ -1,7 +1,6 @@
 {
   "asn": 30390,
   "handle": "IMERYS-UK-PARMOOR-ASNUMBER",
-  "description": "Imerys Pigments",
   "subnets": {
     "ipv4": [
       "192.101.174.0/24",

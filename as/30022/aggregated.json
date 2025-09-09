@@ -1,7 +1,6 @@
 {
   "asn": 30022,
   "handle": "GIA-CARLSBAD",
-  "description": "Gemological Institute of America",
   "subnets": {
     "ipv4": [
       "205.143.120.0/21"

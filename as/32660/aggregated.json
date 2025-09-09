@@ -1,7 +1,6 @@
 {
   "asn": 32660,
   "handle": "SANOFI",
-  "description": "Sanofi",
   "subnets": {
     "ipv4": [],
     "ipv6": []

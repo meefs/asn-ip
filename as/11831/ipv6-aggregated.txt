@@ -1,5 +1,4 @@
 # AS11831 (ESECUREDATA)
-# eSecureData
 #
 2605:80:6::/47
 2605:80:8::/48

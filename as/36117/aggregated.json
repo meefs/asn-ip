@@ -1,7 +1,6 @@
 {
   "asn": 36117,
   "handle": "RAYMO-18",
-  "description": "Raymour \u0026 Flanigan Furniture",
   "subnets": {
     "ipv4": [
       "63.125.216.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 22583,
   "handle": "CBOE",
-  "description": "Cboe",
   "subnets": {
     "ipv4": [
       "170.137.213.0/24"

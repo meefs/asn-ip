@@ -1,7 +1,6 @@
 {
   "asn": 12250,
   "handle": "EHSC",
-  "description": "EDWARD HEALTH SERVICE CORP",
   "subnets": {
     "ipv4": [
       "45.59.156.0/23",

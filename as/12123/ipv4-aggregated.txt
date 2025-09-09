@@ -1,4 +1,3 @@
 # AS12123 (SPOKANE-TRANSIT-01)
-# Spokane Transit Authority
 #
 64.239.6.0/24

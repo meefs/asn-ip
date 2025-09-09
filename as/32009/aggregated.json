@@ -1,7 +1,6 @@
 {
   "asn": 32009,
   "handle": "PERFECTSERVE-INC",
-  "description": "PERFECTSERVE INC",
   "subnets": {
     "ipv4": [
       "12.6.16.0/24",

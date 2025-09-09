@@ -1,7 +1,6 @@
 {
   "asn": 15353,
   "handle": "XENTAIN",
-  "description": "Xentain Solutions Inc",
   "subnets": {
     "ipv4": [
       "151.243.112.0/24"

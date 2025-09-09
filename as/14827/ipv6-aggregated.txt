@@ -1,3 +1,2 @@
 # AS14827 (WSDOT-ASN)
-# Washington State Department of Transportation
 #

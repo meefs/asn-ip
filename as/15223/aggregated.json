@@ -1,7 +1,6 @@
 {
   "asn": 15223,
   "handle": "TXWES",
-  "description": "Texas Wesleyan University",
   "subnets": {
     "ipv4": [
       "64.64.64.0/19"

@@ -1,7 +1,6 @@
 {
   "asn": 22557,
   "handle": "IDENTITYDIGITAL",
-  "description": "Identity Digital Inc",
   "subnets": {
     "ipv4": [
       "69.64.144.0/23",

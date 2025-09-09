@@ -1,7 +1,6 @@
 {
   "asn": 17033,
   "handle": "CSL-ASN-AS17033",
-  "description": "CSL Behring L.L.C",
   "subnets": {
     "ipv4": [
       "8.48.225.0/24",

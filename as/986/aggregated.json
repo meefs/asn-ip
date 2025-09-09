@@ -1,7 +1,6 @@
 {
   "asn": 986,
   "handle": "KINGSBURGMEDIA-01",
-  "description": "Kingsburg Media Foundation",
   "subnets": {
     "ipv4": [
       "23.142.192.0/24",

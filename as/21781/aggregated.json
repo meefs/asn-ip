@@ -1,7 +1,6 @@
 {
   "asn": 21781,
   "handle": "DALTONSCHOOL",
-  "description": "The Dalton School",
   "subnets": {
     "ipv4": [
       "207.251.83.0/24"

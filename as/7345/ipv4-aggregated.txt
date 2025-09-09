@@ -1,5 +1,4 @@
 # AS7345 (LUCENTTECH)
-# Nokia of America Corporation
 #
 135.92.56.0/22
 135.109.0.0/17

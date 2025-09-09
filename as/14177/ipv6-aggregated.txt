@@ -1,3 +1,2 @@
 # AS14177 (PACKETXPRESS-NORTEL)
-# Nortel Networks
 #

@@ -1,5 +1,4 @@
 # AS25693 (VIRMACH)
-# Virtual Machine Solutions LLC
 #
 5.253.38.0/24
 8.43.33.0/24

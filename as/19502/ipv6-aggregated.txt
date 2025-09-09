@@ -1,3 +1,2 @@
 # AS19502 (SLICC-01)
-# SLICC Internet
 #

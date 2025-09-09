@@ -1,5 +1,4 @@
 # AS14237 (BEAMSPEED1)
-# Beamspeed LLC
 #
 38.57.179.0/24
 38.57.180.0/22

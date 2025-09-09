@@ -1,7 +1,6 @@
 {
   "asn": 11609,
   "handle": "ELAVON",
-  "description": "ELAVON",
   "subnets": {
     "ipv4": [
       "198.74.128.0/23",

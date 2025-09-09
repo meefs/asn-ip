@@ -1,7 +1,6 @@
 {
   "asn": 27628,
   "handle": "INNOVATION-SASK",
-  "description": "Innovation Saskatchewan",
   "subnets": {
     "ipv4": [
       "139.181.5.0/24",

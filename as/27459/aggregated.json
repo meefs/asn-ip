@@ -1,7 +1,6 @@
 {
   "asn": 27459,
   "handle": "AXOSBANK-AS",
-  "description": "AXOS BANK",
   "subnets": {
     "ipv4": [
       "35.248.16.0/24",

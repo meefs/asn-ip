@@ -1,5 +1,4 @@
 # AS10838 (OCEANIC-INTERNET-RR)
-# Charter Communications Inc
 #
 2600:5c00::/36
 2602:107:6010::/44

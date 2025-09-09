@@ -1,3 +1,2 @@
 # AS23274 (PRICELINE-COM-AS-01)
-# Priceline.com
 #

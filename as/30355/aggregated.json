@@ -1,7 +1,6 @@
 {
   "asn": 30355,
   "handle": "UPLINKWIRELESS",
-  "description": "Genesys IT Solutions",
   "subnets": {
     "ipv4": [
       "38.56.252.0/22"

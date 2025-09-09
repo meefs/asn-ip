@@ -1,7 +1,6 @@
 {
   "asn": 23168,
   "handle": "MCDEAN-ASN",
-  "description": "M.C. Dean Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

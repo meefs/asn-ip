@@ -1,3 +1,2 @@
 # AS35946 (ADEPTRA-INCORPORATED-MULTI-HOMING-AS)
-# Fair Isaac Corporation
 #

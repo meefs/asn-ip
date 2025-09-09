@@ -1,3 +1,2 @@
 # AS33166 (BFS-49-33166)
-# Broadridge Financial Solutions Inc
 #

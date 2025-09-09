@@ -1,3 +1,2 @@
 # AS8069 (MICROSOFT-CORP-MSN-AS-BLOCK)
-# Microsoft Corporation
 #

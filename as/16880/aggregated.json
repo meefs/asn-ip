@@ -1,7 +1,6 @@
 {
   "asn": 16880,
   "handle": "AS2-TRENDMICRO-COM",
-  "description": "TREND MICRO INCORPORATED",
   "subnets": {
     "ipv4": [
       "66.180.80.0/20",

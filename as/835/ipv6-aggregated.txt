@@ -1,5 +1,4 @@
 # AS835 (GOCODEIT-EDGE)
-# GoCodeIT Inc
 #
 2602:fd50::/48
 2602:fd50:2::/47

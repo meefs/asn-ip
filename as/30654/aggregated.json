@@ -1,7 +1,6 @@
 {
   "asn": 30654,
   "handle": "ANODYNE",
-  "description": "Anodyne LLC",
   "subnets": {
     "ipv4": [
       "23.163.56.0/24"

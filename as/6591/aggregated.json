@@ -1,7 +1,6 @@
 {
   "asn": 6591,
   "handle": "INGR-ASN",
-  "description": "Intergraph Corporation",
   "subnets": {
     "ipv4": [
       "170.117.213.0/24",

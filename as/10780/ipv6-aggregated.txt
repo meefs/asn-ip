@@ -1,3 +1,2 @@
 # AS10780 (PURE-STORAGE)
-# Pure Storage INC
 #

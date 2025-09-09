@@ -1,4 +1,3 @@
 # AS22336 (PELLA)
-# Pella Corporation
 #
 2602:81b:f000::/48

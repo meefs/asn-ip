@@ -1,7 +1,6 @@
 {
   "asn": 33191,
   "handle": "NOTION",
-  "description": "Notion Labs Inc",
   "subnets": {
     "ipv4": [
       "208.103.161.0/24"

@@ -1,7 +1,6 @@
 {
   "asn": 30505,
   "handle": "TJU-EF",
-  "description": "Thomas Jefferson University",
   "subnets": {
     "ipv4": [
       "208.103.188.0/24"

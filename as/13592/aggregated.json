@@ -1,7 +1,6 @@
 {
   "asn": 13592,
   "handle": "CROWNCASTLE-AS13592",
-  "description": "Crown Castle Fiber LLC",
   "subnets": {
     "ipv4": [
       "67.208.164.0/24"

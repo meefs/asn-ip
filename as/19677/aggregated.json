@@ -1,7 +1,6 @@
 {
   "asn": 19677,
   "handle": "NJTRANSIT",
-  "description": "NJTRANSIT",
   "subnets": {
     "ipv4": [
       "50.148.174.0/24",

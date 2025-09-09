@@ -1,3 +1,2 @@
 # AS16809 (DOLLAR-1855)
-# Dollar Bank
 #

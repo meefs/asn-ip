@@ -1,3 +1,2 @@
 # AS36256 (RBC-CAN-01)
-# Royal Bank of Canada
 #

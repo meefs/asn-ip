@@ -1,7 +1,6 @@
 {
   "asn": 22039,
   "handle": "SAM-ASN",
-  "description": "SAM",
   "subnets": {
     "ipv4": [],
     "ipv6": []

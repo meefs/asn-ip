@@ -1,7 +1,6 @@
 {
   "asn": 22203,
   "handle": "AS22203",
-  "description": "Navitaire LLC",
   "subnets": {
     "ipv4": [
       "149.122.98.0/23"

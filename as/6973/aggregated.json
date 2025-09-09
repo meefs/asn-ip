@@ -1,7 +1,6 @@
 {
   "asn": 6973,
   "handle": "AS6973",
-  "description": "Morgan Stanley",
   "subnets": {
     "ipv4": [
       "170.74.44.0/24",

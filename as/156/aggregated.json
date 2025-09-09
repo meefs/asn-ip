@@ -1,7 +1,6 @@
 {
   "asn": 156,
   "handle": "NORTHEASTERN-GW-AS",
-  "description": "Northeastern University",
   "subnets": {
     "ipv4": [
       "129.10.0.0/16",

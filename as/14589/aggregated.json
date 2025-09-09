@@ -1,7 +1,6 @@
 {
   "asn": 14589,
   "handle": "DIGITALWEST-AS",
-  "description": "Wave Broadband",
   "subnets": {
     "ipv4": [
       "72.29.160.0/19",

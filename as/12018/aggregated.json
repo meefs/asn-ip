@@ -1,7 +1,6 @@
 {
   "asn": 12018,
   "handle": "OOCL-SJC",
-  "description": "OOCL (USA) Inc",
   "subnets": {
     "ipv4": [
       "146.222.120.0/23",

@@ -1,7 +1,6 @@
 {
   "asn": 11799,
   "handle": "AS11799",
-  "description": "JMC Capital LLC",
   "subnets": {
     "ipv4": [
       "198.78.188.0/24",

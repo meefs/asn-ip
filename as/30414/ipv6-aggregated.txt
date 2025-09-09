@@ -1,3 +1,2 @@
 # AS30414 (ASN-DTC)
-# Digitcom Telecommunications Canada Inc
 #

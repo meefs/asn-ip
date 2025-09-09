@@ -1,7 +1,6 @@
 {
   "asn": 22974,
   "handle": "CHARTER-22974-MICHIGAN-DETROIT-C3",
-  "description": "Charter Communications LLC",
   "subnets": {
     "ipv4": [
       "47.45.54.0/24",

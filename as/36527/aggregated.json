@@ -1,7 +1,6 @@
 {
   "asn": 36527,
   "handle": "RINCON-WIRELESS",
-  "description": "Rincon Wireless",
   "subnets": {
     "ipv4": [
       "184.178.79.0/24"

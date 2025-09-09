@@ -1,7 +1,6 @@
 {
   "asn": 36286,
   "handle": "RLEWAN-01",
-  "description": "NGA",
   "subnets": {
     "ipv4": [
       "66.160.174.0/24",

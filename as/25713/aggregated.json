@@ -1,7 +1,6 @@
 {
   "asn": 25713,
   "handle": "AS-DTS",
-  "description": "Dollar Tree",
   "subnets": {
     "ipv4": [
       "208.72.180.0/22",

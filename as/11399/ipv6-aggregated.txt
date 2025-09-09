@@ -1,5 +1,4 @@
 # AS11399 (WILLIAMSCOLLEGE)
-# Williams College
 #
 2001:470:ed::/48
 2602:811:3000::/44

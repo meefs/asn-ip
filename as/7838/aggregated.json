@@ -1,7 +1,6 @@
 {
   "asn": 7838,
   "handle": "USAA",
-  "description": "United Services Automobile Association",
   "subnets": {
     "ipv4": [
       "167.24.24.0/23",

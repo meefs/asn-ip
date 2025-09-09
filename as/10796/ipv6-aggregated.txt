@@ -1,5 +1,4 @@
 # AS10796 (TWC-10796-MIDWEST)
-# Charter Communications Inc
 #
 2600:5c01::/32
 2600:6c7f:9380::/44

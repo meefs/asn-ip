@@ -1,7 +1,6 @@
 {
   "asn": 747,
   "handle": "DNIC-AS-00747",
-  "description": "Headquarters USAISC",
   "subnets": {
     "ipv4": [
       "143.68.64.0/19",

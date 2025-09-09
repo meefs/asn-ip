@@ -1,7 +1,6 @@
 {
   "asn": 6517,
   "handle": "LAKENETWORKS-AS",
-  "description": "LAKENETWORKS",
   "subnets": {
     "ipv4": [
       "23.132.228.0/24"

@@ -1,5 +1,4 @@
 # AS20066 (MSC-SJ-HQ)
-# Supermicro Computer
 #
 50.145.10.0/24
 50.225.87.0/24

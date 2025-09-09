@@ -1,7 +1,6 @@
 {
   "asn": 14103,
   "handle": "ACDNET-ASN1",
-  "description": "ACD.net",
   "subnets": {
     "ipv4": [
       "38.46.88.0/21",

@@ -1,5 +1,4 @@
 # AS4 (ISI-AS)
-# University of Southern California
 #
 2001:500:202::/48
 2001:1878:401::/48

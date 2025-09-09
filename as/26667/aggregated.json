@@ -1,7 +1,6 @@
 {
   "asn": 26667,
   "handle": "RUBICONPROJECT",
-  "description": "Magnite Inc",
   "subnets": {
     "ipv4": [
       "69.173.144.0/21",

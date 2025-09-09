@@ -1,5 +1,4 @@
 # AS20135 (MTL-19)
-# Millennium Telcom LLC
 #
 38.3.16.0/20
 38.13.96.0/19

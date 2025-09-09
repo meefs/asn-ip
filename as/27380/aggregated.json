@@ -1,7 +1,6 @@
 {
   "asn": 27380,
   "handle": "NYSS",
-  "description": "NYSS",
   "subnets": {
     "ipv4": [
       "68.69.112.0/22"

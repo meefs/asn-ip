@@ -1,7 +1,6 @@
 {
   "asn": 21974,
   "handle": "FMIC",
-  "description": "Frankenmuth Mutual Insurance Company",
   "subnets": {
     "ipv4": [
       "130.51.126.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 19687,
   "handle": "PPPS-ILG",
-  "description": "Planet Payment Processing Services",
   "subnets": {
     "ipv4": [
       "63.127.131.0/24",

@@ -1,5 +1,4 @@
 # AS6597 (COLOBLOX)
-# Coloblox Data Centers Inc
 #
 66.163.224.0/19
 78.142.0.0/24

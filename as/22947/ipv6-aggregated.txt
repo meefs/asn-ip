@@ -1,3 +1,2 @@
 # AS22947 (IN-VPN-VENDOR-ASN)
-# Interac Corp
 #

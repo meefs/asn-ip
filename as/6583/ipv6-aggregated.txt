@@ -1,3 +1,2 @@
 # AS6583 (MONGO-6583)
-# MongoDB Inc
 #

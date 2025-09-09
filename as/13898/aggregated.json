@@ -1,7 +1,6 @@
 {
   "asn": 13898,
   "handle": "SMART-MOBILE",
-  "description": "Smart Mobile LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": [

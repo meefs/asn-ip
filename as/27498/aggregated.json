@@ -1,7 +1,6 @@
 {
   "asn": 27498,
   "handle": "SACREDSERVERS",
-  "description": "Sacred Servers",
   "subnets": {
     "ipv4": [
       "23.128.44.0/24"

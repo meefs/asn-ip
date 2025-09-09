@@ -1,7 +1,6 @@
 {
   "asn": 26714,
   "handle": "NORTHEAST-TEXAS-COMMUNITY-COLLEGE",
-  "description": "Northeast Texas Community College",
   "subnets": {
     "ipv4": [
       "68.69.50.0/24",

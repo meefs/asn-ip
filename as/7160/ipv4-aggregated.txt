@@ -1,3 +1,2 @@
 # AS7160 (NETDYNAMICS)
-# Oracle Corporation
 #

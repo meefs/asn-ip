@@ -1,5 +1,4 @@
 # AS32945 (TECONECTAMOS)
-# Tekwerks Internet
 #
 23.163.232.0/24
 38.75.18.0/23

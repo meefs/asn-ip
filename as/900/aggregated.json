@@ -1,7 +1,6 @@
 {
   "asn": 900,
   "handle": "WAA",
-  "description": "WAA",
   "subnets": {
     "ipv4": [
       "207.174.10.0/24"

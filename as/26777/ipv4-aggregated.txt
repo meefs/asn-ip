@@ -1,3 +1,2 @@
 # AS26777 (CBC-COMPANIES-INC)
-# CBC Companies Inc
 #

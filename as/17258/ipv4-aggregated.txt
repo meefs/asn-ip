@@ -1,3 +1,2 @@
 # AS17258 (ATT-MOBILITY-LLC-AS17258)
-# AT&T Enterprises LLC
 #

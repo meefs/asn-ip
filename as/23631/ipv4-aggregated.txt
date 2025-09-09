@@ -1,4 +1,4 @@
-# AS23631 (KISNET)
+# AS23631 (SOFU-SYSTEM)
 # Sofu System Inc
 #
 202.243.120.0/21

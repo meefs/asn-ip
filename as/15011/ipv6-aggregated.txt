@@ -1,3 +1,2 @@
 # AS15011 (JAGUAR-1)
-# Jaguar Communications
 #

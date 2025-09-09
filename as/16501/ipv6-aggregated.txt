@@ -1,3 +1,2 @@
 # AS16501 (I2C-ASN)
-# i2c Incorporated
 #

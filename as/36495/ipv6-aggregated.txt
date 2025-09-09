@@ -1,3 +1,2 @@
 # AS36495 (HEADEND)
-# Esparto Broadband Inc
 #

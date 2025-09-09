@@ -1,7 +1,6 @@
 {
   "asn": 2577,
   "handle": "DNIC-AS-02577",
-  "description": "DoD Network Information Center",
   "subnets": {
     "ipv4": [
       "67.133.98.0/24",

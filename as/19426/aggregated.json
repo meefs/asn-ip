@@ -1,7 +1,6 @@
 {
   "asn": 19426,
   "handle": "HARRIS-COUNTY-ESD11-01",
-  "description": "Harris County ESD 11 Mobile Healthcare",
   "subnets": {
     "ipv4": [
       "207.174.60.0/24"

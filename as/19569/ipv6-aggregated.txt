@@ -1,3 +1,2 @@
 # AS19569 (STAB-AS-001)
-# STABILUS
 #

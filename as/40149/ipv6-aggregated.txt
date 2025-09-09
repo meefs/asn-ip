@@ -1,3 +1,2 @@
 # AS40149 (UBNET1-AS)
-# University of Bridgeport
 #

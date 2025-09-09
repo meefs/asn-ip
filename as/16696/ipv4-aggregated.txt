@@ -1,5 +1,4 @@
 # AS16696 (ITELNETWORKS)
-# iTel Networks Inc
 #
 23.164.176.0/24
 45.248.124.0/23

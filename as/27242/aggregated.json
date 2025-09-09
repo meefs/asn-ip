@@ -1,9 +1,10 @@
 {
   "asn": 27242,
   "handle": "ATI-LAX",
-  "description": "AMERICANTOURS INTERNATIONAL INC",
   "subnets": {
-    "ipv4": [],
+    "ipv4": [
+      "76.79.184.0/24"
+    ],
     "ipv6": []
   }
 }

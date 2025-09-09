@@ -1,7 +1,6 @@
 {
   "asn": 26666,
   "handle": "INTERSERVER-LAX",
-  "description": "Interserver Inc",
   "subnets": {
     "ipv4": [
       "64.81.183.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 11930,
   "handle": "CAT",
-  "description": "Cat Networks Inc",
   "subnets": {
     "ipv4": [
       "23.141.32.0/24"

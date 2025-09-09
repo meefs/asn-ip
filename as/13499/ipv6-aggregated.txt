@@ -1,3 +1,2 @@
 # AS13499 (CH-ENT-DC-IL)
-# NEW CCH LLC
 #

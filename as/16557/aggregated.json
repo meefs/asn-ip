@@ -1,7 +1,6 @@
 {
   "asn": 16557,
   "handle": "COLOSOLUTIONS",
-  "description": "Colo Solutions",
   "subnets": {
     "ipv4": [
       "66.103.128.0/19",

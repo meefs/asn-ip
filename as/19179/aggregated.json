@@ -1,7 +1,6 @@
 {
   "asn": 19179,
   "handle": "COEP",
-  "description": "City of El Paso",
   "subnets": {
     "ipv4": [
       "142.202.21.0/24",

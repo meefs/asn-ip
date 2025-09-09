@@ -1,7 +1,6 @@
 {
   "asn": 12180,
   "handle": "INTERNAP-2BLK",
-  "description": "Unitas Global",
   "subnets": {
     "ipv4": [
       "63.250.0.0/22",

@@ -1,5 +1,4 @@
 # AS1097 (CORE-TRANSIT)
-# Core Transit LLC
 #
 2607:77c0::/34
 2607:77c0:4000::/47

@@ -1,3 +1,2 @@
 # AS2726 (AS-WEBFORMIX)
-# Webformix
 #

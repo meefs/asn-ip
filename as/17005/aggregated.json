@@ -1,7 +1,6 @@
 {
   "asn": 17005,
   "handle": "NFL3",
-  "description": "National Football League",
   "subnets": {
     "ipv4": [
       "72.46.66.0/23",

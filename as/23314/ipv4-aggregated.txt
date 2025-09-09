@@ -1,5 +1,4 @@
 # AS23314 (ORLANDOTELCO)
-# Summit Broadband
 #
 8.19.242.0/24
 8.34.13.0/24

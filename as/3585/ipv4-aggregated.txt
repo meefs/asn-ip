@@ -1,5 +1,4 @@
 # AS3585 (AS3585)
-# TE Connectivity Corporation
 #
 12.26.84.0/24
 192.46.174.0/23

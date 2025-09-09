@@ -1,7 +1,6 @@
 {
   "asn": 33017,
   "handle": "HARDFAULT",
-  "description": "Hardfault",
   "subnets": {
     "ipv4": [
       "23.174.144.0/24"

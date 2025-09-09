@@ -1,3 +1,2 @@
 # AS5073 (HPINC)
-# HP Inc
 #

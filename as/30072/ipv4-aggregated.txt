@@ -1,5 +1,4 @@
 # AS30072 (WESTEX-AS1)
-# Wes-Tex Telecommunications LTD
 #
 69.55.192.0/20
 69.94.186.0/24

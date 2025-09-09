@@ -1,3 +1,2 @@
 # AS2149 (COGENT-2149)
-# Cogent Communications
 #

@@ -1,7 +1,6 @@
 {
   "asn": 18950,
   "handle": "HAWAIIANFIBER",
-  "description": "HAWAIIAN TELCOM FIBER LLC",
   "subnets": {
     "ipv4": [
       "23.230.45.0/24",

@@ -1,5 +1,4 @@
 # AS11203 (CALDSL)
-# Matrix Broadband
 #
 38.51.112.0/22
 38.51.116.0/24

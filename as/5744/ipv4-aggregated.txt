@@ -1,5 +1,4 @@
 # AS5744 (USPTO)
-# United States Patent and Trademark Office
 #
 151.207.232.0/22
 151.207.240.0/20

@@ -1,3 +1,2 @@
 # AS30151 (SLI-ASN)
-# Silver Lake Internet LLC
 #

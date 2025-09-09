@@ -1,7 +1,6 @@
 {
   "asn": 1218,
   "handle": "NCUBE-BELMONT-AS",
-  "description": "Oracle Corporation",
   "subnets": {
     "ipv4": [
       "81.208.184.0/22",

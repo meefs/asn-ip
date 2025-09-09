@@ -1,3 +1,2 @@
 # AS32208 (SKL-SERVICES-ASN)
-# SKL Services Inc
 #

@@ -1,7 +1,6 @@
 {
   "asn": 22586,
   "handle": "AS22586",
-  "description": "Gulfstream Aerospace Corporation",
   "subnets": {
     "ipv4": [
       "134.216.0.0/16"

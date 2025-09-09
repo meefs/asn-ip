@@ -1,7 +1,6 @@
 {
   "asn": 19451,
   "handle": "ELECTROCLOUD",
-  "description": "Electro Cloud",
   "subnets": {
     "ipv4": [],
     "ipv6": [

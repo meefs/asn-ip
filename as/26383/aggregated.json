@@ -1,7 +1,6 @@
 {
   "asn": 26383,
   "handle": "ASNET",
-  "description": "Baxet Group Inc",
   "subnets": {
     "ipv4": [
       "2.58.95.0/24",

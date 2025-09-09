@@ -1,7 +1,6 @@
 {
   "asn": 930,
   "handle": "CITY-OF-CELINA",
-  "description": "CITY OF CELINA",
   "subnets": {
     "ipv4": [
       "170.205.8.0/23"

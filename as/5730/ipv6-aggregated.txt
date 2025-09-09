@@ -1,3 +1,2 @@
 # AS5730 (WORLDNET3)
-# AT&T Enterprises LLC
 #

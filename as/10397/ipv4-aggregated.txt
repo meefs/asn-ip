@@ -1,5 +1,4 @@
 # AS10397 (MOMENTUM)
-# Momentum Telecom Inc
 #
 8.20.31.0/24
 8.34.170.0/24

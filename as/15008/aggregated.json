@@ -1,7 +1,6 @@
 {
   "asn": 15008,
   "handle": "AISG",
-  "description": "AISG",
   "subnets": {
     "ipv4": [
       "208.64.108.0/22",

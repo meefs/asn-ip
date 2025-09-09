@@ -1,7 +1,6 @@
 {
   "asn": 15009,
   "handle": "UNISYSASN15009",
-  "description": "Unisys Corporation",
   "subnets": {
     "ipv4": [],
     "ipv6": []

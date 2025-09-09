@@ -1,7 +1,6 @@
 {
   "asn": 1070,
   "handle": "AS-PRP-001",
-  "description": "Peel Regional Police",
   "subnets": {
     "ipv4": [
       "204.138.80.0/24",

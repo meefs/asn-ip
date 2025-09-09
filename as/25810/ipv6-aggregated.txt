@@ -1,3 +1,2 @@
 # AS25810 (NLHA-INET-AS)
-# The New London Hospital Association Inc
 #

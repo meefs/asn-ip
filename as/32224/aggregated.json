@@ -1,7 +1,6 @@
 {
   "asn": 32224,
   "handle": "EMPIRE",
-  "description": "Empire Southwest",
   "subnets": {
     "ipv4": [
       "8.18.99.0/24",

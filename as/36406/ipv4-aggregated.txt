@@ -1,5 +1,4 @@
 # AS36406 (US-FIRE-INSURANCE-COMPANY)
-# United States Fire Insurance Company
 #
 12.236.218.0/24
 192.238.21.0/24

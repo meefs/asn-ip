@@ -1,5 +1,4 @@
 # AS38047 (TAIWAN-TELECOM)
-# Taiwan Telecom
 #
 2400:61a0::/32
 2602:f83b:1::/48

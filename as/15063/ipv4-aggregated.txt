@@ -1,5 +1,4 @@
 # AS15063 (PWEH-ASN)
-# Pratt and Whitney
 #
 140.157.36.0/24
 140.157.38.0/23

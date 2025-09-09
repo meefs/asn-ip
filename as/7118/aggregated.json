@@ -1,7 +1,6 @@
 {
   "asn": 7118,
   "handle": "GIS-7118",
-  "description": "Global Internet Services",
   "subnets": {
     "ipv4": [
       "199.1.24.0/21",

@@ -1,7 +1,6 @@
 {
   "asn": 16633,
   "handle": "I-3",
-  "description": "N-able Technologies Inc",
   "subnets": {
     "ipv4": [
       "38.45.168.0/23",

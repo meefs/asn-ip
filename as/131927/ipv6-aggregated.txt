@@ -1,4 +1,4 @@
-# AS131927 (TVM)
-# TV Matsumoto Cablevision
+# AS131927 (JPNIC-4BYTE-ASBLOCK-AP)
+# JPNIC-4Byte-ASBLOCK-AP
 #
 2401:f820::/32

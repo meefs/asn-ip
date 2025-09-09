@@ -1,7 +1,5 @@
 {
   "asn": 26137,
-  "handle": "LIGHT-WONDER-INC",
-  "description": "Light \u0026 Wonder Inc",
   "subnets": {
     "ipv4": [
       "208.78.228.0/22"

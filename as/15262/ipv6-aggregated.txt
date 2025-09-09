@@ -1,3 +1,2 @@
 # AS15262 (TSYS-NDC-COPORATE-INTERNET)
-# Global Payments Inc
 #

@@ -1,7 +1,6 @@
 {
   "asn": 22580,
   "handle": "GUARD",
-  "description": "GUARD INSURANCE GROUP",
   "subnets": {
     "ipv4": [
       "199.224.104.0/24",

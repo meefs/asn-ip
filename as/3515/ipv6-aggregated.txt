@@ -1,3 +1,2 @@
 # AS3515 (DSI-WR)
-# RTX BBN Technologies Inc
 #

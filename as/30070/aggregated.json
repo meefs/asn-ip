@@ -1,7 +1,6 @@
 {
   "asn": 30070,
   "handle": "THE-HERSHEY-COMPANY",
-  "description": "The Hershey Company",
   "subnets": {
     "ipv4": [
       "168.133.11.0/24",

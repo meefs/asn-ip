@@ -1,3 +1,2 @@
 # AS27232 (OOMA-INC-OOMA-ENTERPRISE)
-# Ooma Inc
 #

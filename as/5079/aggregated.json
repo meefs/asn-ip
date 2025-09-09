@@ -1,7 +1,6 @@
 {
   "asn": 5079,
   "handle": "DIAL-CALL",
-  "description": "T-Mobile USA Inc",
   "subnets": {
     "ipv4": [
       "72.7.0.0/16"

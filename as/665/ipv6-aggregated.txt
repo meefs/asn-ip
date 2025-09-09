@@ -1,3 +1,2 @@
 # AS665 (DNIC-ASBLK-00616-00665)
-# DoD Network Information Center
 #

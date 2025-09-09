@@ -1,7 +1,6 @@
 {
   "asn": 17362,
   "handle": "NESTEGG",
-  "description": "Nestegg LLC",
   "subnets": {
     "ipv4": [
       "69.50.14.0/24"

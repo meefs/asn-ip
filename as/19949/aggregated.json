@@ -1,7 +1,6 @@
 {
   "asn": 19949,
   "handle": "FNFISP",
-  "description": "FNFISP",
   "subnets": {
     "ipv4": [
       "63.104.232.0/21",

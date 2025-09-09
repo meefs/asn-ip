@@ -1,6 +1,6 @@
 {
   "asn": 37888,
-  "handle": "HORIBA-NET",
+  "handle": "HORIBANET",
   "description": "HORIBA Ltd",
   "subnets": {
     "ipv4": [

@@ -1,4 +1,4 @@
-# AS9621 (II-OKINAWA)
+# AS9621 (OTNET)
 # Okinawa Telecommunication Network Co. Inc
 #
 61.210.64.0/19

@@ -1,7 +1,6 @@
 {
   "asn": 902,
   "handle": "SPACECOASTCREDITUNIONMAIN",
-  "description": "SPACE COAST CREDIT UNION",
   "subnets": {
     "ipv4": [
       "8.34.19.0/24",

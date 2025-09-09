@@ -1,7 +1,6 @@
 {
   "asn": 33134,
   "handle": "KTCFV-USA",
-  "description": "Kingston Technology Company Inc",
   "subnets": {
     "ipv4": [
       "98.153.192.0/24",

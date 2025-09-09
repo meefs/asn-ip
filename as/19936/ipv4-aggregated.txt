@@ -1,5 +1,4 @@
 # AS19936 (GORDONFOODS)
-# Gordon Food Service
 #
 66.111.54.0/23
 98.158.228.0/23

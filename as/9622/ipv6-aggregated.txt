@@ -1,4 +1,4 @@
-# AS9622 (KCT)
-# Kurashiki Cable TV
+# AS9622 (RESERVED)
+# APNIC ASN block
 #
 2001:e90::/32

@@ -1,7 +1,6 @@
 {
   "asn": 36106,
   "handle": "MANAGEDNODES",
-  "description": "Managed Nodes LLC",
   "subnets": {
     "ipv4": [
       "144.86.164.0/23"

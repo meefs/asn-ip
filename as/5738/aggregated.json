@@ -1,7 +1,6 @@
 {
   "asn": 5738,
   "handle": "SOVER-ASN",
-  "description": "FirstLight Fiber Inc",
   "subnets": {
     "ipv4": [
       "64.17.96.0/19",

@@ -1,7 +1,6 @@
 {
   "asn": 36709,
   "handle": "OPTIMA",
-  "description": "NP Information Systems",
   "subnets": {
     "ipv4": [
       "74.80.235.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 49,
   "handle": "US-NATIONAL-INSTITUTE-OF-STANDARDS-AND-TECHNOLOGY",
-  "description": "National Institute of Standards and Technology",
   "subnets": {
     "ipv4": [
       "129.6.0.0/19",

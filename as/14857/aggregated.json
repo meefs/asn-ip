@@ -1,7 +1,6 @@
 {
   "asn": 14857,
   "handle": "FREESCALE-AZ",
-  "description": "NXP USA Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

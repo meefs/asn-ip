@@ -1,7 +1,6 @@
 {
   "asn": 27323,
   "handle": "SERVERSTADIUM",
-  "description": "Wowrack.com",
   "subnets": {
     "ipv4": [
       "38.246.149.0/24",

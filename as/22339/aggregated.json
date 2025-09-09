@@ -1,7 +1,6 @@
 {
   "asn": 22339,
   "handle": "UDBQ-1",
-  "description": "University of Dubuque",
   "subnets": {
     "ipv4": [
       "23.135.164.0/24"

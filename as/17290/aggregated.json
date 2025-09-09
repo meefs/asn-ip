@@ -1,7 +1,6 @@
 {
   "asn": 17290,
   "handle": "H2-TECHNOLOGIES-LLC",
-  "description": "Austin Hadley Sole Proprietorship",
   "subnets": {
     "ipv4": [
       "23.190.216.0/24",

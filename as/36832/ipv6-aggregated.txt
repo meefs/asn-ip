@@ -1,4 +1,3 @@
 # AS36832 (NGL-AS)
-# Network Gibbon LLC
 #
 2602:f8c4::/40

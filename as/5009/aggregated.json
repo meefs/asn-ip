@@ -1,7 +1,6 @@
 {
   "asn": 5009,
   "handle": "EATEL",
-  "description": "REV",
   "subnets": {
     "ipv4": [
       "45.41.16.0/22",

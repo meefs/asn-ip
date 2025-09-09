@@ -1,5 +1,4 @@
 # AS33083 (AXCELX-NET)
-# AxcelX Technologies LLC
 #
 23.129.196.0/24
 44.44.117.0/24

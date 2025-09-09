@@ -1,5 +1,4 @@
 # AS196 (BOEING196)
-# The Boeing Company
 #
 83.210.0.0/16
 130.76.0.0/16

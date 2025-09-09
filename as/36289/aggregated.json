@@ -1,7 +1,6 @@
 {
   "asn": 36289,
   "handle": "VALORCHRISTIANHIGHSCHOOL-01",
-  "description": "Valor Christian High School",
   "subnets": {
     "ipv4": [
       "128.254.212.0/22"

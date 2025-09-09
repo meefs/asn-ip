@@ -1,3 +1,2 @@
 # AS26034 (ASN-DELTA-OUT)
-# Delta Technology
 #

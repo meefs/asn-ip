@@ -1,7 +1,6 @@
 {
   "asn": 26904,
   "handle": "NASULEX",
-  "description": "Nasulex Networks",
   "subnets": {
     "ipv4": [
       "23.247.168.0/23",

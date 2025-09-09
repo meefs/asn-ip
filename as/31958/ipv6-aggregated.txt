@@ -1,3 +1,2 @@
 # AS31958 (NGNSYS-AS)
-# NGNSYS LLC
 #

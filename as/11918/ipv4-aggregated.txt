@@ -1,5 +1,4 @@
 # AS11918 (DIALLOGTORONTOCORE)
-# Diallog Telecommunications
 #
 23.130.32.0/24
 66.7.80.0/22

@@ -1,3 +1,2 @@
 # AS26561 (NETRIDGE-LLC)
-# NetRidge LLC
 #

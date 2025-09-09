@@ -1,7 +1,6 @@
 {
   "asn": 20037,
   "handle": "ORCL-SLDC",
-  "description": "Oracle Corporation",
   "subnets": {
     "ipv4": [
       "129.157.65.0/24",

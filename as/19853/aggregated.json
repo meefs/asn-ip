@@ -1,7 +1,6 @@
 {
   "asn": 19853,
   "handle": "ORANGEHOST",
-  "description": "OrangeHost",
   "subnets": {
     "ipv4": [
       "66.45.23.0/24",

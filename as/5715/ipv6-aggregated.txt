@@ -1,4 +1,3 @@
 # AS5715 (ONVOY)
-# Inteliquent inc
 #
 2604:3000::/32

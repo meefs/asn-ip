@@ -1,3 +1,2 @@
 # AS35977 (QPASS-1)
-# Amdocs Inc
 #

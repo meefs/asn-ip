@@ -1,3 +1,2 @@
 # AS11244 (MIS-NET)
-# Midstream Integrity Services LLC
 #

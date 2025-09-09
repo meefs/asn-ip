@@ -1,5 +1,4 @@
 # AS6072 (UNISYS-AS-C)
-# Unisys Corporation
 #
 129.220.13.0/24
 129.220.15.0/24

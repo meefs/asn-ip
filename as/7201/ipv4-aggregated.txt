@@ -1,4 +1,3 @@
 # AS7201 (AS-NETWORKEDGE)
-# Network Edge LLC
 #
 67.214.180.0/24

@@ -1,4 +1,3 @@
 # AS18807 (COMM-WIRELESS-N)
-# Community Wireless
 #
 2607:e640::/32

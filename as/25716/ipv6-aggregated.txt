@@ -1,3 +1,2 @@
 # AS25716 (INGERSOLL-RAND)
-# Trane Technologies Company LLC
 #

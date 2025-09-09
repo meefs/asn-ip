@@ -1,7 +1,6 @@
 {
   "asn": 1062,
   "handle": "EMMETT-FIBER",
-  "description": "City of Emmett",
   "subnets": {
     "ipv4": [
       "23.166.216.0/24",

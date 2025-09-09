@@ -1,5 +1,4 @@
 # AS5696 (EXPRES)
-# Express Scripts Incorporated
 #
 167.18.0.0/16
 167.211.0.0/16

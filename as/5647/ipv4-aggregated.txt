@@ -1,5 +1,4 @@
 # AS5647 (ASN-KODAK)
-# Eastman Kodak Company
 #
 155.50.0.0/17
 165.170.0.0/16

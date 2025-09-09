@@ -1,5 +1,4 @@
 # AS36791 (PDXHOSTING)
-# Portland Internet Hosting LLC
 #
 91.221.94.0/23
 91.227.72.0/23

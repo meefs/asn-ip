@@ -1,5 +1,4 @@
 # AS6922 (TEXASAGENCYNET)
-# Texas Department of Information Resources
 #
 192.12.10.0/24
 192.16.74.0/24

@@ -1,7 +1,6 @@
 {
   "asn": 15048,
   "handle": "METLIFE-ASN",
-  "description": "MetLife",
   "subnets": {
     "ipv4": [],
     "ipv6": []

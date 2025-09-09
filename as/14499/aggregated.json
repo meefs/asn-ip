@@ -1,7 +1,6 @@
 {
   "asn": 14499,
   "handle": "ALORICA",
-  "description": "ALORICA INC",
   "subnets": {
     "ipv4": [
       "122.55.92.0/24",

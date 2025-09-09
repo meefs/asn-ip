@@ -1,7 +1,6 @@
 {
   "asn": 1742,
   "handle": "HARVARD-UNIV",
-  "description": "Harvard University",
   "subnets": {
     "ipv4": [
       "65.112.0.0/20",

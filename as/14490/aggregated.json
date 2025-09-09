@@ -1,7 +1,6 @@
 {
   "asn": 14490,
   "handle": "NEXAVO",
-  "description": "Nexavo Ltd",
   "subnets": {
     "ipv4": [
       "23.165.168.0/24"

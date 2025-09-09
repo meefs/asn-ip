@@ -1,7 +1,6 @@
 {
   "asn": 22598,
   "handle": "ALENCO",
-  "description": "ALENCO COMMUNICATIONS INC",
   "subnets": {
     "ipv4": [
       "38.147.144.0/22",

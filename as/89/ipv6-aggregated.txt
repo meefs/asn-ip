@@ -1,3 +1,2 @@
 # AS89 (DNIC-AS-00089)
-# Navy Network Information Center (NNIC)
 #

@@ -1,3 +1,2 @@
 # AS14612 (VNC-MAIN-LIST)
-# Velios Networks Corp
 #

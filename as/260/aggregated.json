@@ -1,7 +1,6 @@
 {
   "asn": 260,
   "handle": "GTT-DXB",
-  "description": "GTT Americas LLC",
   "subnets": {
     "ipv4": [
       "78.40.204.0/23",

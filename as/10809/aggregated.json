@@ -1,7 +1,6 @@
 {
   "asn": 10809,
   "handle": "NCIA",
-  "description": "FirstLight Fiber Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,7 +1,6 @@
 {
   "asn": 26857,
   "handle": "TRUSTCOMM-AS",
-  "description": "TrustComm Inc",
   "subnets": {
     "ipv4": [
       "67.206.128.0/19",

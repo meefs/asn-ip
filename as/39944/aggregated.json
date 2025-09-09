@@ -1,7 +1,6 @@
 {
   "asn": 39944,
   "handle": "TNA",
-  "description": "Telecom North America Inc",
   "subnets": {
     "ipv4": [
       "38.52.194.0/23",

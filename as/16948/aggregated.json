@@ -1,7 +1,6 @@
 {
   "asn": 16948,
   "handle": "STRATUSWAVE",
-  "description": "CityNet",
   "subnets": {
     "ipv4": [],
     "ipv6": []

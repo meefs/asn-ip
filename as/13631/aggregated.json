@@ -1,7 +1,6 @@
 {
   "asn": 13631,
   "handle": "CIG-AS",
-  "description": "CITADEL ENTERPRISE AMERICAS LLC",
   "subnets": {
     "ipv4": [
       "38.57.54.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 15293,
   "handle": "ASN-ISS-ATL",
-  "description": "IBM",
   "subnets": {
     "ipv4": [
       "206.253.231.0/24",

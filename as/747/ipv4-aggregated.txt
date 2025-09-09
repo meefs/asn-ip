@@ -1,5 +1,4 @@
 # AS747 (DNIC-AS-00747)
-# Headquarters USAISC
 #
 143.68.64.0/19
 143.68.96.0/21

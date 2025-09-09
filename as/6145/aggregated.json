@@ -1,7 +1,6 @@
 {
   "asn": 6145,
   "handle": "SYNAPSIS-NET",
-  "description": "Synapsis.io",
   "subnets": {
     "ipv4": [
       "23.157.136.0/24",

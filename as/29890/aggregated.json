@@ -1,7 +1,6 @@
 {
   "asn": 29890,
   "handle": "CARCO",
-  "description": "Carco Group Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

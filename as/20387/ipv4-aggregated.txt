@@ -1,4 +1,3 @@
 # AS20387 (SHAKECLOUD)
-# Shake Cloud Inc
 #
 23.139.132.0/24

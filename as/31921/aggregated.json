@@ -1,7 +1,6 @@
 {
   "asn": 31921,
   "handle": "MALONE-ASN",
-  "description": "Malone University",
   "subnets": {
     "ipv4": [
       "12.188.159.0/24",

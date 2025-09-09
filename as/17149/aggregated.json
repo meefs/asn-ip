@@ -1,7 +1,6 @@
 {
   "asn": 17149,
   "handle": "GCN-AS",
-  "description": "Global Caribbean Network",
   "subnets": {
     "ipv4": [
       "208.72.228.0/22",

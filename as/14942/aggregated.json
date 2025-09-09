@@ -1,7 +1,6 @@
 {
   "asn": 14942,
   "handle": "AS14942",
-  "description": "Regional One Health",
   "subnets": {
     "ipv4": [
       "66.194.42.0/24"

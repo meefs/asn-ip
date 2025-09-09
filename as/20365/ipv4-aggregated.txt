@@ -1,5 +1,4 @@
 # AS20365 (FREEDOM-MOBILE-2)
-# Videotron Ltee
 #
 38.192.128.0/20
 38.192.144.0/21

@@ -1,3 +1,2 @@
 # AS29883 (AS-IHS)
-# Internet Hosting Servers
 #

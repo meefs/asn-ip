@@ -1,7 +1,6 @@
 {
   "asn": 30282,
   "handle": "AS-INAPCDN-OCY",
-  "description": "Unitas Global",
   "subnets": {
     "ipv4": [
       "31.186.224.0/24",

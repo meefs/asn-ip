@@ -1,5 +1,4 @@
 # AS23384 (REEDTECH)
-# Reed Technology and Information Services Inc
 #
 8.34.169.0/24
 63.151.222.0/24

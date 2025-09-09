@@ -1,3 +1,2 @@
 # AS35872 (FREEDOM-PHL-AS)
-# FreedomPay Inc
 #

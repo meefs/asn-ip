@@ -1,3 +1,2 @@
 # AS10924 (DLAS-ASN)
-# Division of Legislative Automated Systems
 #

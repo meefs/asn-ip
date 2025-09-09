@@ -1,3 +1,2 @@
 # AS23539 (TCF-NETWORK-01)
-# Tel-Star Communications Of Florida Inc
 #

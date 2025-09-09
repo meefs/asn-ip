@@ -1,5 +1,4 @@
 # AS11114 (WINTEK-CORP)
-# Wintek Corporation
 #
 69.94.48.0/21
 72.12.192.0/19

@@ -1,7 +1,6 @@
 {
   "asn": 3925,
   "handle": "ICO-SV",
-  "description": "ICOnetworks",
   "subnets": {
     "ipv4": [
       "144.86.191.0/24",

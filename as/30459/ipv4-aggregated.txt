@@ -1,5 +1,4 @@
 # AS30459 (AS-SLHC)
-# St. Luke's Roosevelt Hospital Center
 #
 159.123.235.0/24
 159.123.236.0/23

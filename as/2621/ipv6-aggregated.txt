@@ -1,3 +1,2 @@
 # AS2621 (DNIC-AS-02621)
-# DoD Network Information Center
 #

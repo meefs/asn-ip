@@ -1,3 +1,2 @@
 # AS7849 (APC-CC)
-# RingSquared CC
 #

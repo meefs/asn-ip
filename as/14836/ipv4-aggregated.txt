@@ -1,5 +1,4 @@
 # AS14836 (CITY-OF-TORONTO)
-# City of Toronto
 #
 137.15.0.0/16
 198.96.187.0/24

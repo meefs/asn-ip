@@ -1,7 +1,6 @@
 {
   "asn": 6071,
   "handle": "UNISYS-AS-E",
-  "description": "Unisys Corporation",
   "subnets": {
     "ipv4": [
       "63.226.158.0/24",

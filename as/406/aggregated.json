@@ -1,7 +1,6 @@
 {
   "asn": 406,
   "handle": "AFCONC-BLOCK1-AS",
-  "description": "Air Force Systems Networking",
   "subnets": {
     "ipv4": [
       "136.212.0.0/19",

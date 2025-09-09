@@ -1,7 +1,6 @@
 {
   "asn": 19437,
   "handle": "SS-ASH",
-  "description": "SECURED SERVERS LLC",
   "subnets": {
     "ipv4": [
       "5.8.63.0/24",

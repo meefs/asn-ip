@@ -1,3 +1,2 @@
 # AS31987 (PERSISTENT-TELECOM)
-# Persistent Telecom INC
 #

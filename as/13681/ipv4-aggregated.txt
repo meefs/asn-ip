@@ -1,3 +1,2 @@
 # AS13681 (MIDWEST-IX)
-# Midwest Internet Exchange LLC
 #

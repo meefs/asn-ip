@@ -1,5 +1,4 @@
 # AS1009 (GOV-ISP-PAFB)
-# Air Force Technical Applications Center
 #
 198.47.64.0/20
 198.47.80.0/21

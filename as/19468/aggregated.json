@@ -1,7 +1,6 @@
 {
   "asn": 19468,
   "handle": "VALEX",
-  "description": "Valex Cloud LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

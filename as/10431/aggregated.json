@@ -1,7 +1,6 @@
 {
   "asn": 10431,
   "handle": "SONORANSERVERS",
-  "description": "Sonoran Software Systems LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,7 +1,6 @@
 {
   "asn": 19814,
   "handle": "FOUNDABILITY",
-  "description": "Foundability Technologies Inc",
   "subnets": {
     "ipv4": [
       "23.189.120.0/24"

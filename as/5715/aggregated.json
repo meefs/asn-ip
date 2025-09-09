@@ -1,7 +1,6 @@
 {
   "asn": 5715,
   "handle": "ONVOY",
-  "description": "Inteliquent inc",
   "subnets": {
     "ipv4": [
       "206.9.255.0/24",

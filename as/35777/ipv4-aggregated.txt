@@ -1,5 +1,4 @@
 # AS35777 (LTN-AS)
-# LTN Global Communications Inc
 #
 46.247.65.0/24
 46.247.66.0/23

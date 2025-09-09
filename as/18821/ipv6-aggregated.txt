@@ -1,3 +1,2 @@
 # AS18821 (IOSOCKET-CLOUD)
-# Iosocket LLC
 #

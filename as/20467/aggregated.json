@@ -1,7 +1,6 @@
 {
   "asn": 20467,
   "handle": "SW-ORG-AS",
-  "description": "Baylor Health Care System",
   "subnets": {
     "ipv4": [
       "205.203.34.0/24",

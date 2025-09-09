@@ -1,7 +1,6 @@
 {
   "asn": 19766,
   "handle": "DRYDEN-FIBER",
-  "description": "Dryden Fiber",
   "subnets": {
     "ipv4": [
       "66.51.192.0/22"

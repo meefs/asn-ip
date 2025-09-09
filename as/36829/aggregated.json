@@ -1,7 +1,6 @@
 {
   "asn": 36829,
   "handle": "AS-WINSTRI",
-  "description": "Winstri Corporation",
   "subnets": {
     "ipv4": [
       "23.27.139.0/24",

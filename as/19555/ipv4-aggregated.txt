@@ -1,4 +1,3 @@
 # AS19555 (KMI-NETWORK)
-# Kinder Morgan Inc
 #
 98.159.0.0/20

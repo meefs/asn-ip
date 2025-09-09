@@ -1,5 +1,4 @@
 # AS13996 (ECHOSTAR)
-# Dish Network Corporation
 #
 66.170.240.0/24
 66.170.243.0/24

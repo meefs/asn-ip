@@ -1,7 +1,6 @@
 {
   "asn": 518,
   "handle": "DNIC-AS-00518",
-  "description": "DoD Network Information Center",
   "subnets": {
     "ipv4": [
       "199.9.178.0/23",

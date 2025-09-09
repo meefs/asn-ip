@@ -1,7 +1,6 @@
 {
   "asn": 23379,
   "handle": "AS-BBT",
-  "description": "Blackburn Technologies II LLC",
   "subnets": {
     "ipv4": [
       "23.167.48.0/24",

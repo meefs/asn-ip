@@ -1,7 +1,6 @@
 {
   "asn": 33756,
   "handle": "CHC-ASN-A",
-  "description": "The Children\u0027s Hospital Corporation",
   "subnets": {
     "ipv4": [],
     "ipv6": [

@@ -1,7 +1,6 @@
 {
   "asn": 26945,
   "handle": "AS-AMRI",
-  "description": "Curia Global Inc",
   "subnets": {
     "ipv4": [
       "74.201.149.0/24"

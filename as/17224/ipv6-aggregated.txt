@@ -1,3 +1,2 @@
 # AS17224 (ATT-CERFNET-BLOCK)
-# AT&T Enterprises LLC
 #

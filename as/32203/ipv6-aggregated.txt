@@ -1,3 +1,2 @@
 # AS32203 (TLC-126-32203)
-# Thornton Labs Inc
 #

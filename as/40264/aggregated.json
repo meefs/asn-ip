@@ -1,7 +1,6 @@
 {
   "asn": 40264,
   "handle": "TWC-40264-WI-MN-UPPERMI-C3",
-  "description": "Charter Communications LLC",
   "subnets": {
     "ipv4": [
       "24.106.0.0/24",

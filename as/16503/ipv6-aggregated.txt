@@ -1,3 +1,2 @@
 # AS16503 (ZAYO-16503)
-# Zayo Bandwidth
 #

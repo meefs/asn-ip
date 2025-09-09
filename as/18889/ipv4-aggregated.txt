@@ -1,5 +1,4 @@
 # AS18889 (CITY-OF-RUSTON)
-# City of Ruston
 #
 68.170.238.0/23
 192.152.192.0/23

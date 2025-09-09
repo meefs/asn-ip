@@ -1,7 +1,6 @@
 {
   "asn": 11086,
   "handle": "PITNEYBOWES-AS-1",
-  "description": "Pitney Bowes Incorporated",
   "subnets": {
     "ipv4": [
       "193.242.234.0/24",

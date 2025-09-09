@@ -1,7 +1,6 @@
 {
   "asn": 11989,
   "handle": "WEBINT",
-  "description": "HostPapa",
   "subnets": {
     "ipv4": [
       "70.34.32.0/21",

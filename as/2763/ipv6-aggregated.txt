@@ -1,3 +1,2 @@
 # AS2763 (PAN-22-2763)
-# Palo Alto Networks Inc
 #

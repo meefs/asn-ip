@@ -1,7 +1,6 @@
 {
   "asn": 26696,
   "handle": "MINTO-COMMUNICATIONS-SOCIETY",
-  "description": "Minto Communications Society",
   "subnets": {
     "ipv4": [
       "64.6.40.0/23"

@@ -1,7 +1,6 @@
 {
   "asn": 21728,
   "handle": "ACC-1169-ASN-BASE",
-  "description": "AVADirect Custom Computers",
   "subnets": {
     "ipv4": [
       "23.187.24.0/24"

@@ -1,7 +1,6 @@
 {
   "asn": 10996,
   "handle": "CONCORDE",
-  "description": "Concorde inc",
   "subnets": {
     "ipv4": [
       "216.239.64.0/19"

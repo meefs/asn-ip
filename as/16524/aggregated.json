@@ -1,7 +1,6 @@
 {
   "asn": 16524,
   "handle": "METTEL",
-  "description": "MetTel",
   "subnets": {
     "ipv4": [
       "38.66.48.0/20",

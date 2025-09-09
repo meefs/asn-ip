@@ -1,5 +1,4 @@
 # AS33154 (DQECOM)
-# DQE Communications LLC
 #
 45.41.203.0/24
 63.133.240.0/20

@@ -1,7 +1,6 @@
 {
   "asn": 4213,
   "handle": "EVOCATIVE-GLOBAL",
-  "description": "Krypt Technologies",
   "subnets": {
     "ipv4": [
       "64.113.24.0/23",

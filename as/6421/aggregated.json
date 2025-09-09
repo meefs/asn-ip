@@ -1,7 +1,6 @@
 {
   "asn": 6421,
   "handle": "AS6421",
-  "description": "TATA COMMUNICATIONS (AMERICA) INC",
   "subnets": {
     "ipv4": [
       "14.141.246.0/24",

@@ -1,7 +1,7 @@
 {
   "asn": 18141,
   "handle": "HBA-IDC",
-  "description": "HBA",
+  "description": "HBA Corporation",
   "subnets": {
     "ipv4": [
       "219.109.32.0/20"

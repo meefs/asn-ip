@@ -1,3 +1,2 @@
 # AS3704 (ISPNET-AS)
-# isp.net
 #

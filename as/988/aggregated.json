@@ -1,7 +1,6 @@
 {
   "asn": 988,
   "handle": "COMPUTECH-ASN",
-  "description": "Computer Technologies",
   "subnets": {
     "ipv4": [
       "23.138.120.0/24"

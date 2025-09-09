@@ -1,7 +1,6 @@
 {
   "asn": 30114,
   "handle": "DECIMA-LLC",
-  "description": "Decima LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": [

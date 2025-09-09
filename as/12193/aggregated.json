@@ -1,7 +1,6 @@
 {
   "asn": 12193,
   "handle": "IMAGINE-COMMUNICATIONS",
-  "description": "IMAGINE COMMUNICATIONS",
   "subnets": {
     "ipv4": [
       "156.43.58.0/24",

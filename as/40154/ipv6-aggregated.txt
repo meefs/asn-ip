@@ -1,3 +1,2 @@
 # AS40154 (VRC-AS)
-# Virtual Radiologic Corporation
 #

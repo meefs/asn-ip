@@ -1,7 +1,6 @@
 {
   "asn": 30076,
   "handle": "TEGRIA-ASN",
-  "description": "Tegria Services Group - US Inc",
   "subnets": {
     "ipv4": [
       "198.185.133.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 11397,
   "handle": "RIVER-DELTA-WIRELESS",
-  "description": "River Delta Wireless LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

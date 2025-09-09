@@ -1,7 +1,6 @@
 {
   "asn": 32372,
   "handle": "PRA-AS",
-  "description": "PORTFOLIO RECOVERY ASSOCIATES",
   "subnets": {
     "ipv4": [
       "64.15.16.0/23",

@@ -1,7 +1,6 @@
 {
   "asn": 26649,
   "handle": "GDCLSD-AS",
-  "description": "General Dynamics Land Systems",
   "subnets": {
     "ipv4": [
       "192.136.15.0/24",

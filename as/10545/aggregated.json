@@ -1,7 +1,6 @@
 {
   "asn": 10545,
   "handle": "LCOL",
-  "description": "University of Lynchburg",
   "subnets": {
     "ipv4": [
       "206.168.12.0/24"

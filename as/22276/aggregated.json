@@ -1,7 +1,6 @@
 {
   "asn": 22276,
   "handle": "BANKUNITED",
-  "description": "BankUnited NA",
   "subnets": {
     "ipv4": [
       "66.151.13.0/24",

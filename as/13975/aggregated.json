@@ -1,7 +1,6 @@
 {
   "asn": 13975,
   "handle": "NYCPM",
-  "description": "NYCPM",
   "subnets": {
     "ipv4": [
       "207.90.250.0/24"

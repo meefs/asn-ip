@@ -1,7 +1,6 @@
 {
   "asn": 36862,
   "handle": "AS36862",
-  "description": "Green Mountain Technology LLC",
   "subnets": {
     "ipv4": [
       "209.65.52.0/24"

@@ -1,3 +1,2 @@
 # AS11106 (WOLFRAM-AS)
-# Wolfram Research Inc
 #

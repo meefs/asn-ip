@@ -1,5 +1,4 @@
 # AS13438 (VIVIO-TECHNOLOGIES)
-# Vivio Technologies
 #
 74.114.204.0/22
 104.232.42.0/24

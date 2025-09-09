@@ -1,7 +1,6 @@
 {
   "asn": 22702,
   "handle": "RINGSQUARED",
-  "description": "RingSquared",
   "subnets": {
     "ipv4": [
       "64.40.32.0/24",

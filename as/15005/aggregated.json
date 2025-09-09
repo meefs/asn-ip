@@ -1,7 +1,6 @@
 {
   "asn": 15005,
   "handle": "CIRCLE-B-LLC",
-  "description": "Circle B Wireless",
   "subnets": {
     "ipv4": [
       "38.27.1.0/24",

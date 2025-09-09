@@ -1,7 +1,6 @@
 {
   "asn": 14691,
   "handle": "GLAA",
-  "description": "Great Lakes Adventist Academy",
   "subnets": {
     "ipv4": [
       "23.135.100.0/24"

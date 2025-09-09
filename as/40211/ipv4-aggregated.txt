@@ -1,5 +1,4 @@
 # AS40211 (STEINERSTUDIOS)
-# Steiner Studios
 #
 38.68.88.0/23
 198.199.185.0/24

@@ -1,4 +1,3 @@
 # AS36744 (VALEXLINK)
-# Valex Cloud LLC
 #
 2602:f76f::/44

@@ -1,7 +1,6 @@
 {
   "asn": 1087,
   "handle": "ISD271",
-  "description": "Bloomington Public School District",
   "subnets": {
     "ipv4": [
       "107.191.78.0/23"

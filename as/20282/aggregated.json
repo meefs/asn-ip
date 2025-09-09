@@ -1,7 +1,6 @@
 {
   "asn": 20282,
   "handle": "NYFIX20282",
-  "description": "Broadridge Trading and Connectivity Solutions Inc",
   "subnets": {
     "ipv4": [
       "65.164.53.0/24",

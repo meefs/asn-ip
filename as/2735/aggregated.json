@@ -1,7 +1,6 @@
 {
   "asn": 2735,
   "handle": "EASTE-46-AS",
-  "description": "Eastern Irrigation District",
   "subnets": {
     "ipv4": [
       "96.45.0.0/20"

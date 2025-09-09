@@ -1,7 +1,6 @@
 {
   "asn": 6653,
   "handle": "VERO-NETWORKS-AS6653",
-  "description": "Vero Broadband",
   "subnets": {
     "ipv4": [
       "64.17.16.0/20",

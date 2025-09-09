@@ -1,3 +1,2 @@
 # AS21963 (AS-AGENCYINSURANCEMD-0001)
-# Agency Insurance Company
 #

@@ -1,7 +1,6 @@
 {
   "asn": 3573,
   "handle": "ACCENTURE",
-  "description": "Accenture LLP",
   "subnets": {
     "ipv4": [
       "63.240.184.0/21",

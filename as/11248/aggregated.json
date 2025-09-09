@@ -1,7 +1,6 @@
 {
   "asn": 11248,
   "handle": "MSTS-NET",
-  "description": "TreviPay",
   "subnets": {
     "ipv4": [
       "204.8.29.0/24",

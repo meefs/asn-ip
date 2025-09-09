@@ -1,7 +1,6 @@
 {
   "asn": 26462,
   "handle": "AS-GENESEO",
-  "description": "The State University of New York College at Geneseo",
   "subnets": {
     "ipv4": [
       "137.238.0.0/16"

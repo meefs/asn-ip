@@ -1,5 +1,4 @@
 # AS14638 (LCPRL)
-# Liberty Communications of Puerto Rico LLC
 #
 24.41.128.0/17
 24.42.0.0/18

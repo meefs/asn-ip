@@ -1,5 +1,4 @@
 # AS1097 (CORE-TRANSIT)
-# Core Transit LLC
 #
 50.20.192.0/22
 134.199.54.0/24

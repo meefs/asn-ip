@@ -1,3 +1,2 @@
 # AS10457 (ILX-ASN)
-# Refinitiv US LLC
 #

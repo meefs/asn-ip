@@ -1,7 +1,6 @@
 {
   "asn": 7762,
   "handle": "OPENTEXT",
-  "description": "Micro Focus",
   "subnets": {
     "ipv4": [
       "140.236.88.0/23",

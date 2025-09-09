@@ -1,5 +1,4 @@
 # AS7341 (VELOCITY)
-# Velocity Network Inc
 #
 38.107.152.0/22
 38.148.144.0/20

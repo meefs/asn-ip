@@ -1,5 +1,4 @@
 # AS21737 (SPRINGNET2-NET)
-# SpringNet
 #
 64.22.224.0/19
 66.119.0.0/19

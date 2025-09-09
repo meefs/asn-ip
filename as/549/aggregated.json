@@ -1,7 +1,6 @@
 {
   "asn": 549,
   "handle": "GTANET-AS",
-  "description": "GTAnet Networking",
   "subnets": {
     "ipv4": [
       "205.211.95.0/24"

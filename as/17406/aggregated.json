@@ -1,7 +1,6 @@
 {
   "asn": 17406,
   "handle": "PSCU-NET1",
-  "description": "PSCU INCORPORATED",
   "subnets": {
     "ipv4": [
       "12.164.193.0/24",

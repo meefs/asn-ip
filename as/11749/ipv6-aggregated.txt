@@ -1,3 +1,2 @@
 # AS11749 (MPINET)
-# MPInet
 #

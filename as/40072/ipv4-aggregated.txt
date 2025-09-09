@@ -1,4 +1,3 @@
 # AS40072 (TCSG)
-# Technical College System of Georgia
 #
 72.162.1.0/24

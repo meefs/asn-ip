@@ -1,5 +1,4 @@
 # AS19351 (TECK-AS-01)
-# Teck Resources Limited
 #
 142.230.0.0/22
 142.230.8.0/23

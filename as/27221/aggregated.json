@@ -1,7 +1,6 @@
 {
   "asn": 27221,
   "handle": "ARDMORE-TEL",
-  "description": "Ardmore Telephone Company Inc",
   "subnets": {
     "ipv4": [
       "66.226.78.0/24",

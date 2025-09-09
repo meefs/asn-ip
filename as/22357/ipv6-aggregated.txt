@@ -1,3 +1,2 @@
 # AS22357 (SECURE-SHORE-ASN)
-# Secure Shores Data Center
 #

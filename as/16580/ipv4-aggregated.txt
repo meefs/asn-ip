@@ -1,5 +1,4 @@
 # AS16580 (ATHABASCA-U)
-# Athabasca University
 #
 131.232.3.0/24
 131.232.4.0/22

@@ -1,3 +1,2 @@
 # AS30030 (WALMART-GUEST-TENANT)
-# Wal-Mart Stores Inc
 #

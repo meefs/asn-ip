@@ -1,3 +1,2 @@
 # AS3364 (CSDCO-AS)
-# Computer Systems Design Company
 #

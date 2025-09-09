@@ -1,7 +1,6 @@
 {
   "asn": 687,
   "handle": "DNIC-AS-00687",
-  "description": "DoD Network Information Center",
   "subnets": {
     "ipv4": [
       "160.107.0.0/16",

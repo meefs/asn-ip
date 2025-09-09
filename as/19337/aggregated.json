@@ -1,7 +1,6 @@
 {
   "asn": 19337,
   "handle": "MOBIUSPARTNERS",
-  "description": "Mobius Partners Internet",
   "subnets": {
     "ipv4": [
       "66.228.128.0/22",

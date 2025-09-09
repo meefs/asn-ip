@@ -1,5 +1,4 @@
 # AS19382 (ONCORE-CA)
-# Oncore Cloud Services
 #
 2602:81b:6000::/47
 2605:7c0:1000::/46

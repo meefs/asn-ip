@@ -1,3 +1,2 @@
 # AS4539 (SEL-AS)
-# Schweitzer Engineering Laboratories Inc
 #

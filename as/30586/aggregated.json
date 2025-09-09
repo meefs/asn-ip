@@ -1,7 +1,6 @@
 {
   "asn": 30586,
   "handle": "BOS",
-  "description": "Bank Of Springfield",
   "subnets": {
     "ipv4": [
       "198.49.80.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 109,
   "handle": "CISCOSYSTEMS",
-  "description": "CISCO SYSTEMS INC",
   "subnets": {
     "ipv4": [
       "12.5.186.0/23",

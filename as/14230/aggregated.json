@@ -1,7 +1,6 @@
 {
   "asn": 14230,
   "handle": "INVOLTA",
-  "description": "ARK Data Centers LLC",
   "subnets": {
     "ipv4": [
       "12.199.28.0/24",

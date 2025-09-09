@@ -1,7 +1,6 @@
 {
   "asn": 1426,
   "handle": "TENSPIRE-NETWORK-1426",
-  "description": "TenSpire Network",
   "subnets": {
     "ipv4": [
       "45.40.98.0/24",

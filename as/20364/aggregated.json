@@ -1,7 +1,6 @@
 {
   "asn": 20364,
   "handle": "FIREFLY",
-  "description": "Firefly Network LLC",
   "subnets": {
     "ipv4": [
       "23.163.168.0/24",

@@ -1,3 +1,2 @@
 # AS40172 (GROQ-MSP-1)
-# Groq Inc
 #

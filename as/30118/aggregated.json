@@ -1,7 +1,6 @@
 {
   "asn": 30118,
   "handle": "MAS-CTDC",
-  "description": "Mizuho Americas Services LLC",
   "subnets": {
     "ipv4": [
       "8.2.79.0/24",

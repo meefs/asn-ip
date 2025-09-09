@@ -1,3 +1,2 @@
 # AS36483 (GOSSAMERTHREADS)
-# Gossamer Threads Inc
 #

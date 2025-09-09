@@ -1,7 +1,6 @@
 {
   "asn": 16751,
   "handle": "OPENTEXT-NA-CA-1",
-  "description": "Open Text Corporation",
   "subnets": {
     "ipv4": [
       "129.84.0.0/22",

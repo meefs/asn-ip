@@ -1,4 +1,3 @@
 # AS14486 (OXY-AS)
-# Occidental College
 #
 134.69.0.0/16

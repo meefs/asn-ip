@@ -1,7 +1,6 @@
 {
   "asn": 23470,
   "handle": "RELIABLESITE",
-  "description": "ReliableSite.Net LLC",
   "subnets": {
     "ipv4": [
       "23.26.108.0/24",

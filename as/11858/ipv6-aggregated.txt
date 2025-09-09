@@ -1,3 +1,2 @@
 # AS11858 (CM2COM)
-# Open Text Corporation
 #

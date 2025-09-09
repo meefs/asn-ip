@@ -1,7 +1,6 @@
 {
   "asn": 16841,
   "handle": "GBLIT-ASN1",
-  "description": "GLOBAL IT",
   "subnets": {
     "ipv4": [
       "199.48.96.0/22",

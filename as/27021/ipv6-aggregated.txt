@@ -1,3 +1,2 @@
 # AS27021 (AS-DGX)
-# Quest Diagnostics Inc
 #

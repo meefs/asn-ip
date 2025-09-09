@@ -1,5 +1,4 @@
 # AS11486 (COLO-PREM-VZB)
-# Verizon Business
 #
 142.77.49.0/24
 142.77.113.0/24

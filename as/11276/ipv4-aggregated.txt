@@ -1,3 +1,2 @@
 # AS11276 (TEMPUS)
-# Tempus Technologies Inc
 #

@@ -1,7 +1,6 @@
 {
   "asn": 11803,
   "handle": "OMNICELL",
-  "description": "Omnicell",
   "subnets": {
     "ipv4": [
       "173.254.187.0/24"

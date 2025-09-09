@@ -1,5 +1,4 @@
 # AS4130 (UPITT-AS)
-# University of Pittsburgh
 #
 136.142.0.0/16
 192.52.163.0/24

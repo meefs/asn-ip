@@ -1,7 +1,6 @@
 {
   "asn": 30681,
   "handle": "JCU-ASN",
-  "description": "John Carroll university",
   "subnets": {
     "ipv4": [
       "67.217.226.0/24"

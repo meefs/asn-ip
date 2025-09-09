@@ -1,7 +1,6 @@
 {
   "asn": 15086,
   "handle": "QVC",
-  "description": "QVC Inc",
   "subnets": {
     "ipv4": [
       "167.140.18.0/24",

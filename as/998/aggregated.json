@@ -1,7 +1,6 @@
 {
   "asn": 998,
   "handle": "HYPESTATUS",
-  "description": "HypeStatus Inc",
   "subnets": {
     "ipv4": [
       "45.38.26.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 33154,
   "handle": "DQECOM",
-  "description": "DQE Communications LLC",
   "subnets": {
     "ipv4": [
       "45.41.203.0/24",

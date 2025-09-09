@@ -1,5 +1,4 @@
 # AS6327 (SHAW)
-# Shaw Communications Inc
 #
 23.247.196.0/22
 24.64.0.0/13

@@ -1,7 +1,6 @@
 {
   "asn": 29792,
   "handle": "NETAPP-AS-2",
-  "description": "NetApp Inc",
   "subnets": {
     "ipv4": [
       "185.35.245.0/24"

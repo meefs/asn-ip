@@ -1,7 +1,6 @@
 {
   "asn": 3369,
   "handle": "MCI-ASN",
-  "description": "Verizon Business",
   "subnets": {
     "ipv4": [
       "68.128.128.0/18",

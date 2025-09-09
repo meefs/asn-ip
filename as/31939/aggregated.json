@@ -1,7 +1,6 @@
 {
   "asn": 31939,
   "handle": "GIGSTREEM-GIGAMONSTER",
-  "description": "GiGstreem",
   "subnets": {
     "ipv4": [],
     "ipv6": []

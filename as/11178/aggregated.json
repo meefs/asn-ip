@@ -1,7 +1,6 @@
 {
   "asn": 11178,
   "handle": "RS-ACCESSPLUS",
-  "description": "AccessPlus",
   "subnets": {
     "ipv4": [
       "8.20.178.0/23",

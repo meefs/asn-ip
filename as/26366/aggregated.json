@@ -1,7 +1,6 @@
 {
   "asn": 26366,
   "handle": "CITY-PG",
-  "description": "City of Prince George",
   "subnets": {
     "ipv4": [
       "199.175.242.0/23",

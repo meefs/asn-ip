@@ -1,7 +1,6 @@
 {
   "asn": 2828,
   "handle": "XO-AS15",
-  "description": "Verizon Business",
   "subnets": {
     "ipv4": [
       "64.0.0.0/14",

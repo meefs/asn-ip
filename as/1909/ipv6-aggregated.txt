@@ -1,3 +1,2 @@
 # AS1909 (CAIDA)
-# San Diego Supercomputer Center
 #

@@ -1,7 +1,6 @@
 {
   "asn": 15129,
   "handle": "GENESEO-IL",
-  "description": "Geneseo Telephone Company",
   "subnets": {
     "ipv4": [
       "164.152.208.0/21",

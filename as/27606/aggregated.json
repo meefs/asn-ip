@@ -1,7 +1,6 @@
 {
   "asn": 27606,
   "handle": "PAYWORKS",
-  "description": "Payworks",
   "subnets": {
     "ipv4": [
       "216.183.100.0/23"

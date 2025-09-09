@@ -1,7 +1,6 @@
 {
   "asn": 32159,
   "handle": "GUNGHO-SAS",
-  "description": "GUNG HO LLC",
   "subnets": {
     "ipv4": [
       "23.153.217.0/24",

@@ -1,3 +1,2 @@
 # AS13472 (MATRIX-CCHN)
-# Matrix Medical Network
 #

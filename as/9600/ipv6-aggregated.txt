@@ -1,4 +1,4 @@
-# AS9600 (SONYTELECOM)
-# So-net Corporation
+# AS9600 (SO-NET)
+# Sony Network Communications Inc
 #
 2001:298::/32

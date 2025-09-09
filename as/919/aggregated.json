@@ -1,7 +1,6 @@
 {
   "asn": 919,
   "handle": "AS919",
-  "description": "The Howard University",
   "subnets": {
     "ipv4": [
       "138.238.8.0/21",

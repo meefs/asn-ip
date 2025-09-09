@@ -1,7 +1,6 @@
 {
   "asn": 13790,
   "handle": "INTERNAP-BLK3",
-  "description": "Unitas Global",
   "subnets": {
     "ipv4": [
       "63.251.176.0/20",

@@ -1,3 +1,2 @@
 # AS11893 (LOLIGO-ASN)
-# Loligo Cache Systems Inc
 #

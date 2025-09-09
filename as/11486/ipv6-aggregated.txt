@@ -1,3 +1,2 @@
 # AS11486 (COLO-PREM-VZB)
-# Verizon Business
 #

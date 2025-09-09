@@ -1,7 +1,6 @@
 {
   "asn": 10355,
   "handle": "DSCGA",
-  "description": "Digital Service Consultants",
   "subnets": {
     "ipv4": [
       "192.24.0.0/20",

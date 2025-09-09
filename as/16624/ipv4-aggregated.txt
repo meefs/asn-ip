@@ -1,5 +1,4 @@
 # AS16624 (HYDRO-QUEBEC)
-# Hydro Quebec
 #
 199.22.52.0/23
 199.22.54.0/24

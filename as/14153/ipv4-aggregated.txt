@@ -1,3 +1,2 @@
 # AS14153 (EDGECAST)
-# Edgecast Inc
 #

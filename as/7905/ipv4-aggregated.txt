@@ -1,5 +1,4 @@
 # AS7905 (SOONER-AS)
-# Sooner Technology
 #
 143.187.0.0/16
 204.69.233.0/24

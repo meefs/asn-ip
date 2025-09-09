@@ -1,3 +1,2 @@
 # AS31937 (VSP-ASN)
-# Vision Service Plan
 #

@@ -1,7 +1,7 @@
 {
   "asn": 18094,
-  "handle": "TCN-AS",
-  "description": "Tokyo Cable Network. INC",
+  "handle": "TCN",
+  "description": "Tokyo Cable Network. Inc",
   "subnets": {
     "ipv4": [
       "103.15.92.0/23",

@@ -1,7 +1,6 @@
 {
   "asn": 1611,
   "handle": "MABELTEL",
-  "description": "Mabel Cooperative Telephone Company",
   "subnets": {
     "ipv4": [
       "66.45.35.0/24",

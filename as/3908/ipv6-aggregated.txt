@@ -1,3 +1,2 @@
 # AS3908 (CENTURYLINK-ASIA-LEGACY-QWEST)
-# CenturyLink Communications LLC
 #

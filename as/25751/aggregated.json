@@ -1,7 +1,6 @@
 {
   "asn": 25751,
   "handle": "VALUECLICK",
-  "description": "Conversant Inc",
   "subnets": {
     "ipv4": [
       "8.18.45.0/24",

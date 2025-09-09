@@ -1,4 +1,3 @@
 # AS33343 (HCHBNET)
-# U.S. Department of Commerce HQ and ITA
 #
 170.110.0.0/16

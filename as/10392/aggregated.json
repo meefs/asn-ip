@@ -1,7 +1,6 @@
 {
   "asn": 10392,
   "handle": "NSB1-NET",
-  "description": "New Source Broadband",
   "subnets": {
     "ipv4": [
       "12.165.96.0/23",

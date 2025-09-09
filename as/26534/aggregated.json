@@ -1,7 +1,6 @@
 {
   "asn": 26534,
   "handle": "ABBVIE-2",
-  "description": "AbbVie Inc",
   "subnets": {
     "ipv4": [
       "69.49.0.0/19",

@@ -1,7 +1,6 @@
 {
   "asn": 5761,
   "handle": "MICROSOFT-CORP-MSN-AS-SATURN",
-  "description": "Microsoft Corporation",
   "subnets": {
     "ipv4": [
       "157.58.216.0/24"

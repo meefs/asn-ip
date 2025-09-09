@@ -1,3 +1,2 @@
 # AS27025 (EDR-AS)
-# Environmental Data Resources Inc
 #

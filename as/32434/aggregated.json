@@ -1,7 +1,6 @@
 {
   "asn": 32434,
   "handle": "IMP-NET",
-  "description": "Imperial Network",
   "subnets": {
     "ipv4": [],
     "ipv6": [

@@ -1,5 +1,4 @@
 # AS26351 (MARYVILLE-DATA-CENTER)
-# First Horizon National Corporation
 #
 198.54.244.0/23
 208.65.40.0/23

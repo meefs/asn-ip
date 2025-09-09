@@ -1,7 +1,6 @@
 {
   "asn": 35908,
   "handle": "VPLSNET",
-  "description": "Krypt Technologies",
   "subnets": {
     "ipv4": [
       "43.252.120.0/22",

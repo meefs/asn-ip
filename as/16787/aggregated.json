@@ -1,7 +1,6 @@
 {
   "asn": 16787,
   "handle": "CHARTER-16787-DC",
-  "description": "Charter Communications LLC",
   "subnets": {
     "ipv4": [
       "24.24.96.0/19",

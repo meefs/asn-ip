@@ -1,7 +1,6 @@
 {
   "asn": 801,
   "handle": "AMAZON-R",
-  "description": "Amazon Technologies Inc",
   "subnets": {
     "ipv4": [
       "35.96.5.0/24",

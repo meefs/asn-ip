@@ -1,3 +1,2 @@
 # AS25746 (UNISYSASN25746)
-# Unisys Corporation
 #

@@ -1,7 +1,6 @@
 {
   "asn": 36182,
   "handle": "ATG-36182",
-  "description": "Accretive Networks",
   "subnets": {
     "ipv4": [
       "207.66.236.0/24",

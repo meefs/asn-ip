@@ -1,5 +1,4 @@
 # AS49 (US-NATIONAL-INSTITUTE-OF-STANDARDS-AND-TECHNOLOGY)
-# National Institute of Standards and Technology
 #
 2610:20:6000::/37
 2610:20:6f15::/48

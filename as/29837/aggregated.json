@@ -1,7 +1,6 @@
 {
   "asn": 29837,
   "handle": "SAINT-BARTH-TELECOM",
-  "description": "ST BARTH TELECOM",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,5 +1,4 @@
 # AS14979 (AERONET-WIRELESS)
-# Aeronet Wireless
 #
 38.50.64.0/20
 38.50.80.0/23

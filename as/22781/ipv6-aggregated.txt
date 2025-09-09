@@ -1,5 +1,4 @@
 # AS22781 (STRTEC)
-# Strong Technology LLC
 #
 2607:fb50::/35
 2607:fb50:2000::/36

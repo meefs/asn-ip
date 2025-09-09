@@ -1,7 +1,6 @@
 {
   "asn": 36004,
   "handle": "ASN-IRVING",
-  "description": "JD IRVING LIMITED",
   "subnets": {
     "ipv4": [
       "198.73.123.0/24",

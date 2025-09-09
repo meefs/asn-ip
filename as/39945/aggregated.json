@@ -1,7 +1,6 @@
 {
   "asn": 39945,
   "handle": "NUSPIRE",
-  "description": "Nuspire Communications",
   "subnets": {
     "ipv4": [
       "45.54.20.0/24",

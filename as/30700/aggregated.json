@@ -1,7 +1,6 @@
 {
   "asn": 30700,
   "handle": "OWO-NETWORK",
-  "description": "OwO Network LLC",
   "subnets": {
     "ipv4": [
       "23.191.8.0/24"

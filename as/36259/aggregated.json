@@ -1,7 +1,6 @@
 {
   "asn": 36259,
   "handle": "AS-NALCO-NA",
-  "description": "Ecolab Inc",
   "subnets": {
     "ipv4": [
       "206.197.60.0/22"

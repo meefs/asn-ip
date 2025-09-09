@@ -1,7 +1,6 @@
 {
   "asn": 26377,
   "handle": "EXPERTEKSYSTEMS",
-  "description": "Expertek Systems Inc",
   "subnets": {
     "ipv4": [
       "192.67.222.0/24"

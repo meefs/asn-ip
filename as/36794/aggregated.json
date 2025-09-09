@@ -1,7 +1,6 @@
 {
   "asn": 36794,
   "handle": "META-SOLUTIONS-PIKETON",
-  "description": "META Solutions",
   "subnets": {
     "ipv4": [
       "208.122.64.0/19",

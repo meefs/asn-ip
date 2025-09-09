@@ -1,7 +1,6 @@
 {
   "asn": 2568,
   "handle": "DIGICOMTECH",
-  "description": "Digicom",
   "subnets": {
     "ipv4": [
       "38.44.8.0/21",

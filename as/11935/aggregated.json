@@ -1,7 +1,6 @@
 {
   "asn": 11935,
   "handle": "TALKPOINT-COMMUNICATIONS-11935",
-  "description": "TalkPoint Communications",
   "subnets": {
     "ipv4": [
       "204.141.8.0/21"

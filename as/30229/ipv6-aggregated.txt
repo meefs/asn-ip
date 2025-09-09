@@ -1,3 +1,2 @@
 # AS30229 (SE2-BGP-AS)
-# SE2 Inc
 #

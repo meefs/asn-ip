@@ -1,5 +1,5 @@
-# AS24257 (JPIX-64ES)
-# Japan Internet Xing Co. Ltd
+# AS24257 (RESERVED)
+# APNIC ASN block
 #
 2400:3000:70::/47
 2400:3000:72::/48

@@ -1,3 +1,2 @@
 # AS32941 (PYRSOFTWARE-AS)
-# PYR Software Ltd
 #

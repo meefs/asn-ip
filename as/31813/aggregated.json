@@ -1,7 +1,6 @@
 {
   "asn": 31813,
   "handle": "FREEDOMLINX-TECHNOLOGIES",
-  "description": "FreedomLinx Technologies",
   "subnets": {
     "ipv4": [
       "143.223.134.0/24"

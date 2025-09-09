@@ -1,7 +1,6 @@
 {
   "asn": 22787,
   "handle": "ARRIS",
-  "description": "ARRIS Enterprises LLC",
   "subnets": {
     "ipv4": [
       "134.242.24.0/24",

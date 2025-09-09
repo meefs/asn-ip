@@ -1,7 +1,6 @@
 {
   "asn": 10788,
   "handle": "CDW",
-  "description": "CDW LLC",
   "subnets": {
     "ipv4": [
       "64.73.16.0/21"

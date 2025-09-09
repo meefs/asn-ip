@@ -1,7 +1,6 @@
 {
   "asn": 13438,
   "handle": "VIVIO-TECHNOLOGIES",
-  "description": "Vivio Technologies",
   "subnets": {
     "ipv4": [
       "74.114.204.0/22",

@@ -1,5 +1,4 @@
 # AS30133 (ISC-F-AS)
-# Internet Systems Consortium Inc
 #
 103.11.221.0/24
 192.158.250.0/23

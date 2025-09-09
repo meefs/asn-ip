@@ -1,4 +1,4 @@
-# AS4680 (MIND)
-# Mitsubishi Electric Information Network Corporation
+# AS4680 (RESERVED)
+# JPNIC-2Byte-ASBLOCK-AP
 #
 2001:358::/32

@@ -1,7 +1,6 @@
 {
   "asn": 30598,
   "handle": "CCL-ASN",
-  "description": "Carnival Corporation",
   "subnets": {
     "ipv4": [
       "151.124.104.0/22",

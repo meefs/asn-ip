@@ -1,5 +1,4 @@
 # AS12180 (INTERNAP-2BLK)
-# Unitas Global
 #
 63.250.0.0/22
 63.251.144.0/20

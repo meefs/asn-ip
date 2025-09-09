@@ -1,7 +1,6 @@
 {
   "asn": 12098,
   "handle": "MUFG-BANK-LTD",
-  "description": "MUFG Bank Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,7 +1,6 @@
 {
   "asn": 21752,
   "handle": "ACPHLA",
-  "description": "Albany County Pine Hills Land Authority",
   "subnets": {
     "ipv4": [
       "23.141.44.0/24",

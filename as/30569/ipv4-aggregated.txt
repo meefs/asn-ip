@@ -1,5 +1,4 @@
 # AS30569 (CREIGHTON-AS)
-# Creighton University
 #
 147.134.0.0/18
 147.134.64.0/23

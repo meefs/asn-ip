@@ -1,7 +1,6 @@
 {
   "asn": 20081,
   "handle": "NET2ATLANTA",
-  "description": "NET2ATLANTA.COM LLC",
   "subnets": {
     "ipv4": [
       "67.213.160.0/24",

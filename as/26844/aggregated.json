@@ -1,7 +1,6 @@
 {
   "asn": 26844,
   "handle": "PACTIV",
-  "description": "Pactiv LLC",
   "subnets": {
     "ipv4": [
       "206.198.0.0/17",

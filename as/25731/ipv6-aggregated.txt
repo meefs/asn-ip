@@ -1,3 +1,2 @@
 # AS25731 (KNOX-BOX-NETWORKS)
-# Knox Box Networks
 #

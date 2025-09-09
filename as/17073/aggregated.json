@@ -1,7 +1,6 @@
 {
   "asn": 17073,
   "handle": "ALLEGISGROUP7312",
-  "description": "Allegis Group",
   "subnets": {
     "ipv4": [
       "199.15.200.0/23",

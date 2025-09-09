@@ -1,5 +1,4 @@
 # AS714 (APPLE-ENGINEERING)
-# Apple Inc
 #
 2403:300::/32
 2404:5e40:3e8::/48

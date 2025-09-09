@@ -1,7 +1,6 @@
 {
   "asn": 23328,
   "handle": "EST-INC-ASN",
-  "description": "EST Inc",
   "subnets": {
     "ipv4": [
       "142.202.184.0/24"

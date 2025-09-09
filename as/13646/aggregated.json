@@ -1,7 +1,6 @@
 {
   "asn": 13646,
   "handle": "PLACTRIX",
-  "description": "Plactrix Technologies",
   "subnets": {
     "ipv4": [],
     "ipv6": [

@@ -1,5 +1,4 @@
 # AS22516 (CHARTER-22516-CENTRAL-CA-C3)
-# Charter Communications LLC
 #
 2600:6c52:4600::/40
 2600:6c52:4c00::/40

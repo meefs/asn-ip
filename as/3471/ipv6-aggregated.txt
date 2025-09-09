@@ -1,3 +1,2 @@
 # AS3471 (DNIC-AS-03471)
-# DoD Network Information Center
 #

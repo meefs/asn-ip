@@ -1,7 +1,6 @@
 {
   "asn": 32572,
   "handle": "AVENIR",
-  "description": "Avenir Solutions Inc",
   "subnets": {
     "ipv4": [
       "38.97.126.0/24"

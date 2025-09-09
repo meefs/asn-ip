@@ -1,7 +1,6 @@
 {
   "asn": 30176,
   "handle": "AS-PRIORITYCOLO",
-  "description": "Priority Colo Inc",
   "subnets": {
     "ipv4": [
       "67.223.96.0/20",

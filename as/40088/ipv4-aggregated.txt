@@ -1,5 +1,4 @@
 # AS40088 (WESTLAKE-CHEMICAL-CORPORATION)
-# Westlake Chemical Corporation
 #
 159.126.0.0/23
 159.126.40.0/23

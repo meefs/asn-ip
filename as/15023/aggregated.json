@@ -1,7 +1,6 @@
 {
   "asn": 15023,
   "handle": "LOTUS-CANTON",
-  "description": "Lotus International Company",
   "subnets": {
     "ipv4": [],
     "ipv6": []

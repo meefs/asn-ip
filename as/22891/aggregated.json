@@ -1,7 +1,6 @@
 {
   "asn": 22891,
   "handle": "STANDARDINSURANCE",
-  "description": "Standard Insurance Company",
   "subnets": {
     "ipv4": [
       "198.133.149.0/24",

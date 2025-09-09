@@ -1,5 +1,4 @@
 # AS21549 (IRON-MOUNTAIN)
-# Iron Mountain Inc
 #
 138.207.75.0/24
 138.207.76.0/23

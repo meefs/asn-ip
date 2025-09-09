@@ -1,3 +1,2 @@
 # AS15137 (JETPAY-AS)
-# JetPay LLC
 #

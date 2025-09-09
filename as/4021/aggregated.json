@@ -1,7 +1,6 @@
 {
   "asn": 4021,
   "handle": "ASN-4020-1",
-  "description": "Air Force Systems Networking",
   "subnets": {
     "ipv4": [],
     "ipv6": []

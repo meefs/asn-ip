@@ -1,7 +1,6 @@
 {
   "asn": 26348,
   "handle": "WANSECURITY-WIRELESS",
-  "description": "WANSecurity Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

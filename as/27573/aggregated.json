@@ -1,7 +1,6 @@
 {
   "asn": 27573,
   "handle": "OSLA-AS-1",
-  "description": "OKLAHOMA STUDENT LOAN AUTHORITY",
   "subnets": {
     "ipv4": [
       "70.184.26.0/24"

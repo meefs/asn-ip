@@ -1,7 +1,6 @@
 {
   "asn": 22652,
   "handle": "FIBRENOIRE-INTERNET",
-  "description": "Videotron Ltee",
   "subnets": {
     "ipv4": [
       "23.153.96.0/24",

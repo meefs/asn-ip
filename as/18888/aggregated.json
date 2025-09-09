@@ -1,7 +1,6 @@
 {
   "asn": 18888,
   "handle": "AS-ZILLOW",
-  "description": "ZILLOW INC",
   "subnets": {
     "ipv4": [
       "8.20.111.0/24",

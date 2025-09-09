@@ -1,5 +1,4 @@
 # AS13737 (AS-INCX)
-# Interconnecx LLC
 #
 2602:f895::/40
 2602:f9ad::/40

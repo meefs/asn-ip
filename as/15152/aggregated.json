@@ -1,7 +1,6 @@
 {
   "asn": 15152,
   "handle": "MODIVCARE-ASN1",
-  "description": "Modivcare Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

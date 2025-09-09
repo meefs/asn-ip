@@ -1,7 +1,6 @@
 {
   "asn": 30399,
   "handle": "HOSTENGINE",
-  "description": "Host-Engine.com",
   "subnets": {
     "ipv4": [
       "23.152.40.0/23",

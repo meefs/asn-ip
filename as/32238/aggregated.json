@@ -1,7 +1,6 @@
 {
   "asn": 32238,
   "handle": "NAES-32238",
-  "description": "NAES Corp",
   "subnets": {
     "ipv4": [
       "162.120.20.0/24"

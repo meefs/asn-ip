@@ -1,7 +1,6 @@
 {
   "asn": 26832,
   "handle": "RICAWEBSERVICES",
-  "description": "Rica Web Services",
   "subnets": {
     "ipv4": [
       "38.102.84.0/22",

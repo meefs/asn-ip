@@ -1,7 +1,6 @@
 {
   "asn": 13895,
   "handle": "FIBERCONX",
-  "description": "FiberConX",
   "subnets": {
     "ipv4": [
       "199.212.36.0/24",

@@ -1,3 +1,2 @@
 # AS27161 (LITNICS-01)
-# Litnics LLC
 #

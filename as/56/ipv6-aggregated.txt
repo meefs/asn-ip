@@ -1,3 +1,2 @@
 # AS56 (DNIC-AS-00056)
-# DoD Network Information Center
 #

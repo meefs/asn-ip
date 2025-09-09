@@ -1,4 +1,4 @@
-# AS9367 (ISCT)
-# Institute of Science Tokyo
+# AS9367 (RESERVED)
+# APNIC ASN block
 #
 131.112.0.0/16

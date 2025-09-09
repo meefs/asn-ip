@@ -1,3 +1,2 @@
 # AS116 (TELCORDIA)
-# Ericsson Inc
 #

@@ -1,3 +1,2 @@
 # AS15212 (C-SPIRE-WIRELESS)
-# C Spire
 #

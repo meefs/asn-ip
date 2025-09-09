@@ -1,5 +1,4 @@
 # AS30525 (GLS-CLT1-01)
-# Global Linking Solutions
 #
 12.21.228.0/24
 12.222.101.0/24

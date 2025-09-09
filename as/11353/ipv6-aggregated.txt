@@ -1,3 +1,2 @@
 # AS11353 (ASN-ESCXI)
-# Education Service Center Region XI
 #

@@ -1,7 +1,6 @@
 {
   "asn": 19247,
   "handle": "AS19247",
-  "description": "Northwestern Memorial Hospital",
   "subnets": {
     "ipv4": [
       "204.62.116.0/22"

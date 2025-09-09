@@ -1,7 +1,6 @@
 {
   "asn": 33711,
   "handle": "SADDLE-NETWORKS",
-  "description": "Saddle Networks",
   "subnets": {
     "ipv4": [],
     "ipv6": []

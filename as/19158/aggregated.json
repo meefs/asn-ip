@@ -1,7 +1,6 @@
 {
   "asn": 19158,
   "handle": "ZAYOB-19158",
-  "description": "Zayo Bandwidth",
   "subnets": {
     "ipv4": [
       "216.123.100.0/24"

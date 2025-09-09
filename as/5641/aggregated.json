@@ -1,7 +1,6 @@
 {
   "asn": 5641,
   "handle": "TVH-289",
-  "description": "UNIVERSAL HEALTH SERVICES",
   "subnets": {
     "ipv4": [
       "198.2.38.0/24"

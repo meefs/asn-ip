@@ -1,3 +1,2 @@
 # AS18531 (WISPER-WIFIM)
-# Wisper ISP LLC
 #

@@ -1,5 +1,4 @@
 # AS11414 (NVIDIA-NET)
-# Nvidia Corporation
 #
 2604:a140:1500::/47
 2604:a140:6000::/36

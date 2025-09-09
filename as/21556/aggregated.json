@@ -1,7 +1,6 @@
 {
   "asn": 21556,
   "handle": "NARC-EROOT",
-  "description": "National Aeronautics and Space Administration",
   "subnets": {
     "ipv4": [
       "192.12.28.0/24",

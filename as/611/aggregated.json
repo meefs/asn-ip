@@ -1,7 +1,6 @@
 {
   "asn": 611,
   "handle": "NECN-1-611",
-  "description": "NB-PEI Educational Computer Network",
   "subnets": {
     "ipv4": [
       "67.210.128.0/20",

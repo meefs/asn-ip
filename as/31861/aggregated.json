@@ -1,7 +1,6 @@
 {
   "asn": 31861,
   "handle": "WTAMU",
-  "description": "West Texas A\u0026M University",
   "subnets": {
     "ipv4": [
       "192.195.76.0/24"

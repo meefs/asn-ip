@@ -1,7 +1,6 @@
 {
   "asn": 10941,
   "handle": "TECHCOM-1",
-  "description": "Genuine Telecom",
   "subnets": {
     "ipv4": [],
     "ipv6": [

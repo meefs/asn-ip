@@ -1,7 +1,6 @@
 {
   "asn": 27533,
   "handle": "OMGEO",
-  "description": "Depository Trust \u0026 Clearing Corporation",
   "subnets": {
     "ipv4": [
       "167.188.30.0/23"

@@ -1,7 +1,6 @@
 {
   "asn": 20259,
   "handle": "CVTC",
-  "description": "Copper Valley Long Distance LLC",
   "subnets": {
     "ipv4": [
       "169.224.232.0/21",

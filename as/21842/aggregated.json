@@ -1,7 +1,6 @@
 {
   "asn": 21842,
   "handle": "PJM",
-  "description": "PJM Interconnection LLC",
   "subnets": {
     "ipv4": [
       "12.104.52.0/23",

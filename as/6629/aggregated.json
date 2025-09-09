@@ -1,7 +1,6 @@
 {
   "asn": 6629,
   "handle": "NOAA-SILVERSPRING",
-  "description": "National Oceanic and Atmospheric Administration",
   "subnets": {
     "ipv4": [
       "192.102.88.0/24"

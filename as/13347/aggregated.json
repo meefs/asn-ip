@@ -1,7 +1,6 @@
 {
   "asn": 13347,
   "handle": "MIDWEST-CABLE",
-  "description": "Midwest Cable",
   "subnets": {
     "ipv4": [
       "45.58.251.0/24",

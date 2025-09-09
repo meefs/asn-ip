@@ -1,3 +1,2 @@
 # AS19305 (TNSI-AS-19305)
-# Transaction Network Services Inc
 #

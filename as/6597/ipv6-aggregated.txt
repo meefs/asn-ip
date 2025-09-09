@@ -1,5 +1,4 @@
 # AS6597 (COLOBLOX)
-# Coloblox Data Centers Inc
 #
 2605:35c0::/36
 2606:6680:43::/48

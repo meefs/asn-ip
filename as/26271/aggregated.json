@@ -1,7 +1,6 @@
 {
   "asn": 26271,
   "handle": "CMSINTERNET",
-  "description": "CMSInter.net LLC",
   "subnets": {
     "ipv4": [
       "64.25.192.0/20",

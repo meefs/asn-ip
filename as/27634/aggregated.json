@@ -1,7 +1,6 @@
 {
   "asn": 27634,
   "handle": "MICRODG-AS",
-  "description": "Microdynamics Corporation",
   "subnets": {
     "ipv4": [
       "12.158.98.0/24",

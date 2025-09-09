@@ -1,3 +1,2 @@
 # AS14570 (ANSIBLE-NTP)
-# Ansible Networks LLC
 #

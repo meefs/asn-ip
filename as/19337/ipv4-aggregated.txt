@@ -1,5 +1,4 @@
 # AS19337 (MOBIUSPARTNERS)
-# Mobius Partners Internet
 #
 66.228.128.0/22
 66.228.132.0/23

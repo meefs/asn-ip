@@ -1,7 +1,6 @@
 {
   "asn": 22437,
   "handle": "CORESITE-SPARE",
-  "description": "CoreSite",
   "subnets": {
     "ipv4": [
       "98.158.149.0/24"

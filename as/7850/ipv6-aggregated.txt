@@ -1,3 +1,2 @@
 # AS7850 (TN-ASN-CL)
-# Tarakona Networks LLC
 #

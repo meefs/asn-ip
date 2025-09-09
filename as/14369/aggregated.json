@@ -1,7 +1,6 @@
 {
   "asn": 14369,
   "handle": "NMAX",
-  "description": "Nmax",
   "subnets": {
     "ipv4": [
       "65.79.240.0/22",

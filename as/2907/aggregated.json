@@ -1,7 +1,7 @@
 {
   "asn": 2907,
-  "handle": "SINET-AS",
-  "description": "Research Organization of Information and Systems National Institute of Informatics",
+  "handle": "RESERVED",
+  "description": "for assignment to JPNIC members",
   "subnets": {
     "ipv4": [
       "103.164.74.0/23",
@@ -24,7 +24,7 @@
       "133.32.100.0/22",
       "133.34.0.0/15",
       "133.37.0.0/16",
-      "133.38.0.0/16",
+      "133.38.0.0/15",
       "133.44.0.0/15",
       "133.46.0.0/16",
       "133.48.0.0/15",

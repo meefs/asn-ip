@@ -1,3 +1,2 @@
 # AS11470 (RSNA-ASN)
-# Radiological Society of North America
 #

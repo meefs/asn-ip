@@ -1,7 +1,6 @@
 {
   "asn": 20203,
   "handle": "FIRST-FINANCIAL-BANK-NA",
-  "description": "First Financial Bank NA",
   "subnets": {
     "ipv4": [
       "66.163.217.0/24",

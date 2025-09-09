@@ -1,5 +1,4 @@
 # AS12223 (AS-EQUIVOICE-COM)
-# MNJ Technology Services LLC
 #
 66.252.64.0/22
 66.252.71.0/24

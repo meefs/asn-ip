@@ -1,7 +1,6 @@
 {
   "asn": 11085,
   "handle": "NCS-TECHNOLOGIES",
-  "description": "NCS Technologies Inc",
   "subnets": {
     "ipv4": [
       "38.92.53.0/24"

@@ -1,5 +1,4 @@
 # AS25609 (DMC)
-# Detroit Medical Center
 #
 155.139.1.0/24
 155.139.3.0/24

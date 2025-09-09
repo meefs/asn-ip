@@ -1,3 +1,2 @@
 # AS26821 (ATVIVO-ASN)
-# Atvivo LLC
 #

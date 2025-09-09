@@ -1,7 +1,6 @@
 {
   "asn": 36595,
   "handle": "PPI",
-  "description": "Payment Processing Inc",
   "subnets": {
     "ipv4": [
       "198.135.173.0/24",

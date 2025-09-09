@@ -1,7 +1,6 @@
 {
   "asn": 26234,
   "handle": "VERIF-MSO-PC",
-  "description": "VeriFone Inc",
   "subnets": {
     "ipv4": [
       "162.221.61.0/24",

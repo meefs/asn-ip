@@ -1,7 +1,6 @@
 {
   "asn": 17133,
   "handle": "T-FIBER",
-  "description": "T-Mobile USA Inc",
   "subnets": {
     "ipv4": [
       "64.13.6.0/23",

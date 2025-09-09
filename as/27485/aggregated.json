@@ -1,7 +1,6 @@
 {
   "asn": 27485,
   "handle": "XCNODE",
-  "description": "XcNode",
   "subnets": {
     "ipv4": [],
     "ipv6": []

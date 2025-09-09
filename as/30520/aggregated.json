@@ -1,7 +1,6 @@
 {
   "asn": 30520,
   "handle": "NUANCE-SOMERVILLE",
-  "description": "Microsoft Corporation",
   "subnets": {
     "ipv4": [
       "12.6.239.0/24",

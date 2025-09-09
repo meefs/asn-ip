@@ -1,7 +1,6 @@
 {
   "asn": 6336,
   "handle": "TURN-US-ASN",
-  "description": "Turn Inc",
   "subnets": {
     "ipv4": [
       "50.116.236.0/22",

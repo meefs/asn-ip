@@ -1,7 +1,6 @@
 {
   "asn": 32468,
   "handle": "CMSSTL",
-  "description": "Correctional Medical Services",
   "subnets": {
     "ipv4": [],
     "ipv6": []

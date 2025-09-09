@@ -1,7 +1,6 @@
 {
   "asn": 19944,
   "handle": "GRANITEIX-SERVICES",
-  "description": "GraniteIX LLC",
   "subnets": {
     "ipv4": [
       "23.138.60.0/24"

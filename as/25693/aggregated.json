@@ -1,7 +1,6 @@
 {
   "asn": 25693,
   "handle": "VIRMACH",
-  "description": "Virtual Machine Solutions LLC",
   "subnets": {
     "ipv4": [
       "5.253.38.0/24",

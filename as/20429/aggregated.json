@@ -1,7 +1,6 @@
 {
   "asn": 20429,
   "handle": "AS20429",
-  "description": "Guitar Center",
   "subnets": {
     "ipv4": [
       "12.7.160.0/24",

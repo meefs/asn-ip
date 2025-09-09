@@ -1,7 +1,6 @@
 {
   "asn": 30304,
   "handle": "LTD-ASN-01",
-  "description": "LTD COMMODITIES LLC",
   "subnets": {
     "ipv4": [
       "104.249.135.0/24",

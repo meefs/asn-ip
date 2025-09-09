@@ -1,7 +1,6 @@
 {
   "asn": 36064,
   "handle": "VMT-01",
-  "description": "Vamos",
   "subnets": {
     "ipv4": [
       "23.184.168.0/24"

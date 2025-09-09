@@ -1,3 +1,2 @@
 # AS14362 (VAISALA1)
-# Vaisala Inc
 #

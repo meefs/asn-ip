@@ -1,7 +1,6 @@
 {
   "asn": 3620,
   "handle": "MCIASN-BLK",
-  "description": "Verizon Business",
   "subnets": {
     "ipv4": [
       "198.160.128.0/24"

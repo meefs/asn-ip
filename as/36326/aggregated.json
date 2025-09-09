@@ -1,7 +1,6 @@
 {
   "asn": 36326,
   "handle": "EDGENODE",
-  "description": "Techwebhosting Internet Solutions LLC",
   "subnets": {
     "ipv4": [
       "158.51.132.0/23"

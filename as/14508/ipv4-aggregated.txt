@@ -1,4 +1,3 @@
 # AS14508 (THEMASCHHOFFS)
-# The Maschhoffs LLC
 #
 12.174.181.0/24

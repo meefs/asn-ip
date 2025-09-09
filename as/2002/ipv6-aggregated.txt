@@ -1,3 +1,2 @@
 # AS2002 (KYN-GTS)
-# Kyndryl
 #

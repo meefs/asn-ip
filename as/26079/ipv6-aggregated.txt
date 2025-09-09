@@ -1,3 +1,2 @@
 # AS26079 (MOMENTUM-ACCESS-SMPMF)
-# Momentum Telecom Inc
 #

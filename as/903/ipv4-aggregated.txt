@@ -1,5 +1,4 @@
 # AS903 (UNIFIED-COMMUNICATIONS-TECHNOLOGIES)
-# Unified Communications Technologies LLC
 #
 38.21.137.0/24
 38.128.112.0/24

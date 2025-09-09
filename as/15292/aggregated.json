@@ -1,7 +1,6 @@
 {
   "asn": 15292,
   "handle": "PIDOXA-RACINE",
-  "description": "PIN Business Network Inc",
   "subnets": {
     "ipv4": [
       "104.243.221.0/24",

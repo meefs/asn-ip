@@ -1,7 +1,6 @@
 {
   "asn": 14482,
   "handle": "LAB47",
-  "description": "Lab47",
   "subnets": {
     "ipv4": [],
     "ipv6": [

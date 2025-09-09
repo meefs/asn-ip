@@ -1,7 +1,6 @@
 {
   "asn": 11404,
   "handle": "AS-WAVE-1",
-  "description": "Wave Broadband",
   "subnets": {
     "ipv4": [
       "23.27.9.0/24",

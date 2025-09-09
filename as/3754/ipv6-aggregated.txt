@@ -1,3 +1,2 @@
 # AS3754 (NYSERNET3-AS)
-# NYSERNet
 #

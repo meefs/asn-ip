@@ -1,7 +1,6 @@
 {
   "asn": 33438,
   "handle": "DATUM-CLOUD",
-  "description": "Datum",
   "subnets": {
     "ipv4": [
       "67.14.160.0/21",

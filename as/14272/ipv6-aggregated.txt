@@ -1,3 +1,2 @@
 # AS14272 (MCPC-ASN)
-# MCPc Inc
 #

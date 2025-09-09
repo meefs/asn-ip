@@ -1,7 +1,6 @@
 {
   "asn": 36124,
   "handle": "BIZVOX",
-  "description": "BizVox Communications Inc",
   "subnets": {
     "ipv4": [
       "136.175.48.0/22"

@@ -1,3 +1,2 @@
 # AS33654 (CMCS)
-# Comcast Cable Communications LLC
 #

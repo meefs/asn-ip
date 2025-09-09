@@ -1,7 +1,6 @@
 {
   "asn": 19590,
   "handle": "FICOH-ASN-1",
-  "description": "FICOH",
   "subnets": {
     "ipv4": [
       "198.17.53.0/24"

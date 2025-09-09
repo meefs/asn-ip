@@ -1,7 +1,6 @@
 {
   "asn": 16875,
   "handle": "AS16875",
-  "description": "AON Corporation",
   "subnets": {
     "ipv4": [
       "165.125.5.0/24",

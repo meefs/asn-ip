@@ -1,3 +1,2 @@
 # AS19590 (FICOH-ASN-1)
-# FICOH
 #

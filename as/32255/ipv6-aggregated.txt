@@ -1,3 +1,2 @@
 # AS32255 (PPLNET-AS)
-# PPL Corporation
 #

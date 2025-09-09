@@ -1,7 +1,6 @@
 {
   "asn": 22156,
   "handle": "DANANET",
-  "description": "Dana Consulting Inc",
   "subnets": {
     "ipv4": [
       "8.29.56.0/23"

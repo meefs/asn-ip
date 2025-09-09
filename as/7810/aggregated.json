@@ -1,7 +1,6 @@
 {
   "asn": 7810,
   "handle": "CMPC",
-  "description": "CompuCom Systems Inc",
   "subnets": {
     "ipv4": [
       "204.214.144.0/20",

@@ -1,7 +1,6 @@
 {
   "asn": 17160,
   "handle": "NCOM-NA",
-  "description": "Neofelis Communications",
   "subnets": {
     "ipv4": [
       "104.247.116.0/24"

@@ -1,3 +1,2 @@
 # AS3529 (DNIC-AS-03529)
-# DoD Network Information Center
 #

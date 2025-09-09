@@ -1,7 +1,6 @@
 {
   "asn": 19424,
   "handle": "CV-NET-1",
-  "description": "Cars Commerce",
   "subnets": {
     "ipv4": [
       "74.119.96.0/23",

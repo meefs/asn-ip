@@ -1,7 +1,6 @@
 {
   "asn": 22866,
   "handle": "AECOM-USPHX3",
-  "description": "AECOM",
   "subnets": {
     "ipv4": [
       "63.70.138.0/24",

@@ -1,5 +1,4 @@
 # AS4136 (QTS)
-# Quality Technology Services LLC
 #
 66.197.115.0/24
 66.197.116.0/24

@@ -1,5 +1,4 @@
 # AS15277 (HILLINTL-USMRL1)
-# Hill International Inc
 #
 63.119.222.0/24
 66.7.175.0/24

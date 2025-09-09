@@ -1,3 +1,2 @@
 # AS706 (TEST-AUSTIN-IBM-AS)
-# Advanced Workstations Division IBM Corporation
 #

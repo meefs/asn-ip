@@ -1,5 +1,4 @@
 # AS19189 (PULSEPOINT)
-# Pulsepoint Inc
 #
 74.214.194.0/23
 74.214.196.0/23

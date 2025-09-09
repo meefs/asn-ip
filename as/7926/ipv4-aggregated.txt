@@ -1,5 +1,4 @@
 # AS7926 (FICO)
-# Fair Isaac and Company
 #
 165.109.96.0/19
 165.109.129.0/24

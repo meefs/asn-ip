@@ -1,7 +1,6 @@
 {
   "asn": 10255,
   "handle": "SINISTER",
-  "description": "Sinister and Solitary",
   "subnets": {
     "ipv4": [
       "192.31.227.0/24",

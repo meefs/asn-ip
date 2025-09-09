@@ -1,7 +1,6 @@
 {
   "asn": 25956,
   "handle": "LOGIXCOMM-AS4",
-  "description": "Logix",
   "subnets": {
     "ipv4": [
       "69.94.224.0/19",

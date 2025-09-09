@@ -1,7 +1,6 @@
 {
   "asn": 30444,
   "handle": "OFN",
-  "description": "Ocala Fiber Network",
   "subnets": {
     "ipv4": [
       "38.34.224.0/19",

@@ -1,7 +1,6 @@
 {
   "asn": 17059,
   "handle": "MTNBEAM-001",
-  "description": "Almendras Communications LLC",
   "subnets": {
     "ipv4": [
       "12.201.73.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 40176,
   "handle": "DATA-SUBSYSTEMS-INC-AS",
-  "description": "Data Subsystems Inc",
   "subnets": {
     "ipv4": [
       "208.76.48.0/22"

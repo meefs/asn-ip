@@ -1,7 +1,6 @@
 {
   "asn": 22926,
   "handle": "AS-WISPER",
-  "description": "Wisper ISP LLC",
   "subnets": {
     "ipv4": [
       "38.114.64.0/21",

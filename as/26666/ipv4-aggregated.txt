@@ -1,5 +1,4 @@
 # AS26666 (INTERSERVER-LAX)
-# Interserver Inc
 #
 64.81.183.0/24
 67.211.208.0/24

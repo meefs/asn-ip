@@ -1,7 +1,6 @@
 {
   "asn": 36421,
   "handle": "AS-TRENDMICRO-COM",
-  "description": "TREND MICRO INCORPORATED",
   "subnets": {
     "ipv4": [],
     "ipv6": []

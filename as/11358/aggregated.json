@@ -1,7 +1,6 @@
 {
   "asn": 11358,
   "handle": "TENNANT-SOFTWARE",
-  "description": "Tennant Software",
   "subnets": {
     "ipv4": [
       "23.186.184.0/24",

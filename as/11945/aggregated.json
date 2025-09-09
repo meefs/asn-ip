@@ -1,7 +1,6 @@
 {
   "asn": 11945,
   "handle": "ASN-DEYOUNG",
-  "description": "Corporation of the Fine Arts Museums",
   "subnets": {
     "ipv4": [
       "67.111.217.0/24"

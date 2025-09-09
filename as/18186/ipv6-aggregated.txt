@@ -1,5 +1,4 @@
 # AS18186 (NEBULA-GLOBAL)
-# Nebula Global LLC
 #
 2400:4d20::/48
 2400:4d20:200::/48

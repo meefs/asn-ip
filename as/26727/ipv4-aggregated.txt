@@ -1,5 +1,4 @@
 # AS26727 (BBTEL)
-# Brandenburg Telephone Company
 #
 64.57.160.0/21
 66.23.128.0/19

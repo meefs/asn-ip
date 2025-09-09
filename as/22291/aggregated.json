@@ -1,7 +1,6 @@
 {
   "asn": 22291,
   "handle": "CHARTER-22291-DC",
-  "description": "Charter Communications LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

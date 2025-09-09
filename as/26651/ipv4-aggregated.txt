@@ -1,5 +1,4 @@
 # AS26651 (CAREFUSION-AS)
-# CareFusion Corporation
 #
 63.106.106.0/24
 204.193.32.0/24

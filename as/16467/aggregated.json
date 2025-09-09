@@ -1,7 +1,6 @@
 {
   "asn": 16467,
   "handle": "GEOLINKS-AS",
-  "description": "GeoLinks",
   "subnets": {
     "ipv4": [],
     "ipv6": []

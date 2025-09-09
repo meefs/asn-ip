@@ -1,7 +1,6 @@
 {
   "asn": 23142,
   "handle": "NEOGENOMICS-ASN",
-  "description": "NeoGenomics",
   "subnets": {
     "ipv4": [
       "74.123.112.0/23"

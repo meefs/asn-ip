@@ -1,7 +1,6 @@
 {
   "asn": 26981,
   "handle": "GLM-MEDIA",
-  "description": "Glm Media",
   "subnets": {
     "ipv4": [
       "66.129.47.0/24"

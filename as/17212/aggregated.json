@@ -1,7 +1,6 @@
 {
   "asn": 17212,
   "handle": "TRI-COUNTY-FIBER-COMMUNICATIONS",
-  "description": "Tri-County Fiber Communications LLC",
   "subnets": {
     "ipv4": [
       "103.209.56.0/22",

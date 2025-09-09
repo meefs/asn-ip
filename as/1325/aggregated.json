@@ -1,7 +1,6 @@
 {
   "asn": 1325,
   "handle": "ANSBB-ASNNET-1",
-  "description": "Verizon Business",
   "subnets": {
     "ipv4": [
       "68.140.235.0/24",

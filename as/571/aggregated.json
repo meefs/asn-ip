@@ -1,7 +1,6 @@
 {
   "asn": 571,
   "handle": "DNIC-AS-00571",
-  "description": "DoD Network Information Center",
   "subnets": {
     "ipv4": [
       "214.26.64.0/18",

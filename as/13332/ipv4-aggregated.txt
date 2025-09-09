@@ -1,5 +1,4 @@
 # AS13332 (HYPEENT-SJ)
-# Hype Enterprises
 #
 45.115.192.0/22
 45.249.56.0/22

@@ -1,5 +1,4 @@
 # AS26517 (OXY-INC)
-# Occidental Petroleum Corporation
 #
 2605:5c0:10::/44
 2605:5c0:40::/44

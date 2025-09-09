@@ -1,7 +1,6 @@
 {
   "asn": 31798,
   "handle": "DATACITY",
-  "description": "DataCity",
   "subnets": {
     "ipv4": [
       "45.62.192.0/21",

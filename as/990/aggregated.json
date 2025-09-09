@@ -1,7 +1,6 @@
 {
   "asn": 990,
   "handle": "INDEX-SF",
-  "description": "Index Ventures",
   "subnets": {
     "ipv4": [],
     "ipv6": []

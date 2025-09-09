@@ -1,7 +1,6 @@
 {
   "asn": 11721,
   "handle": "STYLENTECH",
-  "description": "StylenTech LLC",
   "subnets": {
     "ipv4": [
       "23.151.8.0/24",

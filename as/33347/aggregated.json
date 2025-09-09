@@ -1,7 +1,6 @@
 {
   "asn": 33347,
   "handle": "NAVICENT",
-  "description": "NAVICENT HEALTH",
   "subnets": {
     "ipv4": [
       "98.164.60.0/24",

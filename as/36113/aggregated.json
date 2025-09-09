@@ -1,7 +1,6 @@
 {
   "asn": 36113,
   "handle": "UTL-42-36113",
-  "description": "Netopia",
   "subnets": {
     "ipv4": [
       "23.189.232.0/24",

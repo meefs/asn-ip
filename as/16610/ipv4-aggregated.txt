@@ -1,5 +1,4 @@
 # AS16610 (BLUEBIRD-WIRELESS)
-# Bluebird Wireless Broadband Services L.L.C
 #
 68.67.112.0/20
 208.88.64.0/21

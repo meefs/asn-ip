@@ -1,7 +1,6 @@
 {
   "asn": 21925,
   "handle": "RIM",
-  "description": "Reseau Internet Maskoutain",
   "subnets": {
     "ipv4": [
       "104.245.67.0/24"

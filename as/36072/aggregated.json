@@ -1,7 +1,6 @@
 {
   "asn": 36072,
   "handle": "12COMMAS",
-  "description": "12 Commas LLC",
   "subnets": {
     "ipv4": [
       "66.150.28.0/22"

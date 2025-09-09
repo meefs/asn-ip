@@ -1,7 +1,6 @@
 {
   "asn": 30083,
   "handle": "AS-30083-US-VELIA-NET",
-  "description": "velia.net",
   "subnets": {
     "ipv4": [
       "50.30.32.0/20",

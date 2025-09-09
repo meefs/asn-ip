@@ -1,7 +1,6 @@
 {
   "asn": 577,
   "handle": "BACOM",
-  "description": "Bell Canada",
   "subnets": {
     "ipv4": [
       "24.142.116.0/24",

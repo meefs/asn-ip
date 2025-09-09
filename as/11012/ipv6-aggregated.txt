@@ -1,3 +1,2 @@
 # AS11012 (DDC-AS)
-# The Digital Design Company
 #

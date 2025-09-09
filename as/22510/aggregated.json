@@ -1,7 +1,6 @@
 {
   "asn": 22510,
   "handle": "BRAINTREE",
-  "description": "PayPal Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

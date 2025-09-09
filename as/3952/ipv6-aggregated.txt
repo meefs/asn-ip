@@ -1,3 +1,2 @@
 # AS3952 (TELLABS-ASN)
-# Infinera Corporation
 #

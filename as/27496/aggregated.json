@@ -1,7 +1,6 @@
 {
   "asn": 27496,
   "handle": "AS27496",
-  "description": "VENETIAN CASINO RESORT LLC",
   "subnets": {
     "ipv4": [
       "64.79.144.0/23",

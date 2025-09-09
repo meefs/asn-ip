@@ -1,3 +1,2 @@
 # AS31753 (INMARSAT-GOVERNMENT-1)
-# Inmarsat Government
 #

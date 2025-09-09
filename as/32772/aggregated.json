@@ -1,7 +1,6 @@
 {
   "asn": 32772,
   "handle": "TAFS-TRANSIT-ASN",
-  "description": "TRANS AMERICAS FIBER",
   "subnets": {
     "ipv4": [],
     "ipv6": []

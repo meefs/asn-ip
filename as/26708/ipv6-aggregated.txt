@@ -1,3 +1,2 @@
 # AS26708 (CCS-AS)
-# Center for Computing Sciences
 #

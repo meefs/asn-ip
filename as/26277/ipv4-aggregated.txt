@@ -1,5 +1,4 @@
 # AS26277 (SERVERPOINT)
-# ServerPoint.com
 #
 64.235.33.0/24
 64.235.34.0/23

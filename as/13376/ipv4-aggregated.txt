@@ -1,4 +1,3 @@
 # AS13376 (TOPPAN-MERRILL)
-# Toppan Merrill LLC
 #
 37.26.88.0/21

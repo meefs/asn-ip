@@ -1,7 +1,6 @@
 {
   "asn": 36057,
   "handle": "WEBAIR-INTERNET-MTL",
-  "description": "Webair Internet Development Company Inc",
   "subnets": {
     "ipv4": [
       "77.245.48.0/20",

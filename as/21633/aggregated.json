@@ -1,7 +1,6 @@
 {
   "asn": 21633,
   "handle": "DOI-NBC-NET",
-  "description": "U.S. Department of the Interior",
   "subnets": {
     "ipv4": [
       "137.227.96.0/21",

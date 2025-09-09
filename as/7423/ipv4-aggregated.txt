@@ -1,5 +1,4 @@
 # AS7423 (PUTNAMFT)
-# Putnam Fiduciary Trust
 #
 155.39.67.0/24
 155.39.75.0/24

@@ -1,7 +1,6 @@
 {
   "asn": 20177,
   "handle": "EMPORIA-STATE-UNIVERSITY",
-  "description": "Emporia State University",
   "subnets": {
     "ipv4": [
       "198.248.132.0/22"

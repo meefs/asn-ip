@@ -1,5 +1,4 @@
 # AS19148 (LEASEWEB-USA-PHX)
-# Leaseweb USA Inc
 #
 2601:2010::/29
 2602:299::/44

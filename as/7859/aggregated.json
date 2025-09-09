@@ -1,7 +1,6 @@
 {
   "asn": 7859,
   "handle": "PAIR-NETWORKS",
-  "description": "pair Networks",
   "subnets": {
     "ipv4": [
       "65.181.188.0/22",

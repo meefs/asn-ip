@@ -1,7 +1,6 @@
 {
   "asn": 20437,
   "handle": "AS20437",
-  "description": "Nationwide Mutual Insurance Company",
   "subnets": {
     "ipv4": [
       "155.188.0.0/23",

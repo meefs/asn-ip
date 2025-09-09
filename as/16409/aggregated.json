@@ -1,7 +1,6 @@
 {
   "asn": 16409,
   "handle": "PBW-COMMUNICATIONS",
-  "description": "PBW Communications LLC",
   "subnets": {
     "ipv4": [
       "204.9.92.0/22",

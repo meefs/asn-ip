@@ -1,5 +1,4 @@
 # AS35908 (VPLSNET)
-# Krypt Technologies
 #
 43.252.120.0/22
 66.186.32.0/19

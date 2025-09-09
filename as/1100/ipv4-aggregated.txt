@@ -1,5 +1,4 @@
 # AS1100 (NUDAY)
-# Nuday Networks Inc
 #
 23.160.48.0/23
 23.160.50.0/24

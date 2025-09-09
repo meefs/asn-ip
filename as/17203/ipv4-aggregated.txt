@@ -1,5 +1,4 @@
 # AS17203 (BMTC-01)
-# Beresford Municipal Telephone Company
 #
 66.115.193.0/24
 66.115.212.0/24

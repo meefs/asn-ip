@@ -1,7 +1,6 @@
 {
   "asn": 3411,
   "handle": "SMH-ASN",
-  "description": "St. Michael\u0027s Hospital",
   "subnets": {
     "ipv4": [
       "199.71.169.0/24",

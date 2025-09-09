@@ -1,7 +1,6 @@
 {
   "asn": 27344,
   "handle": "READING-HOSPITAL",
-  "description": "Reading Hospital",
   "subnets": {
     "ipv4": [
       "208.83.108.0/24"

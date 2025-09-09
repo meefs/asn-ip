@@ -1,5 +1,4 @@
 # AS3477 (NOAA-NWAVE)
-# National Oceanic and Atmospheric Administration
 #
 2601:a000::/32
 2601:a002::/32

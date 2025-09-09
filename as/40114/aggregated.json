@@ -1,7 +1,6 @@
 {
   "asn": 40114,
   "handle": "AS-IMPROCOM",
-  "description": "IMPROCOM INC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,7 +1,6 @@
 {
   "asn": 833,
   "handle": "SWN-AS",
-  "description": "Spearware Networks LLC",
   "subnets": {
     "ipv4": [
       "44.30.26.0/24",

@@ -1,3 +1,2 @@
 # AS3474 (DNIC-AS-03474)
-# DoD Network Information Center
 #

@@ -1,4 +1,4 @@
-# AS18149 (JPRS)
+# AS18149 (JPRS-NET)
 # Japan Registry Service Co. Ltd
 #
 2001:dda::/48

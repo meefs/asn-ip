@@ -1,7 +1,6 @@
 {
   "asn": 27530,
   "handle": "CORNEJO",
-  "description": "IBM",
   "subnets": {
     "ipv4": [
       "129.34.64.0/18"

@@ -1,7 +1,6 @@
 {
   "asn": 6465,
   "handle": "PAXIO",
-  "description": "Paxio Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

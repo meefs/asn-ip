@@ -1,5 +1,4 @@
 # AS31814 (FSI)
-# FlightSafety International
 #
 66.109.81.0/24
 66.109.87.0/24

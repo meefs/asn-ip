@@ -1,7 +1,6 @@
 {
   "asn": 20019,
   "handle": "PEC-TEL",
-  "description": "Parwan Electronics Corporation",
   "subnets": {
     "ipv4": [
       "66.6.128.0/24",

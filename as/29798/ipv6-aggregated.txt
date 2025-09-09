@@ -1,3 +1,2 @@
 # AS29798 (TENSPIRE-NETWORK-29798)
-# TenSpire Network
 #

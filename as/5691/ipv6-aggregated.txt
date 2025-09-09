@@ -1,3 +1,2 @@
 # AS5691 (MITRE-AS-5)
-# The MITRE Corporation
 #

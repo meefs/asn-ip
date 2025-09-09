@@ -1,3 +1,2 @@
 # AS10372 (WELLSFARGO-10372-10376)
-# Wells Fargo & Company
 #

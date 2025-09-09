@@ -1,3 +1,2 @@
 # AS11326 (ASN-EASTMAN-CHEMICAL)
-# Eastman Chemical Company
 #

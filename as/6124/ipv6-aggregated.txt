@@ -1,4 +1,3 @@
 # AS6124 (MARIST)
-# Marist University
 #
 2620:91::/47

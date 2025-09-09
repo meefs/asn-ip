@@ -1,5 +1,4 @@
 # AS14544 (RETEK)
-# Oracle Corporation
 #
 81.208.192.0/19
 130.110.30.0/23

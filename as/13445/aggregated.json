@@ -1,7 +1,6 @@
 {
   "asn": 13445,
   "handle": "WEBEX",
-  "description": "Cisco Webex LLC",
   "subnets": {
     "ipv4": [
       "8.244.137.0/24",

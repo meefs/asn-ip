@@ -1,5 +1,4 @@
 # AS20055 (AS-WHOLESAIL)
-# Wholesail networks LLC
 #
 15.211.0.0/16
 15.218.0.0/16

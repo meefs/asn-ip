@@ -1,3 +1,2 @@
 # AS406 (AFCONC-BLOCK1-AS)
-# Air Force Systems Networking
 #

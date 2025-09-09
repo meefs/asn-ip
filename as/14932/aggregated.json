@@ -1,7 +1,6 @@
 {
   "asn": 14932,
   "handle": "ISC",
-  "description": "C1CX",
   "subnets": {
     "ipv4": [
       "199.88.135.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 36302,
   "handle": "AMSCOT-ASN",
-  "description": "Amscot Corporation",
   "subnets": {
     "ipv4": [],
     "ipv6": []

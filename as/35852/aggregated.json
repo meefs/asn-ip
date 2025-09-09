@@ -1,7 +1,6 @@
 {
   "asn": 35852,
   "handle": "YELLOW-KCGO",
-  "description": "YRC Inc",
   "subnets": {
     "ipv4": [
       "68.23.21.0/24",

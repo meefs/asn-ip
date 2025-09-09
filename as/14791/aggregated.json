@@ -1,7 +1,6 @@
 {
   "asn": 14791,
   "handle": "NTS-DENISON-01",
-  "description": "Vexus Fiber",
   "subnets": {
     "ipv4": [
       "38.158.172.0/23",

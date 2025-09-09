@@ -1,3 +1,2 @@
 # AS12198 (JSMSR-LLC)
-# JSMSR Network
 #

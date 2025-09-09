@@ -1,5 +1,4 @@
 # AS7296 (AS-DYNASCALE-LAX)
-# Dynascale Technologies Inc
 #
 66.171.240.0/20
 66.186.0.0/19

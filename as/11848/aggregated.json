@@ -1,7 +1,6 @@
 {
   "asn": 11848,
   "handle": "SECUREVISION-GULFCOAST",
-  "description": "SecureVision",
   "subnets": {
     "ipv4": [
       "23.174.72.0/24",

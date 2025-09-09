@@ -1,7 +1,6 @@
 {
   "asn": 25846,
   "handle": "US-CLOUDNIUM-01",
-  "description": "Cloudnium LLC",
   "subnets": {
     "ipv4": [
       "104.234.254.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 31877,
   "handle": "ACCELECOM-GA",
-  "description": "Accelecom",
   "subnets": {
     "ipv4": [
       "63.120.127.0/24",

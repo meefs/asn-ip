@@ -1,7 +1,6 @@
 {
   "asn": 30092,
   "handle": "AS-30092",
-  "description": "ASSERTIVENET",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,7 +1,6 @@
 {
   "asn": 22340,
   "handle": "AS22340",
-  "description": "XONODE",
   "subnets": {
     "ipv4": [
       "45.39.71.0/24",

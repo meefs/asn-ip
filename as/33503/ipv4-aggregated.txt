@@ -1,4 +1,3 @@
 # AS33503 (MCW-1-AS)
-# Medical College of Wisconsin
 #
 141.106.0.0/16

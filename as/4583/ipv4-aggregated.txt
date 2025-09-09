@@ -1,5 +1,4 @@
 # AS4583 (THOMSON-REUTERS)
-# West Publishing Corporation
 #
 155.46.136.0/22
 155.46.140.0/23

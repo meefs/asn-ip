@@ -1,7 +1,6 @@
 {
   "asn": 13725,
   "handle": "NOBULL-NETWORKS",
-  "description": "Nobull Networks LLC",
   "subnets": {
     "ipv4": [
       "209.205.238.0/23"

@@ -1,7 +1,6 @@
 {
   "asn": 939,
   "handle": "USA-2022",
-  "description": "NovoServe LLC",
   "subnets": {
     "ipv4": [
       "45.152.192.0/22",

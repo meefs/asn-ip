@@ -1,4 +1,4 @@
 # AS24271 (ICTV)
-# Iruma CATV co
+# iruma cable TV
 #
 2400:99a0::/32

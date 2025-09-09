@@ -1,3 +1,2 @@
 # AS26817 (MICROC-ASN)
-# Microchip Technology Inc
 #

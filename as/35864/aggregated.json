@@ -1,7 +1,6 @@
 {
   "asn": 35864,
   "handle": "APUS-5",
-  "description": "American Public University System",
   "subnets": {
     "ipv4": [
       "38.100.33.0/24",

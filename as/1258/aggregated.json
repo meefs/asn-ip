@@ -1,7 +1,6 @@
 {
   "asn": 1258,
   "handle": "XKL-NET-AS",
-  "description": "XKL LLC",
   "subnets": {
     "ipv4": [
       "192.94.202.0/24"

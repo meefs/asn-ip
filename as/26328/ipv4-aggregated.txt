@@ -1,5 +1,4 @@
 # AS26328 (BLASTCOMM)
-# Blast Communications Inc
 #
 69.49.192.0/23
 69.49.197.0/24

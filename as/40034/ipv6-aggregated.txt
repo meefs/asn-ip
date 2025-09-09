@@ -1,3 +1,2 @@
 # AS40034 (CONFLUENCE-NETWORK-INC)
-# Confluence Networks Inc
 #

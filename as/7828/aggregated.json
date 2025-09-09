@@ -1,7 +1,6 @@
 {
   "asn": 7828,
   "handle": "DRMSCPASN",
-  "description": "Northland Communications",
   "subnets": {
     "ipv4": [
       "38.77.37.0/24",

@@ -1,3 +1,2 @@
 # AS32815 (GOY-ASN1)
-# Government of Yukon
 #

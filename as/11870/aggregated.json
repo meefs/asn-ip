@@ -1,7 +1,6 @@
 {
   "asn": 11870,
   "handle": "ALTICOR-INC",
-  "description": "ALTICOR INC",
   "subnets": {
     "ipv4": [
       "103.44.17.0/24",

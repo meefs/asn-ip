@@ -1,7 +1,6 @@
 {
   "asn": 11678,
   "handle": "DOE-NTS-AS",
-  "description": "U.S. Department of Energy",
   "subnets": {
     "ipv4": [
       "192.100.51.0/24"

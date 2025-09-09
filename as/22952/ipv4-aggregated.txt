@@ -1,5 +1,4 @@
 # AS22952 (CHCCW)
-# Chaparral CableVision
 #
 8.36.97.0/24
 8.36.98.0/24

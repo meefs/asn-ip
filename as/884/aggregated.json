@@ -1,7 +1,6 @@
 {
   "asn": 884,
   "handle": "GONET-ASN-17",
-  "description": "GONET",
   "subnets": {
     "ipv4": [
       "95.142.87.0/24",

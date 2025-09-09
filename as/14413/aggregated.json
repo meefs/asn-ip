@@ -1,7 +1,6 @@
 {
   "asn": 14413,
   "handle": "LINKEDIN",
-  "description": "LinkedIn Corporation",
   "subnets": {
     "ipv4": [
       "103.20.92.0/22",

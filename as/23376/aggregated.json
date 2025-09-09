@@ -1,7 +1,6 @@
 {
   "asn": 23376,
   "handle": "EN-23376",
-  "description": "EllumNet LLC",
   "subnets": {
     "ipv4": [
       "64.46.160.0/19",

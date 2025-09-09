@@ -1,3 +1,2 @@
 # AS18528 (COW-DR-01)
-# The Corporation of the City of Waterloo
 #

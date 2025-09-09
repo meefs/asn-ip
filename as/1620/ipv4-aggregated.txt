@@ -1,4 +1,3 @@
 # AS1620 (AS-DOELEGAL)
-# doeLEGAL Inc
 #
 207.245.102.0/23

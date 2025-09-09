@@ -1,4 +1,4 @@
-# AS138384 (RMI)
+# AS138384 (RMNI-AS-AP)
 # Rakuten Mobile Inc
 #
 240b:c000::/24

@@ -1,7 +1,6 @@
 {
   "asn": 12189,
   "handle": "AS12189",
-  "description": "PhoenixNAP LLC",
   "subnets": {
     "ipv4": [
       "98.143.32.0/24",

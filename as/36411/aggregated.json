@@ -1,7 +1,6 @@
 {
   "asn": 36411,
   "handle": "GEN-AS2",
-  "description": "Google LLC",
   "subnets": {
     "ipv4": [
       "104.132.16.0/23",

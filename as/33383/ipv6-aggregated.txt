@@ -1,3 +1,2 @@
 # AS33383 (HPINC)
-# HP Inc
 #

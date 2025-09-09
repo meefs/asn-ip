@@ -1,3 +1,2 @@
 # AS11935 (TALKPOINT-COMMUNICATIONS-11935)
-# TalkPoint Communications
 #

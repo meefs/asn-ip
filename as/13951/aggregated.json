@@ -1,7 +1,6 @@
 {
   "asn": 13951,
   "handle": "DATABANK-SLC",
-  "description": "C7 Data Centers Inc",
   "subnets": {
     "ipv4": [
       "199.87.174.0/24"

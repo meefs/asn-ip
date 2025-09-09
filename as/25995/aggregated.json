@@ -1,7 +1,6 @@
 {
   "asn": 25995,
   "handle": "CALTELEHEALTHNET",
-  "description": "California Telehealth Network",
   "subnets": {
     "ipv4": [],
     "ipv6": []

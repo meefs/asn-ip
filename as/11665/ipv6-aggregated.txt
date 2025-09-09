@@ -1,4 +1,3 @@
 # AS11665 (NORTH-RIDGE)
-# North Ridge
 #
 2602:fcfe::/36

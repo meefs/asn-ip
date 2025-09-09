@@ -1,5 +1,4 @@
 # AS22888 (SUAGM)
-# Sistema Universitario Ana G. Mendez
 #
 12.205.97.0/24
 173.215.128.0/24

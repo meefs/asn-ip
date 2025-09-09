@@ -1,3 +1,2 @@
 # AS29928 (EDATA)
-# LexisNexis Risk Data Management Inc
 #

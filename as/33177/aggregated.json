@@ -1,7 +1,6 @@
 {
   "asn": 33177,
   "handle": "AS33177",
-  "description": "Kaleida Health",
   "subnets": {
     "ipv4": [
       "198.51.72.0/24",

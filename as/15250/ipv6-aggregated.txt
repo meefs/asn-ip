@@ -1,3 +1,2 @@
 # AS15250 (USFAMILY-ASN)
-# Metronet
 #

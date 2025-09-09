@@ -1,3 +1,2 @@
 # AS33042 (NETIFACE-TORONTO)
-# Netiface LLC
 #

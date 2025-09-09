@@ -1,5 +1,4 @@
 # AS1742 (HARVARD-UNIV)
-# Harvard University
 #
 65.112.0.0/20
 67.134.204.0/22

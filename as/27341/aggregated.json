@@ -1,7 +1,6 @@
 {
   "asn": 27341,
   "handle": "GFNET-AS01",
-  "description": "Gannet Fleming Inc",
   "subnets": {
     "ipv4": [
       "216.174.25.0/24"

@@ -1,5 +1,4 @@
 # AS26038 (ELVT-CLOUD-AND-CONNX)
-# Elevate Technology Group
 #
 8.41.135.0/24
 44.26.110.0/24

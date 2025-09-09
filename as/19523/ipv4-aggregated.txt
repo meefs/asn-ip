@@ -1,5 +1,4 @@
 # AS19523 (BH-TELECOM-CORP)
-# FlexNetworks
 #
 23.146.32.0/24
 64.72.196.0/23

@@ -1,7 +1,6 @@
 {
   "asn": 21623,
   "handle": "SPACELINK",
-  "description": "Spacelink Systems",
   "subnets": {
     "ipv4": [
       "65.50.224.0/19",

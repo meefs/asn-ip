@@ -1,7 +1,6 @@
 {
   "asn": 11003,
   "handle": "PANDG",
-  "description": "The Procter and Gamble Company",
   "subnets": {
     "ipv4": [
       "103.145.94.0/23",

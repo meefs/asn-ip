@@ -1,3 +1,2 @@
 # AS5079 (DIAL-CALL)
-# T-Mobile USA Inc
 #

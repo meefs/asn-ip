@@ -1,7 +1,6 @@
 {
   "asn": 6488,
   "handle": "DS6488-0",
-  "description": "AMUG",
   "subnets": {
     "ipv4": [
       "204.62.193.0/24",

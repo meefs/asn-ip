@@ -1,7 +1,6 @@
 {
   "asn": 30699,
   "handle": "CORECIVIC",
-  "description": "CoreCivic Inc",
   "subnets": {
     "ipv4": [
       "208.25.211.0/24",

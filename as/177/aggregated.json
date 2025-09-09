@@ -1,7 +1,6 @@
 {
   "asn": 177,
   "handle": "UMICH-AS-1",
-  "description": "University of Michigan",
   "subnets": {
     "ipv4": [],
     "ipv6": [

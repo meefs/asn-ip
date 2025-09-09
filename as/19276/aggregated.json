@@ -1,7 +1,6 @@
 {
   "asn": 19276,
   "handle": "BLG",
-  "description": "Borden Ladner Gervais LLP",
   "subnets": {
     "ipv4": [
       "204.138.122.0/24",

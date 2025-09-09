@@ -1,7 +1,6 @@
 {
   "asn": 18531,
   "handle": "WISPER-WIFIM",
-  "description": "Wisper ISP LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

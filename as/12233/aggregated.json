@@ -1,7 +1,6 @@
 {
   "asn": 12233,
   "handle": "CACHE-POWERED-BY-NINJA-IX",
-  "description": "Ninja-IX Corporation",
   "subnets": {
     "ipv4": [
       "165.140.130.0/24",

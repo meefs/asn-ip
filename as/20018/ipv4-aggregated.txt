@@ -1,5 +1,4 @@
 # AS20018 (MVT-AS)
-# Moapa Valley Telephone Company
 #
 44.125.0.0/24
 66.132.182.0/23

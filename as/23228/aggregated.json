@@ -1,7 +1,6 @@
 {
   "asn": 23228,
   "handle": "AS1-CO-EL-PASO-TX",
-  "description": "The County of El Paso",
   "subnets": {
     "ipv4": [
       "69.152.48.0/20"

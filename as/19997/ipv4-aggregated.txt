@@ -1,5 +1,4 @@
 # AS19997 (PENNNATIONALINSURANCE)
-# Penn National Insurance
 #
 38.113.125.0/24
 38.113.162.0/24

@@ -1,5 +1,4 @@
 # AS18690 (MEDIDATA)
-# Medidata Solutions Inc
 #
 8.25.146.0/24
 66.151.71.0/24

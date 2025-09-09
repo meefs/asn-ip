@@ -1,4 +1,3 @@
 # AS29788 (TELIANCE-COMMUNICATIONS)
-# Teliance Communications Inc
 #
 70.42.223.0/24

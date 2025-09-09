@@ -1,7 +1,6 @@
 {
   "asn": 31929,
   "handle": "GREATRIVERENERGY",
-  "description": "Great River Energy",
   "subnets": {
     "ipv4": [
       "50.235.175.0/24",

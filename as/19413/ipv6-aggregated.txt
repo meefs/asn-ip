@@ -1,3 +1,2 @@
 # AS19413 (ROANOKE-CONNECT-ASN-1)
-# Roanoke Connect
 #

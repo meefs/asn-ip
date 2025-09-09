@@ -1,5 +1,4 @@
 # AS10349 (TULANE)
-# Tulane University
 #
 76.165.13.0/24
 129.81.0.0/16

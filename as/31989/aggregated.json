@@ -1,7 +1,6 @@
 {
   "asn": 31989,
   "handle": "FFH-AS",
-  "description": "Fiber Fast Homes LLC",
   "subnets": {
     "ipv4": [
       "23.155.168.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 27435,
   "handle": "OPSOURCE-INC",
-  "description": "NTT Cloud Infrastructure Inc",
   "subnets": {
     "ipv4": [
       "168.128.134.0/23"

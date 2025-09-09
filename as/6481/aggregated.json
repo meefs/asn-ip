@@ -1,7 +1,6 @@
 {
   "asn": 6481,
   "handle": "SWRI",
-  "description": "Southwest Research Institute",
   "subnets": {
     "ipv4": [
       "129.162.0.0/16"

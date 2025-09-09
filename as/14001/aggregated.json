@@ -1,7 +1,6 @@
 {
   "asn": 14001,
   "handle": "MICROADVANTAGE-INC",
-  "description": "Vision Net Ltd",
   "subnets": {
     "ipv4": [
       "207.170.128.0/18",

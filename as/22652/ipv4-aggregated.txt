@@ -1,5 +1,4 @@
 # AS22652 (FIBRENOIRE-INTERNET)
-# Videotron Ltee
 #
 23.153.96.0/24
 38.133.56.0/21

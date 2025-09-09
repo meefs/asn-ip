@@ -1,7 +1,6 @@
 {
   "asn": 30712,
   "handle": "META-SOLUTIONS-DAYTON",
-  "description": "META Solutions",
   "subnets": {
     "ipv4": [
       "209.34.112.0/20"

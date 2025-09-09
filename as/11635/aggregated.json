@@ -1,7 +1,6 @@
 {
   "asn": 11635,
   "handle": "AS-ENVI-1",
-  "description": "TelMAX Inc",
   "subnets": {
     "ipv4": [
       "23.128.224.0/24",

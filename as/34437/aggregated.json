@@ -1,7 +1,6 @@
 {
   "asn": 34437,
   "handle": "COVERTHART-AS-34437",
-  "description": "CovertHart Networks",
   "subnets": {
     "ipv4": [
       "23.137.20.0/24",

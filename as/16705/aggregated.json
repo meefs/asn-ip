@@ -1,7 +1,6 @@
 {
   "asn": 16705,
   "handle": "LOGIC-CAYMAN-TELECAYMAN",
-  "description": "WestTel Ltd",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,5 +1,4 @@
 # AS13789 (INTERNAP-BLK3)
-# Unitas Global
 #
 63.251.16.0/20
 63.251.192.0/24

@@ -1,5 +1,4 @@
 # AS5719 (SUNYSB)
-# State University of New York at Stony Brook
 #
 129.49.0.0/16
 130.245.0.0/16

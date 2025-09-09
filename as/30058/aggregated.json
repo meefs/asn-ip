@@ -1,7 +1,6 @@
 {
   "asn": 30058,
   "handle": "FDCSERVERS",
-  "description": "FDCservers.net",
   "subnets": {
     "ipv4": [
       "23.26.204.0/24",

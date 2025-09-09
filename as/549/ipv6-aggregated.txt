@@ -1,3 +1,2 @@
 # AS549 (GTANET-AS)
-# GTAnet Networking
 #

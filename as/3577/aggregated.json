@@ -1,7 +1,6 @@
 {
   "asn": 3577,
   "handle": "AS3577",
-  "description": "Vestas American Wind Technology",
   "subnets": {
     "ipv4": [
       "12.19.197.0/24",

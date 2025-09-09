@@ -1,3 +1,2 @@
 # AS11343 (WHOOP-ASN)
-# Whoop Inc
 #

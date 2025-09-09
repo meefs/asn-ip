@@ -1,7 +1,6 @@
 {
   "asn": 36550,
   "handle": "MA-MORTENSON-COMPANY",
-  "description": "M. A. Mortenson Company",
   "subnets": {
     "ipv4": [
       "162.120.92.0/23"

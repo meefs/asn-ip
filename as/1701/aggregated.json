@@ -1,7 +1,6 @@
 {
   "asn": 1701,
   "handle": "AS1701",
-  "description": "National Aeronautics and Space Administration",
   "subnets": {
     "ipv4": [
       "129.165.0.0/16",

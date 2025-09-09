@@ -1,7 +1,6 @@
 {
   "asn": 32607,
   "handle": "CANACCORD-GENUITY",
-  "description": "Canaccord Genuity LLC",
   "subnets": {
     "ipv4": [
       "38.117.102.0/24",

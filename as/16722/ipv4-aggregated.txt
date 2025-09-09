@@ -1,3 +1,2 @@
 # AS16722 (INTERNET-SERVICE)
-# Internet Service Inc
 #

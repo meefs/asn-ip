@@ -1,7 +1,6 @@
 {
   "asn": 18934,
   "handle": "TENHATS",
-  "description": "TenHats LLC",
   "subnets": {
     "ipv4": [
       "142.202.68.0/22",

@@ -1,3 +1,2 @@
 # AS14036 (STACKAV-01)
-# Stack AV
 #

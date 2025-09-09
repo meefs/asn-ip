@@ -1,5 +1,4 @@
 # AS239 (UTORONTO-AS)
-# University of Toronto
 #
 2606:fa00::/32
 2631:1000::/24

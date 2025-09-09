@@ -1,7 +1,6 @@
 {
   "asn": 31898,
   "handle": "ORACLE-BMC-31898",
-  "description": "Oracle Corporation",
   "subnets": {
     "ipv4": [
       "23.172.248.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 26141,
   "handle": "CUBEPATH",
-  "description": "CubePath",
   "subnets": {
     "ipv4": [
       "45.90.237.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 26223,
   "handle": "SILVERSTAR-TELEPHONE",
-  "description": "Silver Star Communications",
   "subnets": {
     "ipv4": [
       "38.41.64.0/24",

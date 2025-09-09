@@ -1,5 +1,4 @@
 # AS26937 (MUNICH-RE-AMERICA)
-# The Midland Company
 #
 66.117.196.0/24
 110.170.124.0/24

@@ -1,7 +1,6 @@
 {
   "asn": 22676,
   "handle": "CITY-OF-COVINGTON-GA",
-  "description": "City Of Covington Georgia",
   "subnets": {
     "ipv4": [
       "144.86.224.0/23"

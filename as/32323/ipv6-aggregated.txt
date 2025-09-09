@@ -1,3 +1,2 @@
 # AS32323 (EQUINIX-EC-TR)
-# Equinix Inc
 #

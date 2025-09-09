@@ -1,7 +1,6 @@
 {
   "asn": 15081,
   "handle": "OMNI-FIBER",
-  "description": "Omni Fiber",
   "subnets": {
     "ipv4": [
       "38.179.0.0/18",

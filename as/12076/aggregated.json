@@ -1,7 +1,6 @@
 {
   "asn": 12076,
   "handle": "MICROSOFT",
-  "description": "Microsoft Corporation",
   "subnets": {
     "ipv4": [
       "151.207.40.0/21",

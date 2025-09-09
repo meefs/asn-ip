@@ -1,7 +1,7 @@
 {
   "asn": 131477,
-  "handle": "PSC-594-131477",
-  "description": "Prime Security Corp",
+  "handle": "RESERVED",
+  "description": "APNIC 32-bit ASN block",
   "subnets": {
     "ipv4": [],
     "ipv6": []

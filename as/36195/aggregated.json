@@ -1,7 +1,6 @@
 {
   "asn": 36195,
   "handle": "COINFARM-NEURALRACK-01",
-  "description": "NeuralRack AI",
   "subnets": {
     "ipv4": [
       "74.81.65.0/24",

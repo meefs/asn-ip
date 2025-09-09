@@ -1,7 +1,6 @@
 {
   "asn": 40092,
   "handle": "ONIAAS",
-  "description": "HostPapa",
   "subnets": {
     "ipv4": [
       "45.56.216.0/21",

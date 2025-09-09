@@ -1,4 +1,3 @@
 # AS11803 (OMNICELL)
-# Omnicell
 #
 173.254.187.0/24

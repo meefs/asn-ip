@@ -1,7 +1,6 @@
 {
   "asn": 2381,
   "handle": "WISCNET1-AS",
-  "description": "WiscNet",
   "subnets": {
     "ipv4": [
       "64.189.15.0/24",

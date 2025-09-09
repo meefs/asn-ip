@@ -1,3 +1,2 @@
 # AS2154 (HPINC)
-# HP Inc
 #

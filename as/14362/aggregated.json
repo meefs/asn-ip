@@ -1,7 +1,6 @@
 {
   "asn": 14362,
   "handle": "VAISALA1",
-  "description": "Vaisala Inc",
   "subnets": {
     "ipv4": [
       "192.101.77.0/24",

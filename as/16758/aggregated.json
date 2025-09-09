@@ -1,7 +1,6 @@
 {
   "asn": 16758,
   "handle": "RICOH-USA",
-  "description": "Ricoh USA Inc",
   "subnets": {
     "ipv4": [
       "151.114.1.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 14870,
   "handle": "FLEXERA-SC4",
-  "description": "Flexera Software LLC",
   "subnets": {
     "ipv4": [
       "162.244.223.0/24"

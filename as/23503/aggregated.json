@@ -1,7 +1,6 @@
 {
   "asn": 23503,
   "handle": "CONSTELLATION-ENERGY",
-  "description": "Exelon Corporation",
   "subnets": {
     "ipv4": [
       "159.214.87.0/24",

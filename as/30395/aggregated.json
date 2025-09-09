@@ -1,7 +1,6 @@
 {
   "asn": 30395,
   "handle": "SAHS",
-  "description": "SWEDISHAMERICAN HEALTH SYSTEM CORPORATION",
   "subnets": {
     "ipv4": [
       "209.94.50.0/24"

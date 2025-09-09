@@ -1,3 +1,2 @@
 # AS3954 (DNIC-AS-03954)
-# DoD Network Information Center
 #

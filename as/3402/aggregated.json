@@ -1,7 +1,6 @@
 {
   "asn": 3402,
   "handle": "BR",
-  "description": "Butterfly Research",
   "subnets": {
     "ipv4": [
       "64.239.32.0/23",

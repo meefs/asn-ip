@@ -1,4 +1,4 @@
-# AS23774 (A-DNS-JP)
+# AS23774 (JP-DNS)
 # Japan Registry Service Co. Ltd
 #
 203.119.1.0/24

@@ -1,4 +1,3 @@
 # AS25928 (AS-WISPER-LZR)
-# Wisper ISP LLC
 #
 192.68.255.0/24

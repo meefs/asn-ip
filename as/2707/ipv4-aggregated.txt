@@ -1,5 +1,4 @@
 # AS2707 (FIRSTCOMM-AS1)
-# First Communications LLC
 #
 65.127.100.0/23
 168.92.0.0/19

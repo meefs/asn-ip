@@ -1,4 +1,3 @@
 # AS22760 (ECNMEDIA)
-# Entertainment Communications Network Inc
 #
 170.39.142.0/24

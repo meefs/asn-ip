@@ -1,4 +1,3 @@
 # AS18771 (3DS-BB01)
-# 3ds Communications LLC
 #
 199.21.104.0/21

@@ -1,7 +1,6 @@
 {
   "asn": 26296,
   "handle": "CLEARLINK",
-  "description": "ClearLink",
   "subnets": {
     "ipv4": [
       "172.84.131.0/24"

@@ -1,7 +1,6 @@
 {
   "asn": 23479,
   "handle": "TSPEC",
-  "description": "Technology Specialists",
   "subnets": {
     "ipv4": [],
     "ipv6": []

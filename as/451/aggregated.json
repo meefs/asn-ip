@@ -1,7 +1,6 @@
 {
   "asn": 451,
   "handle": "AFCONC-BLOCK1-AS",
-  "description": "Air Force Systems Networking",
   "subnets": {
     "ipv4": [],
     "ipv6": []

@@ -1,5 +1,4 @@
 # AS20037 (ORCL-SLDC)
-# Oracle Corporation
 #
 129.157.65.0/24
 129.157.66.0/23

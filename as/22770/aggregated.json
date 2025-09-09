@@ -1,7 +1,6 @@
 {
   "asn": 22770,
   "handle": "WHEELS-COM",
-  "description": "Wheels LLC",
   "subnets": {
     "ipv4": [
       "199.181.33.0/24"

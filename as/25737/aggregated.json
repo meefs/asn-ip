@@ -1,7 +1,6 @@
 {
   "asn": 25737,
   "handle": "JONE",
-  "description": "Jone Broadband LLC",
   "subnets": {
     "ipv4": [
       "23.162.8.0/24"

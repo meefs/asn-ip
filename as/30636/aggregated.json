@@ -1,7 +1,6 @@
 {
   "asn": 30636,
   "handle": "INTERNAP-BLK6",
-  "description": "Unitas Global",
   "subnets": {
     "ipv4": [],
     "ipv6": []

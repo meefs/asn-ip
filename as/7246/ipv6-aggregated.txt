@@ -1,5 +1,4 @@
 # AS7246 (BMS-AS)
-# Bristol-Myers Squibb Company
 #
 2620:197:300::/48
 2620:197:380::/48

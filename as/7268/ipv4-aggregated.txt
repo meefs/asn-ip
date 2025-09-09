@@ -1,5 +1,4 @@
 # AS7268 (ATHENET)
-# Athenet Internet Services
 #
 69.28.0.0/19
 72.1.0.0/19

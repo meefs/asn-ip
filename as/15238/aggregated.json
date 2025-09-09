@@ -1,7 +1,6 @@
 {
   "asn": 15238,
   "handle": "GF-AS15238",
-  "description": "Gates Foundation",
   "subnets": {
     "ipv4": [
       "65.117.201.0/24",

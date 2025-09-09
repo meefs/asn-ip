@@ -1,7 +1,6 @@
 {
   "asn": 16604,
   "handle": "FWB-NE",
-  "description": "HUNTEL.NET",
   "subnets": {
     "ipv4": [
       "38.2.232.0/22",

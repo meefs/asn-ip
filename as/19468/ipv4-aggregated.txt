@@ -1,3 +1,2 @@
 # AS19468 (VALEX)
-# Valex Cloud LLC
 #

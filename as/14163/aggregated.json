@@ -1,7 +1,6 @@
 {
   "asn": 14163,
   "handle": "SHEARMAN",
-  "description": "Shearman \u0026 Sterling",
   "subnets": {
     "ipv4": [
       "38.109.104.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 1097,
   "handle": "CORE-TRANSIT",
-  "description": "Core Transit LLC",
   "subnets": {
     "ipv4": [
       "50.20.192.0/22",

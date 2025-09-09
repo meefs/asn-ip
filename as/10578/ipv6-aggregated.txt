@@ -1,5 +1,4 @@
 # AS10578 (GIGAPOP-NE)
-# Harvard University
 #
 2001:468:600::/40
 2001:504:2e::/48

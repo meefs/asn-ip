@@ -1,7 +1,6 @@
 {
   "asn": 19658,
   "handle": "BROWARDHEALTH-AS",
-  "description": "North Broward Hospital District",
   "subnets": {
     "ipv4": [
       "65.82.23.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 30641,
   "handle": "STATEOFDE",
-  "description": "STATE OF DELAWARE",
   "subnets": {
     "ipv4": [
       "167.21.0.0/16"

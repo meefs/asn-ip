@@ -1,7 +1,6 @@
 {
   "asn": 17054,
   "handle": "EXPEDIENT",
-  "description": "Expedient",
   "subnets": {
     "ipv4": [
       "8.45.61.0/24",

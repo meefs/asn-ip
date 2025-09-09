@@ -1,7 +1,6 @@
 {
   "asn": 32402,
   "handle": "ASN-TOWER",
-  "description": "Tower Research Capital LLC",
   "subnets": {
     "ipv4": [
       "38.97.58.0/24",

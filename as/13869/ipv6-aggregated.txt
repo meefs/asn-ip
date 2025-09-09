@@ -1,4 +1,3 @@
 # AS13869 (TEAM-AIR-EXPRESS)
-# Team Worldwide
 #
 2605:5e00:1000::/48

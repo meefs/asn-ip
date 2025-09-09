@@ -1,3 +1,2 @@
 # AS11546 (UNOMAHA-AS)
-# The Board of Regents of the University of Nebraska
 #

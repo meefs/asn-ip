@@ -1,4 +1,3 @@
 # AS14086 (QIX-YUL-SERVICES)
-# QIX Solutions & Services
 #
 206.126.112.0/24

@@ -1,5 +1,4 @@
 # AS27385 (QUALYS)
-# QUALYS Inc
 #
 2602:fdaa:60::/48
 2602:fdaa:c1::/48

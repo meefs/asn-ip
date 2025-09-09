@@ -1,3 +1,2 @@
 # AS30553 (THOREK-30553)
-# Thorek Memorial Hospital
 #

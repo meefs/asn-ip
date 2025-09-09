@@ -1,5 +1,4 @@
 # AS7828 (DRMSCPASN)
-# Northland Communications
 #
 38.77.37.0/24
 67.216.0.0/20

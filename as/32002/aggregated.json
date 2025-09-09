@@ -1,7 +1,6 @@
 {
   "asn": 32002,
   "handle": "RACKGENIUS",
-  "description": "RackGenius",
   "subnets": {
     "ipv4": [
       "155.2.214.0/24",

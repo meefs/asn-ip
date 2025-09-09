@@ -1,7 +1,6 @@
 {
   "asn": 10599,
   "handle": "MCKESSON",
-  "description": "McKesson Corp",
   "subnets": {
     "ipv4": [
       "139.177.127.0/24",

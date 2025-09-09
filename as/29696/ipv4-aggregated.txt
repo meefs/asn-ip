@@ -1,5 +1,4 @@
 # AS29696 (ECARTHAGE)
-# Carthage Water and Electric
 #
 152.228.56.0/21
 162.249.48.0/21

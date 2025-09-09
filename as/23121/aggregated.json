@@ -1,7 +1,6 @@
 {
   "asn": 23121,
   "handle": "NISX",
-  "description": "Nisx Inc",
   "subnets": {
     "ipv4": [
       "23.175.216.0/24"

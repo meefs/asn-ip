@@ -1,5 +1,4 @@
 # AS4262 (CERNET-ASN-BLOCK)
-# California Education and Research Federation Network
 #
 12.130.96.0/19
 134.24.177.0/24

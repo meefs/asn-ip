@@ -1,7 +1,6 @@
 {
   "asn": 10317,
   "handle": "CUCINT",
-  "description": "Trilegiant Corporation",
   "subnets": {
     "ipv4": [
       "198.245.183.0/24",

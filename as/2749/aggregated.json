@@ -1,7 +1,6 @@
 {
   "asn": 2749,
   "handle": "DNIC-AS-02749",
-  "description": "Navy Network Information Center (NNIC)",
   "subnets": {
     "ipv4": [
       "160.127.0.0/16",

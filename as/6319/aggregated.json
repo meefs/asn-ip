@@ -1,7 +1,6 @@
 {
   "asn": 6319,
   "handle": "MARRIOT-ASN",
-  "description": "Marriot Corporation",
   "subnets": {
     "ipv4": [
       "159.166.17.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 32726,
   "handle": "LIBERTY",
-  "description": "Liberty University",
   "subnets": {
     "ipv4": [
       "38.130.152.0/23",

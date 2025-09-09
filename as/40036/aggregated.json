@@ -1,7 +1,6 @@
 {
   "asn": 40036,
   "handle": "WAL-91-40036",
-  "description": "Wisk Aero LLC",
   "subnets": {
     "ipv4": [
       "68.69.14.0/23"

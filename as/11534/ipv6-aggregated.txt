@@ -1,3 +1,2 @@
 # AS11534 (PHILA-SCHOOL-DISTRICT)
-# The School District of Philadelphia
 #

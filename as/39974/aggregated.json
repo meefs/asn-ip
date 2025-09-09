@@ -1,7 +1,6 @@
 {
   "asn": 39974,
   "handle": "ALTITUDE-ISP",
-  "description": "Altitude ISP LLC",
   "subnets": {
     "ipv4": [
       "66.118.50.0/23",

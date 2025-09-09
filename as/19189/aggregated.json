@@ -1,7 +1,6 @@
 {
   "asn": 19189,
   "handle": "PULSEPOINT",
-  "description": "Pulsepoint Inc",
   "subnets": {
     "ipv4": [
       "74.214.194.0/23",

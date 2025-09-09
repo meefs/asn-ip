@@ -1,7 +1,6 @@
 {
   "asn": 26627,
   "handle": "AS-PILOSOFT",
-  "description": "Pilosoft Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

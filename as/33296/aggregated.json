@@ -1,7 +1,6 @@
 {
   "asn": 33296,
   "handle": "PIEDMONT-BROADBAND",
-  "description": "Piedmont Broadband Corporation",
   "subnets": {
     "ipv4": [
       "23.174.248.0/24",

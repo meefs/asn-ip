@@ -1,7 +1,6 @@
 {
   "asn": 2033,
   "handle": "PANIX",
-  "description": "Panix",
   "subnets": {
     "ipv4": [
       "166.84.0.0/16",

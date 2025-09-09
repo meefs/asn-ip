@@ -1,5 +1,4 @@
 # AS21889 (RAPIDSYSTEMS)
-# Rapid Systems Corporation
 #
 67.208.192.0/20
 142.214.242.0/24

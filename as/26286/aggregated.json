@@ -1,7 +1,6 @@
 {
   "asn": 26286,
   "handle": "MYSTICDEVIO",
-  "description": "MysticDev LLC",
   "subnets": {
     "ipv4": [
       "23.138.156.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 26565,
   "handle": "MDFDOR-ASN",
-  "description": "City of Medford",
   "subnets": {
     "ipv4": [],
     "ipv6": []

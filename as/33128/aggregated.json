@@ -1,7 +1,6 @@
 {
   "asn": 33128,
   "handle": "APOG-TOW",
-  "description": "Apogee Telecom Inc",
   "subnets": {
     "ipv4": [
       "64.189.151.0/24"

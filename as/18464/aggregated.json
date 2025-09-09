@@ -1,7 +1,6 @@
 {
   "asn": 18464,
   "handle": "ALVIDI",
-  "description": "ALVIDI TECHNOLOGY Inc",
   "subnets": {
     "ipv4": [
       "45.38.54.0/24",

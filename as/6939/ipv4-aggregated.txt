@@ -1,5 +1,4 @@
 # AS6939 (HURRICANE)
-# Hurricane Electric LLC
 #
 23.27.29.0/24
 23.27.132.0/23

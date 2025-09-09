@@ -1,7 +1,6 @@
 {
   "asn": 32771,
   "handle": "DNSIMPLE",
-  "description": "DNSimple Corporation",
   "subnets": {
     "ipv4": [
       "167.94.34.0/24",

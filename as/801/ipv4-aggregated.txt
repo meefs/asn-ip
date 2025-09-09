@@ -1,5 +1,4 @@
 # AS801 (AMAZON-R)
-# Amazon Technologies Inc
 #
 35.96.5.0/24
 35.96.30.0/23

@@ -1,5 +1,5 @@
-# AS4678 (FINE)
-# Canon IT Solutions Inc
+# AS4678 (RESERVED)
+# JPNIC-2Byte-ASBLOCK-AP
 #
 157.77.0.0/16
 202.228.128.0/18

@@ -1,7 +1,6 @@
 {
   "asn": 1216,
   "handle": "ORACLE-OCI-IAD1",
-  "description": "Oracle Corporation",
   "subnets": {
     "ipv4": [
       "138.3.201.0/24",

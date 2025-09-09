@@ -1,7 +1,6 @@
 {
   "asn": 12029,
   "handle": "TENSPIRE-NETWORK-12029",
-  "description": "TenSpire Network",
   "subnets": {
     "ipv4": [
       "89.106.27.0/24",

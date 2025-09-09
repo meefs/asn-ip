@@ -1,3 +1,2 @@
 # AS36182 (ATG-36182)
-# Accretive Networks
 #

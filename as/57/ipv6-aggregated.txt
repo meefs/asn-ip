@@ -1,4 +1,3 @@
 # AS57 (NL-GIGAPOP)
-# University of Minnesota
 #
 2607:ea00::/32

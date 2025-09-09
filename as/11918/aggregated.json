@@ -1,7 +1,6 @@
 {
   "asn": 11918,
   "handle": "DIALLOGTORONTOCORE",
-  "description": "Diallog Telecommunications",
   "subnets": {
     "ipv4": [
       "23.130.32.0/24",

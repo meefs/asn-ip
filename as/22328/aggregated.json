@@ -1,7 +1,6 @@
 {
   "asn": 22328,
   "handle": "CSHS",
-  "description": "Cedars-Sinai Health Systems",
   "subnets": {
     "ipv4": [
       "192.203.204.0/24"

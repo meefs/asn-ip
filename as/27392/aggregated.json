@@ -1,7 +1,6 @@
 {
   "asn": 27392,
   "handle": "639-DATACENTERS",
-  "description": "639 DC Main LLC",
   "subnets": {
     "ipv4": [
       "23.147.224.0/21",

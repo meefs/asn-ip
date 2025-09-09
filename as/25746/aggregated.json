@@ -1,7 +1,6 @@
 {
   "asn": 25746,
   "handle": "UNISYSASN25746",
-  "description": "Unisys Corporation",
   "subnets": {
     "ipv4": [
       "192.59.40.0/24"

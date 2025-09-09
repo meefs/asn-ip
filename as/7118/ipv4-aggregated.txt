@@ -1,5 +1,4 @@
 # AS7118 (GIS-7118)
-# Global Internet Services
 #
 199.1.24.0/21
 199.178.144.0/20

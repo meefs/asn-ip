@@ -3,9 +3,7 @@
   "handle": "BIPNET-AS-ID",
   "description": "PT. Broadband Indonesia Pratama",
   "subnets": {
-    "ipv4": [
-      "103.65.212.0/22"
-    ],
+    "ipv4": [],
     "ipv6": []
   }
 }

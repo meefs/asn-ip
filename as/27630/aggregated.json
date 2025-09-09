@@ -1,7 +1,6 @@
 {
   "asn": 27630,
   "handle": "AS-XFERNET",
-  "description": "XFERNET",
   "subnets": {
     "ipv4": [
       "67.43.160.0/20",

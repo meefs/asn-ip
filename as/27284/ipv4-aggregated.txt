@@ -1,5 +1,4 @@
 # AS27284 (FOURPLEX-ASN)
-# Fourplex Telecom LLC
 #
 23.134.76.0/24
 38.135.24.0/23

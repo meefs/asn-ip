@@ -1,7 +1,6 @@
 {
   "asn": 11161,
   "handle": "DIGITALVIRT",
-  "description": "DigitalVirt",
   "subnets": {
     "ipv4": [
       "151.241.128.0/23"

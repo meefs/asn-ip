@@ -1,7 +1,6 @@
 {
   "asn": 31957,
   "handle": "AGILE",
-  "description": "Agile Networks",
   "subnets": {
     "ipv4": [
       "38.67.228.0/23",

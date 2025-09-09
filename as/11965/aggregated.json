@@ -1,7 +1,6 @@
 {
   "asn": 11965,
   "handle": "COA-NET",
-  "description": "City of Aspen",
   "subnets": {
     "ipv4": [
       "64.39.229.0/24"

@@ -1,3 +1,2 @@
 # AS10708 (SELECTNET-AS)
-# SelectNet Internet Services
 #

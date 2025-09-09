@@ -1,7 +1,6 @@
 {
   "asn": 26382,
   "handle": "APAHQ",
-  "description": "Allied Pilots Association",
   "subnets": {
     "ipv4": [
       "208.48.51.0/24"

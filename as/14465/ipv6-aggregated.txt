@@ -1,3 +1,2 @@
 # AS14465 (HITN-AS-1)
-# HITN
 #

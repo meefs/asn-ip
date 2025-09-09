@@ -1,7 +1,6 @@
 {
   "asn": 1100,
   "handle": "NUDAY",
-  "description": "Nuday Networks Inc",
   "subnets": {
     "ipv4": [
       "23.160.48.0/23",

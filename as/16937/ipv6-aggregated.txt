@@ -1,3 +1,2 @@
 # AS16937 (PVS-AS)
-# Penske Vehicle Services Inc
 #

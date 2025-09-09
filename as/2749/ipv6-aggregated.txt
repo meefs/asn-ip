@@ -1,3 +1,2 @@
 # AS2749 (DNIC-AS-02749)
-# Navy Network Information Center (NNIC)
 #

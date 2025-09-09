@@ -1,7 +1,6 @@
 {
   "asn": 27575,
   "handle": "PROVAK",
-  "description": "Providence Hospital",
   "subnets": {
     "ipv4": [
       "170.173.39.0/24",

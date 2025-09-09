@@ -1,7 +1,6 @@
 {
   "asn": 14555,
   "handle": "LIQUIDNETLTD1",
-  "description": "LiquidNet US LLC",
   "subnets": {
     "ipv4": [
       "162.210.96.0/21",

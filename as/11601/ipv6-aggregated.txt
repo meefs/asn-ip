@@ -1,3 +1,2 @@
 # AS11601 (PICANOC-AS)
-# Reseau Picanoc.net Inc
 #

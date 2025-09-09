@@ -1,7 +1,6 @@
 {
   "asn": 15195,
   "handle": "AGNETWORX",
-  "description": "Alhambra-Grantfork Telephone Company",
   "subnets": {
     "ipv4": [
       "38.156.8.0/22",

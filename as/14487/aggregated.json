@@ -1,7 +1,6 @@
 {
   "asn": 14487,
   "handle": "WIND-RIVER-INTENET",
-  "description": "Wind River Internet",
   "subnets": {
     "ipv4": [
       "38.50.168.0/22",

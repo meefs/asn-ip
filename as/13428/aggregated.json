@@ -1,7 +1,6 @@
 {
   "asn": 13428,
   "handle": "SURFAIRWIRELESS-IN-02",
-  "description": "Surf Air Wireless LLC",
   "subnets": {
     "ipv4": [
       "23.145.32.0/23",

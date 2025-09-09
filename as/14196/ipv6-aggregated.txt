@@ -1,4 +1,3 @@
 # AS14196 (YAHOO-CHA)
-# Yahoo Holdings Inc
 #
 2001:4998:60::/48

@@ -1,7 +1,6 @@
 {
   "asn": 15025,
   "handle": "AS-BARTOW",
-  "description": "City of Bartow",
   "subnets": {
     "ipv4": [
       "162.223.26.0/23"

@@ -1,4 +1,3 @@
 # AS14776 (YAHOO)
-# Yahoo Holdings Inc
 #
 2001:4998:20::/48

@@ -1,7 +1,6 @@
 {
   "asn": 14237,
   "handle": "BEAMSPEED1",
-  "description": "Beamspeed LLC",
   "subnets": {
     "ipv4": [
       "38.57.179.0/24",

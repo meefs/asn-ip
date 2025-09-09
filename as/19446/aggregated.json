@@ -1,7 +1,6 @@
 {
   "asn": 19446,
   "handle": "3ZCANADA-01",
-  "description": "3Z Canada",
   "subnets": {
     "ipv4": [
       "66.78.46.0/24",

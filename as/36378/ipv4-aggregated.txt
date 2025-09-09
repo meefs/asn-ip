@@ -1,5 +1,4 @@
 # AS36378 (NYIT-AS)
-# New York Institute of Technology
 #
 64.29.24.0/21
 64.35.176.0/20

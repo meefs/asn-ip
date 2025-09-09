@@ -1,5 +1,4 @@
 # AS14513 (DMACC)
-# Des Moines Area Community College
 #
 161.210.0.0/24
 161.210.47.0/24

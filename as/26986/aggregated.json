@@ -1,7 +1,6 @@
 {
   "asn": 26986,
   "handle": "ESI-CANADA",
-  "description": "ESI Canada",
   "subnets": {
     "ipv4": [
       "199.249.175.0/24",

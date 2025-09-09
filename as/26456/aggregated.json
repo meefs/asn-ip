@@ -1,7 +1,6 @@
 {
   "asn": 26456,
   "handle": "JHASN-26456",
-  "description": "John Hancock Life Insurance Company (U.S.A.)",
   "subnets": {
     "ipv4": [],
     "ipv6": []

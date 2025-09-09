@@ -1,7 +1,6 @@
 {
   "asn": 33125,
   "handle": "BUGTUSSEL",
-  "description": "Bug Tussel Wireless",
   "subnets": {
     "ipv4": [
       "38.225.68.0/22",

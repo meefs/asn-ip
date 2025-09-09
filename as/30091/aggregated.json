@@ -1,7 +1,6 @@
 {
   "asn": 30091,
   "handle": "ACCESS-CABLE",
-  "description": "Access Cable Television Inc",
   "subnets": {
     "ipv4": [
       "12.165.86.0/23",

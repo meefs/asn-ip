@@ -1,3 +1,2 @@
 # AS29758 (SAMBATV-LAS)
-# Samba TV Inc
 #

@@ -1,7 +1,6 @@
 {
   "asn": 32111,
-  "handle": "CGSJ",
-  "description": "CITY GROUP SERVICE JAPAN LIMITED",
+  "handle": "CITIGROUP-JAPAN",
   "subnets": {
     "ipv4": [
       "192.193.5.0/24",

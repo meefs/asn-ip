@@ -1,5 +1,4 @@
 # AS27563 (SEGRA-UNITY)
-# Spirit Communications
 #
 206.74.16.0/24
 206.74.69.0/24

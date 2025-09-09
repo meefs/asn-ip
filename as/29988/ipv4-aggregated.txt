@@ -1,5 +1,4 @@
 # AS29988 (RCC-RDC-AS)
-# Rogers Communications Canada Inc
 #
 66.244.217.0/24
 72.2.22.0/24

@@ -1,7 +1,6 @@
 {
   "asn": 22349,
   "handle": "ASN-DCSCORP",
-  "description": "DCS Corporation",
   "subnets": {
     "ipv4": [
       "65.114.154.0/23",

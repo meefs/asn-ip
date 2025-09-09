@@ -1,5 +1,4 @@
 # AS6142 (SUN-JAVA)
-# Oracle Corporation
 #
 64.39.98.0/23
 74.85.146.0/24

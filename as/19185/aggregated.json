@@ -1,7 +1,5 @@
 {
   "asn": 19185,
-  "handle": "CITY-OF-MESA",
-  "description": "City of Mesa",
   "subnets": {
     "ipv4": [
       "199.101.32.0/21",

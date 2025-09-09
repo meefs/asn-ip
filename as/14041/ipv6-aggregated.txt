@@ -1,4 +1,3 @@
 # AS14041 (AS14041)
-# University Corporation for Atmospheric Research
 #
 2001:468:500::/48

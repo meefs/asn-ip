@@ -1,7 +1,6 @@
 {
   "asn": 20103,
   "handle": "VALMONT-INDUSTRIES",
-  "description": "Valmont Industries",
   "subnets": {
     "ipv4": [
       "38.65.240.0/24",

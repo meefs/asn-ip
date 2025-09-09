@@ -1,7 +1,6 @@
 {
   "asn": 14871,
   "handle": "DKM11-ARIN",
-  "description": "The Reynolds and Reynolds Company",
   "subnets": {
     "ipv4": [
       "205.157.229.0/24"

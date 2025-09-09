@@ -1,7 +1,6 @@
 {
   "asn": 11246,
   "handle": "AILUJ-AS-A",
-  "description": "Ailuj Inc",
   "subnets": {
     "ipv4": [
       "64.93.76.0/22"

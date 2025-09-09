@@ -1,7 +1,6 @@
 {
   "asn": 11769,
   "handle": "RJ-SCHINNER",
-  "description": "RJ Schinner Co",
   "subnets": {
     "ipv4": [
       "8.37.27.0/24"

@@ -1,7 +1,7 @@
 {
   "asn": 63781,
-  "handle": "KFNET-AS",
-  "description": "Kobayashi Family Net LLP",
+  "handle": "RESERVED",
+  "description": "JPNIC-2Byte-ASBLOCK-AP",
   "subnets": {
     "ipv4": [
       "103.143.136.0/23"

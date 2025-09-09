@@ -1,3 +1,2 @@
 # AS1358 (HNSNET-AS)
-# Hughes Network Systems Inc
 #

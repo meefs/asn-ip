@@ -1,5 +1,4 @@
 # AS1767 (ILIGHT-NET)
-# Indiana Higher Education Telecommunication System (IHETS)
 #
 64.189.120.0/22
 152.228.0.0/19

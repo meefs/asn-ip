@@ -1,3 +1,2 @@
 # AS33200 (JABIL-AS-SILU-PH)
-# Jabil
 #

@@ -1,7 +1,6 @@
 {
   "asn": 23019,
   "handle": "BGP1-BOH",
-  "description": "BANK OF HAWAII",
   "subnets": {
     "ipv4": [
       "8.3.28.0/24",

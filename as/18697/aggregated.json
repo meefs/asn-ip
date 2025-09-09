@@ -1,7 +1,6 @@
 {
   "asn": 18697,
   "handle": "AS18697",
-  "description": "GREEN MOUNTAIN POWER CORPORATION",
   "subnets": {
     "ipv4": [
       "170.46.0.0/16",

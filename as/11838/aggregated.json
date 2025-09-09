@@ -1,7 +1,6 @@
 {
   "asn": 11838,
   "handle": "HGTC-ASN",
-  "description": "Horry-Georgetown Technical College",
   "subnets": {
     "ipv4": [
       "165.166.202.0/23",

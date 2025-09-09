@@ -1,7 +1,6 @@
 {
   "asn": 32140,
   "handle": "JEWELRY-TELEVISION",
-  "description": "Jewelry Television",
   "subnets": {
     "ipv4": [
       "206.225.28.0/24"

@@ -1,5 +1,4 @@
 # AS23470 (RELIABLESITE)
-# ReliableSite.Net LLC
 #
 2407:9d00:10::/48
 2602:f7f8:6::/48

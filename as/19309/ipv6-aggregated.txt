@@ -1,3 +1,2 @@
 # AS19309 (WILLIAMSON-MEDICAL-CENTER-AS)
-# Williamson Medical Center
 #

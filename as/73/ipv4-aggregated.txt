@@ -1,5 +1,4 @@
 # AS73 (WASHINGTON-AS)
-# University of Washington
 #
 69.91.192.0/18
 108.179.140.0/22

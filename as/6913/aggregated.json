@@ -1,7 +1,6 @@
 {
   "asn": 6913,
   "handle": "HCSNET-ASNBLK",
-  "description": "Hayes Computer Systems",
   "subnets": {
     "ipv4": [
       "207.156.4.0/24",

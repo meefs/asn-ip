@@ -1,7 +1,6 @@
 {
   "asn": 19160,
   "handle": "ATGL-AS",
-  "description": "Apex Tool Group LLC",
   "subnets": {
     "ipv4": [
       "199.115.148.0/23",

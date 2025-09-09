@@ -1,7 +1,6 @@
 {
   "asn": 33459,
   "handle": "EVAULT-AS",
-  "description": "Open Text Corporation",
   "subnets": {
     "ipv4": [
       "37.203.44.0/23",

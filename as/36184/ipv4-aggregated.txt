@@ -1,5 +1,4 @@
 # AS36184 (VIRTU-FINANCIAL)
-# Virtu Financial Operating LLC
 #
 66.119.235.0/24
 66.119.236.0/23

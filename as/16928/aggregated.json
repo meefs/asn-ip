@@ -1,7 +1,6 @@
 {
   "asn": 16928,
   "handle": "UTCNET",
-  "description": "United Technologies Corp",
   "subnets": {
     "ipv4": [
       "159.82.0.0/16",

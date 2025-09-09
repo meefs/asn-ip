@@ -1,7 +1,6 @@
 {
   "asn": 22844,
   "handle": "TRADERJOE",
-  "description": "TRADER JOE\u0027S COMPANY",
   "subnets": {
     "ipv4": [
       "208.67.213.0/24",

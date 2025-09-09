@@ -1,7 +1,6 @@
 {
   "asn": 40035,
   "handle": "HASTINGS-INSURANCE-CO",
-  "description": "Hastings Insurance Company",
   "subnets": {
     "ipv4": [
       "199.204.188.0/22"

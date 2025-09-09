@@ -1,3 +1,2 @@
 # AS39942 (LIU-AS)
-# Lincoln Intermediate Unit 12
 #

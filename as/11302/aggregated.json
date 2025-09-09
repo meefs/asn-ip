@@ -1,7 +1,6 @@
 {
   "asn": 11302,
   "handle": "BSTAR",
-  "description": "Brightstar Global Solutions Corporation",
   "subnets": {
     "ipv4": [
       "192.156.100.0/23",

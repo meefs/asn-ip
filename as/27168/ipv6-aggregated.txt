@@ -1,3 +1,2 @@
 # AS27168 (AS-MAX)
-# Cogeco Connexion Inc
 #

@@ -1,7 +1,6 @@
 {
   "asn": 1002,
   "handle": "BYTEFILTER-AS",
-  "description": "Bytefilter LLC",
   "subnets": {
     "ipv4": [
       "23.137.56.0/23",

@@ -1,7 +1,6 @@
 {
   "asn": 6401,
   "handle": "ZAYO-CAN-6401",
-  "description": "Zayo Bandwidth",
   "subnets": {
     "ipv4": [
       "74.216.108.0/24",

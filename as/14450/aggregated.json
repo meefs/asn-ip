@@ -1,7 +1,6 @@
 {
   "asn": 14450,
   "handle": "GEICO01",
-  "description": "GEICO",
   "subnets": {
     "ipv4": [
       "162.217.36.0/24",

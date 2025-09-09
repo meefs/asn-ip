@@ -1,7 +1,6 @@
 {
   "asn": 33039,
   "handle": "UNIFYMEDIA",
-  "description": "Unify Media Ltd",
   "subnets": {
     "ipv4": [
       "23.173.104.0/24",

@@ -1,4 +1,3 @@
 # AS33037 (ANTHEMCONNECT)
-# Anthem Broadband
 #
 38.58.196.0/24

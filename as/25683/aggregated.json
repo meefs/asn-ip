@@ -1,7 +1,6 @@
 {
   "asn": 25683,
   "handle": "FFB-NET-ASN",
-  "description": "First Financial Bank",
   "subnets": {
     "ipv4": [
       "199.89.222.0/24",

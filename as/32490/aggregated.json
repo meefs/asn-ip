@@ -1,7 +1,6 @@
 {
   "asn": 32490,
   "handle": "HI-SPEED-US",
-  "description": "South Central Communications Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

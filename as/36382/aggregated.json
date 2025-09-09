@@ -1,7 +1,6 @@
 {
   "asn": 36382,
   "handle": "QUIXLY",
-  "description": "Quixly",
   "subnets": {
     "ipv4": [
       "23.185.24.0/24"

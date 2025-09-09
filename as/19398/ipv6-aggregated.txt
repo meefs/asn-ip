@@ -1,3 +1,2 @@
 # AS19398 (TENET-HEALTHCARE-ASN-01)
-# Tenet HealthSystem Medical Inc
 #

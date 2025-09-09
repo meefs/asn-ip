@@ -1,7 +1,6 @@
 {
   "asn": 32201,
   "handle": "HUSKY-TECHNOLOGIES",
-  "description": "Husky Technologies",
   "subnets": {
     "ipv4": [
       "142.46.50.0/24",

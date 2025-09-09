@@ -1,7 +1,6 @@
 {
   "asn": 40187,
   "handle": "GIGSTREEM-WARP2BIZ",
-  "description": "GiGstreem",
   "subnets": {
     "ipv4": [
       "199.193.224.0/22",

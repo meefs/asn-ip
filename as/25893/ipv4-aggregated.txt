@@ -1,5 +1,4 @@
 # AS25893 (WATTAGE-01)
-# Wattage Hosting LLC
 #
 45.38.53.0/24
 45.38.141.0/24

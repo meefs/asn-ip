@@ -1,5 +1,4 @@
 # AS11506 (XSIGO-HQ-ASN)
-# Oracle Corporation
 #
 2603:c04c::/39
 2603:c04c:1000::/38

@@ -1,3 +1,2 @@
 # AS14497 (BITREFINERY-1)
-# Bit Refinery LLC
 #

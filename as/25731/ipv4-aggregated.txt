@@ -1,5 +1,4 @@
 # AS25731 (KNOX-BOX-NETWORKS)
-# Knox Box Networks
 #
 23.145.216.0/24
 44.56.128.0/24

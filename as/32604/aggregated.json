@@ -1,7 +1,6 @@
 {
   "asn": 32604,
   "handle": "UWALKIN",
-  "description": "uwalkin IT Solutions",
   "subnets": {
     "ipv4": [
       "208.91.100.0/24"

@@ -1,4 +1,3 @@
 # AS16842 (5DL-AS)
-# 5Nines Data LLC
 #
 2607:f848::/32

@@ -1,7 +1,6 @@
 {
   "asn": 5062,
   "handle": "APPLI-39-5062",
-  "description": "Applied Microsystems Inc",
   "subnets": {
     "ipv4": [
       "167.234.39.0/24"

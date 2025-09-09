@@ -1,7 +1,6 @@
 {
   "asn": 6595,
   "handle": "DODDSEUR",
-  "description": "U.S. Department of Defense Education Activity",
   "subnets": {
     "ipv4": [
       "204.218.128.0/23",

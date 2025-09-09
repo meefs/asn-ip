@@ -1,7 +1,6 @@
 {
   "asn": 27507,
   "handle": "XTREME-INTERNET",
-  "description": "Xtreme Internet",
   "subnets": {
     "ipv4": [
       "23.156.96.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 23329,
   "handle": "AS23329",
-  "description": "Crown Castle Fiber LLC",
   "subnets": {
     "ipv4": [
       "206.226.130.0/24",

@@ -1,7 +1,6 @@
 {
   "asn": 33667,
   "handle": "CMCS",
-  "description": "Comcast Cable Communications LLC",
   "subnets": {
     "ipv4": [
       "50.203.5.0/24",

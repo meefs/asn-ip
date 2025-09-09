@@ -1,5 +1,4 @@
 # AS19999 (UNIONASN)
-# Union College
 #
 69.80.186.0/24
 76.78.88.0/24

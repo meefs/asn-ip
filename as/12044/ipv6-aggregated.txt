@@ -1,3 +1,2 @@
 # AS12044 (SCTCNET)
-# Willamette Valley Internet
 #

@@ -1,7 +1,6 @@
 {
   "asn": 36861,
   "handle": "AS36861",
-  "description": "RWJBarnabas Health Inc",
   "subnets": {
     "ipv4": [
       "204.58.156.0/22",

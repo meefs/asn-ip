@@ -1,7 +1,6 @@
 {
   "asn": 26821,
   "handle": "ATVIVO-ASN",
-  "description": "Atvivo LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

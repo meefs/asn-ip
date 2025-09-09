@@ -1,3 +1,2 @@
 # AS1908 (DNIC-AS-01908)
-# DoD Network Information Center
 #

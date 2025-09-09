@@ -1,4 +1,3 @@
 # AS26262 (RWIFI-AS01)
-# Circle City Internet
 #
 23.189.184.0/24

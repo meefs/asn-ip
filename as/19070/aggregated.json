@@ -1,7 +1,6 @@
 {
   "asn": 19070,
   "handle": "EIUNET",
-  "description": "Eastern Illinois University",
   "subnets": {
     "ipv4": [
       "139.67.0.0/16"

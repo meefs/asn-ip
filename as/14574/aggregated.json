@@ -1,7 +1,6 @@
 {
   "asn": 14574,
   "handle": "RTCCOM",
-  "description": "RTC Communications",
   "subnets": {
     "ipv4": [
       "168.75.192.0/20",

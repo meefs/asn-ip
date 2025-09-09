@@ -1,7 +1,6 @@
 {
   "asn": 36519,
   "handle": "CISCO-TTNA",
-  "description": "CISCO SYSTEMS INC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

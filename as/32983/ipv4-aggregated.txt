@@ -1,3 +1,2 @@
 # AS32983 (CORELIGHTNET-GOVCLOUD)
-# Corelight Inc
 #

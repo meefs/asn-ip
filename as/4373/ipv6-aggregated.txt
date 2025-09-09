@@ -1,3 +1,2 @@
 # AS4373 (OCLC-AS)
-# Online Computer Library Center
 #

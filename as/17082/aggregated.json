@@ -1,7 +1,6 @@
 {
   "asn": 17082,
   "handle": "SMART-CITY-MBCC",
-  "description": "SMART CITY NETWORKS LIMITED PARTNERSHIP",
   "subnets": {
     "ipv4": [
       "23.92.200.0/22",

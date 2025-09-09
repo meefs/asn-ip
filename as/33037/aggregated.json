@@ -1,7 +1,6 @@
 {
   "asn": 33037,
   "handle": "ANTHEMCONNECT",
-  "description": "Anthem Broadband",
   "subnets": {
     "ipv4": [
       "38.58.196.0/24"

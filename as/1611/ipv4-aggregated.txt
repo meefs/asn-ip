@@ -1,5 +1,4 @@
 # AS1611 (MABELTEL)
-# Mabel Cooperative Telephone Company
 #
 66.45.35.0/24
 69.173.170.0/23

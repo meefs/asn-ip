@@ -1,5 +1,4 @@
 # AS14951 (VMCNET)
-# Vulcan Materials Company
 #
 205.235.112.0/24
 205.235.114.0/23

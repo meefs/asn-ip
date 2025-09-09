@@ -1,7 +1,6 @@
 {
   "asn": 11049,
   "handle": "DYN",
-  "description": "Oracle Corporation",
   "subnets": {
     "ipv4": [
       "64.181.148.0/23",

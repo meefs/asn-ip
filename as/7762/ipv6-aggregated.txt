@@ -1,3 +1,2 @@
 # AS7762 (OPENTEXT)
-# Micro Focus
 #

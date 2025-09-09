@@ -1,7 +1,6 @@
 {
   "asn": 40238,
   "handle": "JOSTENS",
-  "description": "Jostens",
   "subnets": {
     "ipv4": [
       "71.13.153.0/24",

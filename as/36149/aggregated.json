@@ -1,7 +1,6 @@
 {
   "asn": 36149,
   "handle": "HAWAIIAN-TELCOM",
-  "description": "Hawaiian Telcom Services Company Inc",
   "subnets": {
     "ipv4": [
       "64.75.128.0/17",

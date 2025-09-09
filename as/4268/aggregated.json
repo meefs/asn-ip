@@ -1,7 +1,6 @@
 {
   "asn": 4268,
   "handle": "CERNET-ASN-BLOCK",
-  "description": "California Education and Research Federation Network",
   "subnets": {
     "ipv4": [],
     "ipv6": []

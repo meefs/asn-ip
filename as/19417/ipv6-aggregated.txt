@@ -1,3 +1,2 @@
 # AS19417 (CENTR-65-ASN)
-# Centra-Larm Monitoring Inc
 #

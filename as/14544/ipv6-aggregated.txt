@@ -1,5 +1,4 @@
 # AS14544 (RETEK)
-# Oracle Corporation
 #
 2603:c050::/40
 2603:c050:1000::/39

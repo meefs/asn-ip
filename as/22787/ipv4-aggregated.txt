@@ -1,5 +1,4 @@
 # AS22787 (ARRIS)
-# ARRIS Enterprises LLC
 #
 134.242.24.0/24
 134.242.90.0/23

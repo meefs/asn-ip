@@ -1,3 +1,2 @@
 # AS29718 (TNEMEC-AS)
-# Tnemec Company Incorporated
 #

@@ -1,3 +1,2 @@
 # AS26506 (LLNW-SPS)
-# Limelight Networks Inc
 #

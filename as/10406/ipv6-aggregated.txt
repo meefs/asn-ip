@@ -1,3 +1,2 @@
 # AS10406 (ASN-TEKTRONIX)
-# Tektronix Inc
 #

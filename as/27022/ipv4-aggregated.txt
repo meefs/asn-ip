@@ -1,5 +1,4 @@
 # AS27022 (SIYEH-ASN-1)
-# Siyeh Corporation
 #
 66.81.136.0/21
 158.62.192.0/22

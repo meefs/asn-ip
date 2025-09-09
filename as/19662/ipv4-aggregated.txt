@@ -1,5 +1,4 @@
 # AS19662 (UNISERVE-ONLINE)
-# Uniserve On Line
 #
 198.161.21.0/24
 198.162.16.0/22

@@ -1,5 +1,4 @@
 # AS11589 (STOWE-COMMUNICATIONS)
-# Stowe Communications LLC
 #
 52.124.4.0/22
 64.94.148.0/24

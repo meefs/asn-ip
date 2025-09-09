@@ -1,7 +1,6 @@
 {
   "asn": 14536,
   "handle": "ASN-SOL",
-  "description": "sol.net Network Services",
   "subnets": {
     "ipv4": [
       "206.55.64.0/20"

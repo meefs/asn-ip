@@ -1,5 +1,4 @@
 # AS4249 (LILLY-AS)
-# Eli Lilly and Company
 #
 40.0.0.0/14
 40.5.0.0/16

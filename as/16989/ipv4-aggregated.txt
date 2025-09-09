@@ -1,5 +1,4 @@
 # AS16989 (UTHSC)
-# The University of Tennessee Health Science Center
 #
 128.169.0.0/16
 160.37.0.0/16

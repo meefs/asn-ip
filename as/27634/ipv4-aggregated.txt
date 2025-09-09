@@ -1,5 +1,4 @@
 # AS27634 (MICRODG-AS)
-# Microdynamics Corporation
 #
 12.158.98.0/24
 170.62.34.0/23

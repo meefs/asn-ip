@@ -1,7 +1,6 @@
 {
   "asn": 22295,
   "handle": "ADVIN",
-  "description": "Advin Services LLC",
   "subnets": {
     "ipv4": [
       "23.137.105.0/24",

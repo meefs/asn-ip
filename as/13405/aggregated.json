@@ -1,7 +1,6 @@
 {
   "asn": 13405,
   "handle": "ARLINA-NET",
-  "description": "Feather IT LLC",
   "subnets": {
     "ipv4": [
       "23.128.148.0/24"

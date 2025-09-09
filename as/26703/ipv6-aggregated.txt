@@ -1,3 +1,2 @@
 # AS26703 (KALONA-TELCO-AS)
-# Kalona Cooperative Telephone Company
 #

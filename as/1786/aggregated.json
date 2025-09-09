@@ -1,7 +1,6 @@
 {
   "asn": 1786,
   "handle": "AIXSERV-AS",
-  "description": "IBM",
   "subnets": {
     "ipv4": [
       "170.225.221.0/24"

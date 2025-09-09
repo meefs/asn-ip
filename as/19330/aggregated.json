@@ -1,7 +1,6 @@
 {
   "asn": 19330,
   "handle": "TRITAN-INTERNET-LLC",
-  "description": "Tritan Internet LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": [

@@ -1,3 +1,2 @@
 # AS2046 (DNIC-AS-02046)
-# DoD Network Information Center
 #

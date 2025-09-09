@@ -1,7 +1,6 @@
 {
   "asn": 35251,
   "handle": "ANTI-DDOS",
-  "description": "NetLab Global",
   "subnets": {
     "ipv4": [
       "45.138.68.0/22",

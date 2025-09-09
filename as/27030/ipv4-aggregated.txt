@@ -1,3 +1,2 @@
 # AS27030 (USCG-AS)
-# United States Coast Guard
 #

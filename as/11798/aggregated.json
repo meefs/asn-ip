@@ -1,7 +1,6 @@
 {
   "asn": 11798,
   "handle": "ACEDATACENTERS-AS-1",
-  "description": "Ace Data Centers Inc",
   "subnets": {
     "ipv4": [
       "199.58.196.0/22"

@@ -1,4 +1,3 @@
 # AS27398 (AITSL-27398)
-# Alyeska Information Technology Services LLC
 #
 2602:fed5::/46

@@ -1,7 +1,6 @@
 {
   "asn": 40168,
   "handle": "BATTPLUS",
-  "description": "Batteries Plus LLC",
   "subnets": {
     "ipv4": [],
     "ipv6": []

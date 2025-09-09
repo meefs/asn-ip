@@ -1,7 +1,6 @@
 {
   "asn": 14687,
   "handle": "NLG-ASN-1",
-  "description": "National Life Insurance Company",
   "subnets": {
     "ipv4": [
       "204.115.121.0/24"

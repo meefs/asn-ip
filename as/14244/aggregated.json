@@ -1,7 +1,6 @@
 {
   "asn": 14244,
   "handle": "AS-NSI-GLOBAL",
-  "description": "NSI Hosting",
   "subnets": {
     "ipv4": [
       "64.191.212.0/24",

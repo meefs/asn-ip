@@ -1,5 +1,4 @@
 # AS15162 (NETMINDERS-SERVER-HOSTING)
-# Netminders Server Hosting
 #
 104.255.152.0/22
 198.144.157.0/24

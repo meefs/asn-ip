@@ -1,7 +1,6 @@
 {
   "asn": 30359,
   "handle": "AVIDKC",
-  "description": "Avid Communications LLC",
   "subnets": {
     "ipv4": [
       "162.221.240.0/22",

@@ -1,5 +1,4 @@
 # AS3455 (WAUSAU-INS)
-# Liberty Mutual Group
 #
 8.26.58.0/24
 63.77.34.0/24

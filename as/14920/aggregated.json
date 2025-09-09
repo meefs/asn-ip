@@ -1,7 +1,6 @@
 {
   "asn": 14920,
   "handle": "EVERTEC",
-  "description": "Evertec",
   "subnets": {
     "ipv4": [
       "64.178.200.0/24",

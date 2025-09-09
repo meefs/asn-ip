@@ -1,5 +1,4 @@
 # AS30449 (AZSTATE)
-# State of Arizona
 #
 159.36.0.0/16
 159.87.0.0/16

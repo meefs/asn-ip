@@ -1,5 +1,4 @@
 # AS18715 (NYPA)
-# New York Power Authority
 #
 148.144.0.0/24
 148.144.9.0/24

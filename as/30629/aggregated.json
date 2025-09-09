@@ -1,7 +1,6 @@
 {
   "asn": 30629,
   "handle": "LCLARK",
-  "description": "Lewis \u0026 Clark College",
   "subnets": {
     "ipv4": [
       "192.54.243.0/24"

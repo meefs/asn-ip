@@ -1,7 +1,6 @@
 {
   "asn": 16700,
   "handle": "CNSNEXT",
-  "description": "CNSNext",
   "subnets": {
     "ipv4": [
       "64.39.128.0/19",

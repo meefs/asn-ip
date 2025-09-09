@@ -1,3 +1,2 @@
 # AS32593 (SDL-158-32593)
-# SYnthetic Development LLC
 #

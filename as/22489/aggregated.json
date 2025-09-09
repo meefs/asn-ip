@@ -1,7 +1,6 @@
 {
   "asn": 22489,
   "handle": "DATABANK-CASTLEACCESS",
-  "description": "Castle Access Inc",
   "subnets": {
     "ipv4": [
       "23.133.152.0/24",

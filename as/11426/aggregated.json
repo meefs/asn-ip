@@ -1,7 +1,6 @@
 {
   "asn": 11426,
   "handle": "TWC-11426-CAROLINAS",
-  "description": "Charter Communications Inc",
   "subnets": {
     "ipv4": [
       "24.25.0.0/18",

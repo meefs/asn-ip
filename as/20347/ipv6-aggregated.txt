@@ -1,3 +1,2 @@
 # AS20347 (GFN-US)
-# Nvidia Corporation
 #

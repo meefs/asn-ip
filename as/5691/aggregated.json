@@ -1,7 +1,6 @@
 {
   "asn": 5691,
   "handle": "MITRE-AS-5",
-  "description": "The MITRE Corporation",
   "subnets": {
     "ipv4": [
       "192.12.24.0/24",

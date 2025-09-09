@@ -1,7 +1,6 @@
 {
   "asn": 26298,
   "handle": "NET-BCBSF-ASN",
-  "description": "Florida Blue",
   "subnets": {
     "ipv4": [
       "67.59.112.0/22",

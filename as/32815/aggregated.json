@@ -1,7 +1,6 @@
 {
   "asn": 32815,
   "handle": "GOY-ASN1",
-  "description": "Government of Yukon",
   "subnets": {
     "ipv4": [
       "199.247.128.0/20",

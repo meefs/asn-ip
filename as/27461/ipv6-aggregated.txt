@@ -1,3 +1,2 @@
 # AS27461 (POMEROY-ASN)
-# Pomeroy Technologies LLC
 #

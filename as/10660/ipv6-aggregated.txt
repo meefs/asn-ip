@@ -1,3 +1,2 @@
 # AS10660 (SYSNET-AS)
-# SYSNET Communications
 #

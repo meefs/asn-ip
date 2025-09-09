@@ -1,7 +1,6 @@
 {
   "asn": 14351,
   "handle": "SOUTHWESTERN-EDU",
-  "description": "Southwestern University",
   "subnets": {
     "ipv4": [
       "76.78.10.0/24",

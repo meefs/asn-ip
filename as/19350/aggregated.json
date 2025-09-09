@@ -1,7 +1,6 @@
 {
   "asn": 19350,
   "handle": "CENTENNIALCOLLEGE",
-  "description": "Centennial College",
   "subnets": {
     "ipv4": [
       "192.139.10.0/24",

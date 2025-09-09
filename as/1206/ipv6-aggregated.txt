@@ -1,3 +1,2 @@
 # AS1206 (PSCNET-HS-AS)
-# Pittsburgh Supercomputing Center
 #

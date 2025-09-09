@@ -1,7 +1,6 @@
 {
   "asn": 30043,
   "handle": "RBAND-AS30043",
-  "description": "ResortInternet",
   "subnets": {
     "ipv4": [
       "64.110.0.0/22",

@@ -1,5 +1,4 @@
 # AS10372 (WELLSFARGO-10372-10376)
-# Wells Fargo & Company
 #
 151.151.96.0/19
 159.37.112.0/20

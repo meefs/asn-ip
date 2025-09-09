@@ -1,3 +1,2 @@
 # AS16991 (CBTS-AS-DC1)
-# Cincinnati Bell Technology Solutions
 #

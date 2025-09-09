@@ -1,7 +1,6 @@
 {
   "asn": 25721,
   "handle": "AS-CHICAGO",
-  "description": "Morningstar Inc",
   "subnets": {
     "ipv4": [],
     "ipv6": []

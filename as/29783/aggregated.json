@@ -1,7 +1,6 @@
 {
   "asn": 29783,
   "handle": "AS29783",
-  "description": "Basswood Capital Management LLC",
   "subnets": {
     "ipv4": [
       "38.27.192.0/24"

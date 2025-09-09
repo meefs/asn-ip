@@ -1,7 +1,6 @@
 {
   "asn": 36706,
   "handle": "ATOS-CHARLOTTE",
-  "description": "Atos IT Solutions and Services Inc",
   "subnets": {
     "ipv4": [
       "50.58.74.0/24",

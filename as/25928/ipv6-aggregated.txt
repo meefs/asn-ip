@@ -1,3 +1,2 @@
 # AS25928 (AS-WISPER-LZR)
-# Wisper ISP LLC
 #

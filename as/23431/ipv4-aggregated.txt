@@ -1,5 +1,4 @@
 # AS23431 (AHSW-ROSEVILLE)
-# Adventist Health
 #
 204.61.224.0/23
 204.61.250.0/24

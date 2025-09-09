@@ -1,7 +1,6 @@
 {
   "asn": 4,
   "handle": "ISI-AS",
-  "description": "University of Southern California",
   "subnets": {
     "ipv4": [
       "43.240.64.0/24",

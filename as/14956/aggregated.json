@@ -1,7 +1,6 @@
 {
   "asn": 14956,
   "handle": "ROUTERHOSTING",
-  "description": "RouterHosting LLC",
   "subnets": {
     "ipv4": [
       "45.61.142.0/24",

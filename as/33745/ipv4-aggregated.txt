@@ -1,5 +1,4 @@
 # AS33745 (ATOS-BLYTHEWOOD)
-# Atos IT Solutions and Services Inc
 #
 64.132.136.0/23
 66.193.2.0/23
